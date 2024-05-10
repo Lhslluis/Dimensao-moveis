@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title>Requisitos_-_Sexta(1).xlsx</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="generator" content="pdftohtml 0.36"/>
+<meta name="author" content="luis Henrique"/>
+<meta name="date" content="2024-05-10T14:58:01+00:00"/>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<!-- Page 1 -->
+<a name="1"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft00{font-size:9px;font-family:CIDFont+F1;color:#000000;}
+	.ft01{font-size:9px;font-family:CIDFont+F2;color:#000000;}
+	.ft02{font-size:12px;font-family:CIDFont+F1;color:#000000;}
+	.ft03{font-size:9px;line-height:11px;font-family:CIDFont+F2;color:#000000;}
+-->
+</style>
+<div id="page1-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output001.png" alt="background image"/>
+<p style="position:absolute;top:99px;left:74px;white-space:nowrap" class="ft00">ITEM</p>
+<p style="position:absolute;top:99px;left:155px;white-space:nowrap" class="ft00">REQUISITOS</p>
+<p style="position:absolute;top:98px;left:458px;white-space:nowrap" class="ft00">DESCRIÇÃO</p>
+<p style="position:absolute;top:98px;left:743px;white-space:nowrap" class="ft00">RESPONSÁVEL</p>
+<p style="position:absolute;top:117px;left:69px;white-space:nowrap" class="ft01">RQF001</p>
+<p style="position:absolute;top:117px;left:113px;white-space:nowrap" class="ft01">Ajustes&#160;Manuais</p>
+<p style="position:absolute;top:117px;left:245px;white-space:nowrap" class="ft01">Possibilita&#160;aos&#160;usuários&#160;mover,&#160;girar&#160;e&#160;redimensionar&#160;os&#160;móveis&#160;dentro&#160;do&#160;espaço&#160;virtual&#160;para&#160;experimentar&#160;diferentes&#160;layouts.</p>
+<p style="position:absolute;top:122px;left:748px;white-space:nowrap" class="ft01">WELLINGTON</p>
+<p style="position:absolute;top:140px;left:69px;white-space:nowrap" class="ft01">RQF002</p>
+<p style="position:absolute;top:140px;left:113px;white-space:nowrap" class="ft01">Animação&#160;de&#160;Layouts</p>
+<p style="position:absolute;top:134px;left:245px;white-space:nowrap" class="ft03">Possibilita&#160;a&#160;criação&#160;de&#160;animações&#160;que&#160;demonstrem&#160;como&#160;os&#160;móveis&#160;se&#160;encaixam&#160;e&#160;se&#160;movem&#160;dentro&#160;do&#160;espaço,&#160;facilitando&#160;a&#160;<br/>compreensão&#160;do&#160;design&#160;final.</p>
+<p style="position:absolute;top:146px;left:761px;white-space:nowrap" class="ft01">LUCAS</p>
+<p style="position:absolute;top:164px;left:69px;white-space:nowrap" class="ft01">RQF003</p>
+<p style="position:absolute;top:158px;left:113px;white-space:nowrap" class="ft03">Assistência&#160;de&#160;Realidade&#160;<br/>Aumentada</p>
+<p style="position:absolute;top:158px;left:245px;white-space:nowrap" class="ft03">Oferecer&#160;assistência&#160;por&#160;meio&#160;de&#160;realidade&#160;aumentada&#160;para&#160;orientar&#160;os&#160;usuários&#160;na&#160;medição&#160;de&#160;espaços&#160;e&#160;posicionamento&#160;de&#160;<br/>móveis&#160;de&#160;forma&#160;precisa.</p>
+<p style="position:absolute;top:170px;left:748px;white-space:nowrap" class="ft01">WELLINGTON</p>
+<p style="position:absolute;top:187px;left:69px;white-space:nowrap" class="ft01">RQF004</p>
+<p style="position:absolute;top:187px;left:113px;white-space:nowrap" class="ft01">Catálogo&#160;de&#160;Móveis</p>
+<p style="position:absolute;top:182px;left:245px;white-space:nowrap" class="ft03">Disponibilizar&#160;um&#160;catálogo&#160;abrangente&#160;de&#160;móveis,&#160;organizado&#160;por&#160;categorias,&#160;estilos&#160;e&#160;marcas,&#160;para&#160;que&#160;os&#160;usuários&#160;possam&#160;<br/>escolher&#160;e&#160;adicionar&#160;aos&#160;seus&#160;projetos.</p>
+<p style="position:absolute;top:193px;left:748px;white-space:nowrap" class="ft01">WELLINGTON</p>
+<p style="position:absolute;top:211px;left:69px;white-space:nowrap" class="ft01">RQF005</p>
+<p style="position:absolute;top:211px;left:113px;white-space:nowrap" class="ft01">Colaboração&#160;em&#160;Tempo&#160;Real</p>
+<p style="position:absolute;top:205px;left:245px;white-space:nowrap" class="ft03">Permitir&#160;que&#160;múltiplos&#160;usuários&#160;colaborem&#160;em&#160;um&#160;projeto&#160;de&#160;design&#160;de&#160;interiores,&#160;visualizando&#160;e&#160;editando&#160;simultaneamente&#160;o&#160;<br/>mesmo&#160;espaço&#160;e&#160;móveis.</p>
+<p style="position:absolute;top:217px;left:748px;white-space:nowrap" class="ft01">WELLINGTON</p>
+<p style="position:absolute;top:235px;left:69px;white-space:nowrap" class="ft01">RQF006</p>
+<p style="position:absolute;top:235px;left:113px;white-space:nowrap" class="ft01">Comparação&#160;de&#160;Projetos</p>
+<p style="position:absolute;top:229px;left:245px;white-space:nowrap" class="ft03">Oferece&#160;a&#160;capacidade&#160;de&#160;comparar&#160;diferentes&#160;versões&#160;de&#160;um&#160;projeto&#160;lado&#160;a&#160;lado,&#160;para&#160;facilitar&#160;a&#160;análise&#160;de&#160;mudanças&#160;e&#160;melhorias&#160;<br/>ao&#160;longo&#160;do&#160;tempo.</p>
+<p style="position:absolute;top:240px;left:764px;white-space:nowrap" class="ft01">LUIZ</p>
+<p style="position:absolute;top:258px;left:69px;white-space:nowrap" class="ft01">RQF007</p>
+<p style="position:absolute;top:252px;left:113px;white-space:nowrap" class="ft03">Compatibilidade&#160;com&#160;Realidade&#160;<br/>Virtual</p>
+<p style="position:absolute;top:252px;left:245px;white-space:nowrap" class="ft03">Integra&#160;suporte&#160;para&#160;visualização&#160;e&#160;interação&#160;em&#160;ambientes&#160;de&#160;realidade&#160;virtual,&#160;oferecendo&#160;uma&#160;experiência&#160;mais&#160;imersiva&#160;aos&#160;<br/>usuários.</p>
+<p style="position:absolute;top:264px;left:764px;white-space:nowrap" class="ft01">LUIZ</p>
+<p style="position:absolute;top:282px;left:69px;white-space:nowrap" class="ft01">RQF008</p>
+<p style="position:absolute;top:282px;left:113px;white-space:nowrap" class="ft01">Compatibilidade&#160;com&#160;Smart&#160;Home</p>
+<p style="position:absolute;top:276px;left:245px;white-space:nowrap" class="ft03">Permite&#160;que&#160;o&#160;aplicativo&#160;se&#160;integre&#160;a&#160;dispositivos&#160;de&#160;automação&#160;residencial,&#160;como&#160;luzes&#160;inteligentes&#160;e&#160;termostatos,&#160;para&#160;ajustar&#160;o&#160;<br/>ambiente&#160;de&#160;acordo&#160;com&#160;o&#160;layout&#160;dos&#160;móveis&#160;selecionados.</p>
+<p style="position:absolute;top:288px;left:764px;white-space:nowrap" class="ft01">LUIZ</p>
+<p style="position:absolute;top:305px;left:69px;white-space:nowrap" class="ft01">RQF009</p>
+<p style="position:absolute;top:305px;left:113px;white-space:nowrap" class="ft01">Exportação&#160;de&#160;Projetos</p>
+<p style="position:absolute;top:299px;left:245px;white-space:nowrap" class="ft03">Oferece&#160;a&#160;capacidade&#160;de&#160;exportar&#160;projetos&#160;em&#160;formatos&#160;de&#160;arquivos&#160;populares,&#160;como&#160;imagens&#160;ou&#160;documentos&#160;PDF,&#160;para&#160;<br/>compartilhamento&#160;com&#160;clientes&#160;ou&#160;colegas.</p>
+<p style="position:absolute;top:311px;left:764px;white-space:nowrap" class="ft01">LUIZ</p>
+<p style="position:absolute;top:329px;left:69px;white-space:nowrap" class="ft01">RQF010</p>
+<p style="position:absolute;top:329px;left:113px;white-space:nowrap" class="ft01">Feedback&#160;dos&#160;Usuários</p>
+<p style="position:absolute;top:323px;left:245px;white-space:nowrap" class="ft03">Inclui&#160;um&#160;sistema&#160;de&#160;feedback&#160;para&#160;que&#160;os&#160;usuários&#160;possam&#160;enviar&#160;comentários,&#160;sugestões&#160;ou&#160;relatar&#160;problemas&#160;diretamente&#160;<br/>dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:335px;left:744px;white-space:nowrap" class="ft01">LUIS&#160;HENRIQUE</p>
+<p style="position:absolute;top:353px;left:69px;white-space:nowrap" class="ft01">RQF011</p>
+<p style="position:absolute;top:353px;left:113px;white-space:nowrap" class="ft01">Ferramentas&#160;de&#160;Anotação</p>
+<p style="position:absolute;top:347px;left:245px;white-space:nowrap" class="ft03">Inclui&#160;ferramentas&#160;de&#160;anotação&#160;que&#160;permitem&#160;aos&#160;usuários&#160;adicionar&#160;notas,&#160;textos&#160;ou&#160;marcações&#160;aos&#160;seus&#160;projetos&#160;para&#160;<br/>comunicação&#160;e&#160;referência&#160;futura.</p>
+<p style="position:absolute;top:358px;left:763px;white-space:nowrap" class="ft01">IGOR</p>
+<p style="position:absolute;top:376px;left:69px;white-space:nowrap" class="ft01">RQF012</p>
+<p style="position:absolute;top:370px;left:113px;white-space:nowrap" class="ft03">Geração&#160;de&#160;Projetos&#160;<br/>Personalizados</p>
+<p style="position:absolute;top:370px;left:245px;white-space:nowrap" class="ft03">Permitir&#160;que&#160;os&#160;usuários&#160;salvem&#160;e&#160;carreguem&#160;projetos&#160;personalizados,&#160;incluindo&#160;a&#160;disposição&#160;dos&#160;móveis&#160;e&#160;as&#160;medidas&#160;do&#160;espaço,&#160;<br/>para&#160;revisão&#160;e&#160;edição&#160;posterior.</p>
+<p style="position:absolute;top:382px;left:758px;white-space:nowrap" class="ft01">LUIS&#160;CO</p>
+<p style="position:absolute;top:400px;left:69px;white-space:nowrap" class="ft01">RQF013</p>
+<p style="position:absolute;top:394px;left:113px;white-space:nowrap" class="ft03">Geração&#160;de&#160;Relatórios&#160;de&#160;<br/>Orçamento</p>
+<p style="position:absolute;top:394px;left:245px;white-space:nowrap" class="ft03">Oferecer&#160;a&#160;capacidade&#160;de&#160;gerar&#160;relatórios&#160;detalhados&#160;de&#160;orçamento&#160;com&#160;base&#160;em&#160;móveis&#160;selecionados,&#160;materiais&#160;utilizados&#160;e&#160;<br/>custos&#160;estimados&#160;para&#160;cada&#160;projeto.</p>
+<p style="position:absolute;top:405px;left:758px;white-space:nowrap" class="ft01">LUIS&#160;CO</p>
+<p style="position:absolute;top:423px;left:69px;white-space:nowrap" class="ft01">RQF014</p>
+<p style="position:absolute;top:423px;left:113px;white-space:nowrap" class="ft01">Histórico&#160;de&#160;Revisões</p>
+<p style="position:absolute;top:417px;left:245px;white-space:nowrap" class="ft03">Manter&#160;um&#160;registro&#160;detalhado&#160;das&#160;revisões&#160;feitas&#160;em&#160;um&#160;projeto&#160;ao&#160;longo&#160;do&#160;tempo,&#160;permitindo&#160;aos&#160;usuários&#160;revisitar&#160;versões&#160;<br/>anteriores&#160;e&#160;acompanhar&#160;o&#160;progresso.</p>
+<p style="position:absolute;top:429px;left:758px;white-space:nowrap" class="ft01">LUIS&#160;CO</p>
+<p style="position:absolute;top:447px;left:69px;white-space:nowrap" class="ft01">RQF015</p>
+<p style="position:absolute;top:441px;left:113px;white-space:nowrap" class="ft03">Integração&#160;com&#160;Dispositivos&#160;<br/>Inteligentes</p>
+<p style="position:absolute;top:447px;left:245px;white-space:nowrap" class="ft01">Integrar&#160;o&#160;aplicativo&#160;com&#160;dispositivos&#160;inteligentes,&#160;como&#160;assistentes&#160;virtuais&#160;ou&#160;dispositivos</p>
+<p style="position:absolute;top:453px;left:758px;white-space:nowrap" class="ft01">LUIS&#160;CO</p>
+<p style="position:absolute;top:470px;left:69px;white-space:nowrap" class="ft01">RQF016</p>
+<p style="position:absolute;top:470px;left:113px;white-space:nowrap" class="ft01">Integração&#160;com&#160;Redes&#160;Sociais</p>
+<p style="position:absolute;top:464px;left:245px;white-space:nowrap" class="ft03">Permitir&#160;aos&#160;usuários&#160;compartilhar&#160;seus&#160;projetos&#160;diretamente&#160;em&#160;plataformas&#160;de&#160;redes&#160;sociais,&#160;como&#160;Facebook,&#160;Instagram,&#160;<br/>Pinterest,&#160;etc.</p>
+<p style="position:absolute;top:476px;left:761px;white-space:nowrap" class="ft01">LUCAS</p>
+<p style="position:absolute;top:494px;left:69px;white-space:nowrap" class="ft01">RQF017</p>
+<p style="position:absolute;top:488px;left:113px;white-space:nowrap" class="ft03">Integração&#160;de&#160;Catálogo&#160;de&#160;<br/>Materiais</p>
+<p style="position:absolute;top:488px;left:245px;white-space:nowrap" class="ft03">Integra&#160;um&#160;extenso&#160;catálogo&#160;de&#160;materiais&#160;e&#160;acabamentos&#160;para&#160;que&#160;os&#160;usuários&#160;possam&#160;personalizar&#160;os&#160;móveis&#160;e&#160;o&#160;ambiente&#160;<br/>conforme&#160;suas&#160;preferências.</p>
+<p style="position:absolute;top:500px;left:763px;white-space:nowrap" class="ft01">LIGIA</p>
+<p style="position:absolute;top:518px;left:69px;white-space:nowrap" class="ft01">RQF018</p>
+<p style="position:absolute;top:518px;left:113px;white-space:nowrap" class="ft01">Integração&#160;de&#160;Feedback&#160;3D</p>
+<p style="position:absolute;top:512px;left:245px;white-space:nowrap" class="ft03">Incorpora&#160;um&#160;sistema&#160;de&#160;feedback&#160;tridimensional&#160;que&#160;permite&#160;aos&#160;usuários&#160;avaliar&#160;a&#160;adequação&#160;e&#160;o&#160;posicionamento&#160;dos&#160;móveis&#160;<br/>no&#160;ambiente&#160;em&#160;tempo&#160;real.</p>
+<p style="position:absolute;top:523px;left:763px;white-space:nowrap" class="ft01">LIGIA</p>
+<p style="position:absolute;top:541px;left:69px;white-space:nowrap" class="ft01">RQF019</p>
+<p style="position:absolute;top:541px;left:113px;white-space:nowrap" class="ft01">Integração&#160;de&#160;Realidade&#160;Virtual</p>
+<p style="position:absolute;top:535px;left:245px;white-space:nowrap" class="ft03">Permitir&#160;aos&#160;usuários&#160;visualizar&#160;e&#160;interagir&#160;com&#160;os&#160;ambientes&#160;específicos&#160;em&#160;uma&#160;experiência&#160;de&#160;realidade&#160;virtual&#160;imersiva,&#160;<br/>proporcionando&#160;uma&#160;forma&#160;mais&#160;envolvente&#160;e&#160;detalhada&#160;de&#160;explorar&#160;e&#160;ajustar&#160;os&#160;layouts&#160;de&#160;móveis.</p>
+<p style="position:absolute;top:547px;left:763px;white-space:nowrap" class="ft01">LIGIA</p>
+<p style="position:absolute;top:565px;left:69px;white-space:nowrap" class="ft01">RQF020</p>
+<p style="position:absolute;top:565px;left:113px;white-space:nowrap" class="ft01">Medição&#160;de&#160;Espaços</p>
+<p style="position:absolute;top:559px;left:245px;white-space:nowrap" class="ft03">Permite&#160;que&#160;os&#160;usuários&#160;capturem&#160;e&#160;meçam&#160;espaços&#160;físicos&#160;utilizando&#160;a&#160;câmera&#160;do&#160;dispositivo&#160;móvel&#160;ou&#160;sensores&#160;de&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:570px;left:763px;white-space:nowrap" class="ft01">LIGIA</p>
+<p style="position:absolute;top:588px;left:69px;white-space:nowrap" class="ft01">RQF021</p>
+<p style="position:absolute;top:582px;left:113px;white-space:nowrap" class="ft03">Notificações&#160;e&#160;Lembretes&#160;de&#160;<br/>projetos&#160;pendentes</p>
+<p style="position:absolute;top:588px;left:245px;white-space:nowrap" class="ft01">Implemente&#160;notificações&#160;e&#160;lembretes&#160;para&#160;ajudar&#160;os&#160;usuários&#160;a&#160;monitorar&#160;seus&#160;projetos&#160;pendentes</p>
+<p style="position:absolute;top:594px;left:761px;white-space:nowrap" class="ft01">LUCAS</p>
+<p style="position:absolute;top:612px;left:69px;white-space:nowrap" class="ft01">RQF022</p>
+<p style="position:absolute;top:612px;left:113px;white-space:nowrap" class="ft01">Personalização&#160;de&#160;Móveis</p>
+<p style="position:absolute;top:606px;left:245px;white-space:nowrap" class="ft03">Permite&#160;que&#160;os&#160;usuários&#160;personalizem&#160;móveis&#160;selecionados&#160;dentro&#160;do&#160;aplicativo,&#160;ajustando&#160;núcleos,&#160;materiais,&#160;acabamentos&#160;e&#160;<br/>dimensões&#160;para&#160;atender&#160;às&#160;suas&#160;preferências&#160;e&#160;necessidades&#160;específicas&#160;de&#160;design.</p>
+<p style="position:absolute;top:618px;left:763px;white-space:nowrap" class="ft01">IGOR</p>
+<p style="position:absolute;top:635px;left:69px;white-space:nowrap" class="ft01">RQF023</p>
+<p style="position:absolute;top:635px;left:113px;white-space:nowrap" class="ft01">Reconhecimento&#160;de&#160;Padrões</p>
+<p style="position:absolute;top:630px;left:245px;white-space:nowrap" class="ft03">Implementar&#160;um&#160;recurso&#160;de&#160;reconhecimento&#160;de&#160;padrões&#160;que&#160;sugira&#160;automaticamente&#160;disposições&#160;de&#160;móveis&#160;com&#160;base&#160;em&#160;<br/>padrões&#160;comuns&#160;de&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:641px;left:763px;white-space:nowrap" class="ft01">IGOR</p>
+<p style="position:absolute;top:659px;left:69px;white-space:nowrap" class="ft01">RQF024</p>
+<p style="position:absolute;top:659px;left:113px;white-space:nowrap" class="ft01">Simulação&#160;de&#160;Iluminação</p>
+<p style="position:absolute;top:653px;left:245px;white-space:nowrap" class="ft03">Inclui&#160;uma&#160;ferramenta&#160;de&#160;simulação&#160;de&#160;iluminação&#160;que&#160;permite&#160;aos&#160;usuários&#160;ajustar&#160;a&#160;intensidade,&#160;cor&#160;e&#160;direção&#160;da&#160;luz&#160;para&#160;<br/>avaliar&#160;o&#160;impacto&#160;da&#160;iluminação&#160;no&#160;ambiente.</p>
+<p style="position:absolute;top:665px;left:763px;white-space:nowrap" class="ft01">IGOR</p>
+<p style="position:absolute;top:677px;left:69px;white-space:nowrap" class="ft01">RQF025</p>
+<p style="position:absolute;top:677px;left:113px;white-space:nowrap" class="ft01">Suporte&#160;a&#160;Múltiplos&#160;Idiomas</p>
+<p style="position:absolute;top:677px;left:245px;white-space:nowrap" class="ft01">Oferece&#160;suporte&#160;a&#160;múltiplos&#160;idiomas&#160;para&#160;garantir&#160;que&#160;o&#160;aplicativo&#160;seja&#160;acessível&#160;a&#160;uma&#160;audiência&#160;global.</p>
+<p style="position:absolute;top:677px;left:744px;white-space:nowrap" class="ft01">LUIS&#160;HENRIQUE</p>
+<p style="position:absolute;top:694px;left:69px;white-space:nowrap" class="ft01">RQF026</p>
+<p style="position:absolute;top:688px;left:113px;white-space:nowrap" class="ft03">Visualização&#160;de&#160;Móveis&#160;em&#160;<br/>Catálogo</p>
+<p style="position:absolute;top:688px;left:245px;white-space:nowrap" class="ft03">Permite&#160;que&#160;os&#160;usuários&#160;naveguem&#160;por&#160;um&#160;extenso&#160;catálogo&#160;de&#160;móveis&#160;em&#160;3D,&#160;organizado&#160;por&#160;categorias,&#160;estilos&#160;e&#160;marcas,&#160;para&#160;<br/>selecionar&#160;os&#160;itens&#160;desejados&#160;para&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:700px;left:744px;white-space:nowrap" class="ft01">LUIS&#160;HENRIQUE</p>
+<p style="position:absolute;top:718px;left:69px;white-space:nowrap" class="ft01">RQF027</p>
+<p style="position:absolute;top:712px;left:113px;white-space:nowrap" class="ft03">Visualização&#160;de&#160;Móveis&#160;em&#160;Tempo&#160;<br/>Real</p>
+<p style="position:absolute;top:712px;left:245px;white-space:nowrap" class="ft03">Capacidade&#160;de&#160;visualizar&#160;modelos&#160;3D&#160;de&#160;móveis&#160;em&#160;tempo&#160;real&#160;dentro&#160;do&#160;ambiente&#160;capturado&#160;pela&#160;câmera,&#160;com&#160;precisão&#160;e&#160;<br/>escala&#160;correta.</p>
+<p style="position:absolute;top:724px;left:744px;white-space:nowrap" class="ft01">LUIS&#160;HENRIQUE</p>
+<p style="position:absolute;top:741px;left:69px;white-space:nowrap" class="ft01">RQF028</p>
+<p style="position:absolute;top:741px;left:113px;white-space:nowrap" class="ft01">Visualização&#160;em&#160;Realidade&#160;Virtual</p>
+<p style="position:absolute;top:736px;left:245px;white-space:nowrap" class="ft03">Permite&#160;aos&#160;usuários&#160;visualizar&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;interiores&#160;em&#160;ambientes&#160;de&#160;realidade&#160;virtual,&#160;proporcionando&#160;uma&#160;<br/>experiência&#160;imersiva&#160;e&#160;detalhada.</p>
+<p style="position:absolute;top:747px;left:761px;white-space:nowrap" class="ft01">LUCAS</p>
+<p style="position:absolute;top:84px;left:382px;white-space:nowrap" class="ft02">REQUISITO&#160;FUNCIONAL</p>
+</div>
+<!-- Page 2 -->
+<a name="2"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft04{font-size:10px;font-family:CIDFont+F1;color:#000000;}
+	.ft05{font-size:13px;font-family:CIDFont+F1;color:#ffffff;}
+	.ft06{font-size:9px;line-height:12px;font-family:CIDFont+F2;color:#000000;}
+-->
+</style>
+<div id="page2-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output002.png" alt="background image"/>
+<p style="position:absolute;top:106px;left:80px;white-space:nowrap" class="ft00">ITEM</p>
+<p style="position:absolute;top:105px;left:384px;white-space:nowrap" class="ft04">REQUISITO</p>
+<p style="position:absolute;top:105px;left:728px;white-space:nowrap" class="ft04">CARACTERÍSTICA</p>
+<p style="position:absolute;top:132px;left:71px;white-space:nowrap" class="ft01">RQNF001</p>
+<p style="position:absolute;top:125px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;garantir&#160;a&#160;conformidade&#160;com&#160;as&#160;diretrizes&#160;de&#160;acessibilidade&#160;WCAG&#160;(Web&#160;Content&#160;Accessibility&#160;Guidelines),&#160;oferecendo&#160;suporte&#160;<br/>para&#160;tecnologias&#160;assistivas,&#160;como&#160;leitores&#160;de&#160;tela&#160;e&#160;comandos&#160;de&#160;voz,&#160;para&#160;usuários&#160;com&#160;deficiências&#160;visuais,&#160;auditivas&#160;ou&#160;motoras.</p>
+<p style="position:absolute;top:132px;left:744px;white-space:nowrap" class="ft01">Legalidade</p>
+<p style="position:absolute;top:163px;left:71px;white-space:nowrap" class="ft01">RQNF002</p>
+<p style="position:absolute;top:157px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;projetado&#160;para&#160;suportar&#160;uma&#160;ampla&#160;gama&#160;de&#160;resoluções&#160;de&#160;tela,&#160;incluindo&#160;dispositivos&#160;móveis,&#160;tablets&#160;e&#160;desktops,&#160;<br/>garantindo&#160;uma&#160;experiência&#160;de&#160;usuário&#160;consistente&#160;e&#160;visualmente&#160;atraente&#160;em&#160;diferentes&#160;dispositivos&#160;e&#160;tamanhos&#160;de&#160;tela.</p>
+<p style="position:absolute;top:163px;left:742px;white-space:nowrap" class="ft01">Usabilidade</p>
+<p style="position:absolute;top:195px;left:71px;white-space:nowrap" class="ft01">RQNF003</p>
+<p style="position:absolute;top:189px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;adaptar&#160;seu&#160;conteúdo&#160;e&#160;interface&#160;para&#160;atender&#160;às&#160;preferências&#160;culturais&#160;dos&#160;usuários,&#160;incluindo&#160;suporte&#160;multilíngue,&#160;formatos&#160;de&#160;<br/>data&#160;e&#160;moeda&#160;regionais,&#160;e&#160;respeitar&#160;práticas&#160;culturais&#160;específicas&#160;para&#160;proporcionar&#160;uma&#160;experiência&#160;inclusiva&#160;e&#160;respeitosa&#160;para&#160;todos.&#160;</p>
+<p style="position:absolute;top:195px;left:742px;white-space:nowrap" class="ft01">Usabilidade</p>
+<p style="position:absolute;top:227px;left:71px;white-space:nowrap" class="ft01">RQNF004</p>
+<p style="position:absolute;top:220px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;compatível&#160;com&#160;uma&#160;ampla&#160;variedade&#160;de&#160;dispositivos&#160;móveis,&#160;incluindo&#160;smartphones&#160;e&#160;tablets,&#160;bem&#160;como&#160;diferentes&#160;<br/>sistemas&#160;operacionais,&#160;como&#160;iOS&#160;e&#160;Android,&#160;garantindo&#160;uma&#160;experiência&#160;consistente&#160;em&#160;diferentes&#160;plataformas.</p>
+<p style="position:absolute;top:227px;left:739px;white-space:nowrap" class="ft01">Portabilidade</p>
+<p style="position:absolute;top:258px;left:71px;white-space:nowrap" class="ft01">RQNF005</p>
+<p style="position:absolute;top:245px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;aderir&#160;rigorosamente&#160;às&#160;regulamentações&#160;de&#160;privacidade&#160;de&#160;dados,&#160;como&#160;o&#160;GDPR&#160;(Regulamento&#160;Geral&#160;de&#160;Proteção&#160;de&#160;Dados),&#160;<br/>implementando&#160;medidas&#160;de&#160;segurança&#160;robustas&#160;para&#160;proteger&#160;as&#160;informações&#160;pessoais&#160;dos&#160;usuários&#160;contra&#160;acesso&#160;não&#160;autorizado,&#160;manipulação&#160;<br/>ou&#160;divulgação.</p>
+<p style="position:absolute;top:258px;left:745px;white-space:nowrap" class="ft01">Segurança</p>
+<p style="position:absolute;top:290px;left:71px;white-space:nowrap" class="ft01">RQNF006</p>
+<p style="position:absolute;top:283px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;desenvolvido&#160;com&#160;testes&#160;extensivos&#160;de&#160;estabilidade&#160;e&#160;robustez,&#160;visando&#160;minimizar&#160;a&#160;ocorrência&#160;de&#160;falhas&#160;ou&#160;travamentos,&#160;<br/>garantindo&#160;assim&#160;uma&#160;experiência&#160;confiável&#160;para&#160;os&#160;usuários.</p>
+<p style="position:absolute;top:290px;left:737px;white-space:nowrap" class="ft01">Confiabilidade</p>
+<p style="position:absolute;top:315px;left:71px;white-space:nowrap" class="ft01">RQNF007</p>
+<p style="position:absolute;top:309px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ter&#160;uma&#160;resposta&#160;rápida&#160;às&#160;interações&#160;do&#160;usuário,&#160;com&#160;um&#160;tempo&#160;de&#160;carregamento&#160;rápido&#160;e&#160;uma&#160;interface&#160;responsiva,&#160;mesmo&#160;<br/>sob&#160;carga&#160;pesada&#160;de&#160;tráfego.</p>
+<p style="position:absolute;top:315px;left:739px;white-space:nowrap" class="ft01">Desempenho</p>
+<p style="position:absolute;top:340px;left:71px;white-space:nowrap" class="ft01">RQNF008</p>
+<p style="position:absolute;top:334px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;otimizar&#160;seu&#160;desempenho&#160;para&#160;redes&#160;móveis,&#160;reduzindo&#160;o&#160;consumo&#160;de&#160;dados&#160;e&#160;garantindo&#160;uma&#160;experiência&#160;consistente,&#160;mesmo&#160;<br/>em&#160;condições&#160;de&#160;conectividade&#160;instável.&#160;</p>
+<p style="position:absolute;top:340px;left:739px;white-space:nowrap" class="ft01">Desempenho</p>
+<p style="position:absolute;top:365px;left:71px;white-space:nowrap" class="ft01">RQNF009</p>
+<p style="position:absolute;top:359px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;estar&#160;disponível&#160;para&#160;uso&#160;contínuo,&#160;com&#160;uma&#160;programação&#160;mínima&#160;de&#160;tempo&#160;de&#160;inatividade&#160;planejado&#160;para&#160;manutenção&#160;<br/>preventiva,&#160;e&#160;deve&#160;ser&#160;robusto&#160;o&#160;suficiente&#160;para&#160;minimizar&#160;falhas&#160;e&#160;erros&#160;inesperados.</p>
+<p style="position:absolute;top:365px;left:737px;white-space:nowrap" class="ft01">Confiabilidade</p>
+<p style="position:absolute;top:391px;left:71px;white-space:nowrap" class="ft01">RQNF010</p>
+<p style="position:absolute;top:384px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;suportar&#160;totalmente&#160;o&#160;modo&#160;offline,&#160;permitindo&#160;que&#160;os&#160;usuários&#160;acessem&#160;e&#160;utilizem&#160;funcionalidades&#160;básicas&#160;sem&#160;conexão&#160;com&#160;a&#160;<br/>internet,&#160;sincronizando&#160;automaticamente&#160;os&#160;dados&#160;quando&#160;a&#160;conexão&#160;for&#160;restaurada.</p>
+<p style="position:absolute;top:391px;left:735px;white-space:nowrap" class="ft01">Disponibilidade</p>
+<p style="position:absolute;top:416px;left:71px;white-space:nowrap" class="ft01">RQNF011</p>
+<p style="position:absolute;top:409px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;otimizar&#160;o&#160;uso&#160;de&#160;armazenamento&#160;do&#160;dispositivo&#160;móvel,&#160;implementando&#160;técnicas&#160;eficientes&#160;de&#160;compactação&#160;e&#160;armazenamento&#160;<br/>de&#160;dados&#160;para&#160;minimizar&#160;o&#160;espaço&#160;ocupado&#160;e&#160;reduzir&#160;o&#160;impacto&#160;no&#160;desempenho&#160;do&#160;dispositivo.</p>
+<p style="position:absolute;top:416px;left:725px;white-space:nowrap" class="ft01">Eficiência&#160;energética</p>
+<p style="position:absolute;top:441px;left:71px;white-space:nowrap" class="ft01">RQNF012</p>
+<p style="position:absolute;top:435px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;projetado&#160;para&#160;minimizar&#160;o&#160;consumo&#160;de&#160;energia&#160;do&#160;dispositivo&#160;móvel,&#160;adotando&#160;práticas&#160;de&#160;codificação&#160;eficientes&#160;e&#160;<br/>otimizadas&#160;para&#160;prolongar&#160;a&#160;vida&#160;útil&#160;da&#160;bateria.&#160;</p>
+<p style="position:absolute;top:441px;left:725px;white-space:nowrap" class="ft01">Eficiência&#160;energética</p>
+<p style="position:absolute;top:466px;left:71px;white-space:nowrap" class="ft01">RQNF013</p>
+<p style="position:absolute;top:460px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;escalável&#160;horizontalmente&#160;e&#160;verticalmente,&#160;permitindo&#160;que&#160;lide&#160;com&#160;um&#160;aumento&#160;significativo&#160;no&#160;número&#160;de&#160;usuários&#160;e&#160;<br/>cargas&#160;de&#160;trabalho&#160;sem&#160;comprometer&#160;o&#160;desempenho&#160;ou&#160;a&#160;qualidade&#160;da&#160;experiência&#160;do&#160;usuário.</p>
+<p style="position:absolute;top:466px;left:738px;white-space:nowrap" class="ft01">Escalabilidade</p>
+<p style="position:absolute;top:491px;left:71px;white-space:nowrap" class="ft01">RQNF014</p>
+<p style="position:absolute;top:485px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;garantir&#160;a&#160;integridade&#160;dos&#160;dados,&#160;implementando&#160;mecanismos&#160;de&#160;backup,&#160;redundância&#160;e&#160;validação&#160;para&#160;proteger&#160;contra&#160;perda,&#160;<br/>corrupção&#160;ou&#160;alteração&#160;não&#160;autorizada&#160;de&#160;dados.</p>
+<p style="position:absolute;top:491px;left:743px;white-space:nowrap" class="ft01">Integridade</p>
+<p style="position:absolute;top:517px;left:71px;white-space:nowrap" class="ft01">RQNF015</p>
+<p style="position:absolute;top:510px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;capaz&#160;de&#160;interagir&#160;e&#160;trocar&#160;dados&#160;de&#160;forma&#160;eficiente&#160;com&#160;outros&#160;sistemas&#160;e&#160;plataformas,&#160;utilizando&#160;padrões&#160;abertos&#160;e&#160;APIs&#160;<br/>(Application&#160;Programming&#160;Interfaces)&#160;para&#160;facilitar&#160;a&#160;integração.</p>
+<p style="position:absolute;top:517px;left:729px;white-space:nowrap" class="ft01">Interoperabilidade</p>
+<p style="position:absolute;top:542px;left:71px;white-space:nowrap" class="ft01">RQNF016</p>
+<p style="position:absolute;top:535px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;oferecer&#160;interfaces&#160;de&#160;programação&#160;bem&#160;documentadas&#160;e&#160;padronizadas&#160;para&#160;permitir&#160;integrações&#160;suaves&#160;com&#160;sistemas&#160;<br/>externos,&#160;garantindo&#160;a&#160;interoperabilidade&#160;e&#160;a&#160;facilidade&#160;de&#160;desenvolvimento&#160;para&#160;os&#160;desenvolvedores&#160;terceirizados.&#160;</p>
+<p style="position:absolute;top:542px;left:729px;white-space:nowrap" class="ft01">Interoperabilidade</p>
+<p style="position:absolute;top:567px;left:71px;white-space:nowrap" class="ft01">RQNF017</p>
+<p style="position:absolute;top:561px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;incorporar&#160;recursos&#160;de&#160;localização&#160;geográfica&#160;para&#160;personalizar&#160;a&#160;experiência&#160;do&#160;usuário&#160;com&#160;base&#160;em&#160;sua&#160;localização,&#160;<br/>fornecendo&#160;informações&#160;relevantes&#160;e&#160;serviços&#160;localizados&#160;de&#160;acordo&#160;com&#160;a&#160;região&#160;geográfica&#160;do&#160;usuário.</p>
+<p style="position:absolute;top:567px;left:744px;white-space:nowrap" class="ft01">Legalidade</p>
+<p style="position:absolute;top:592px;left:71px;white-space:nowrap" class="ft01">RQNF018</p>
+<p style="position:absolute;top:586px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;fornecer&#160;um&#160;sistema&#160;de&#160;suporte&#160;dedicado&#160;e&#160;realizar&#160;manutenções&#160;regulares,&#160;incluindo&#160;correções&#160;de&#160;bugs,&#160;atualizações&#160;de&#160;<br/>segurança&#160;e&#160;melhorias&#160;de&#160;desempenho,&#160;para&#160;garantir&#160;uma&#160;experiência&#160;contínua&#160;e&#160;livre&#160;de&#160;problemas&#160;para&#160;os&#160;usuários.</p>
+<p style="position:absolute;top:592px;left:730px;white-space:nowrap" class="ft01">Manutenibilidade</p>
+<p style="position:absolute;top:617px;left:71px;white-space:nowrap" class="ft01">RQNF019</p>
+<p style="position:absolute;top:611px;left:125px;white-space:nowrap" class="ft06">O&#160;código-fonte&#160;do&#160;aplicativo&#160;deve&#160;ser&#160;estruturado&#160;de&#160;forma&#160;modular&#160;e&#160;bem&#160;documentado,&#160;seguindo&#160;padrões&#160;de&#160;codificação&#160;e&#160;práticas&#160;de&#160;<br/>desenvolvimento,&#160;para&#160;facilitar&#160;a&#160;manutenção,&#160;a&#160;extensibilidade&#160;e&#160;a&#160;colaboração&#160;entre&#160;os&#160;desenvolvedores.</p>
+<p style="position:absolute;top:617px;left:730px;white-space:nowrap" class="ft01">Manutenibilidade</p>
+<p style="position:absolute;top:643px;left:71px;white-space:nowrap" class="ft01">RQNF020</p>
+<p style="position:absolute;top:636px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;oferecer&#160;opções&#160;abrangentes&#160;de&#160;personalização&#160;da&#160;interface&#160;do&#160;usuário,&#160;permitindo&#160;que&#160;os&#160;usuários&#160;ajustem&#160;a&#160;aparência&#160;e&#160;o&#160;<br/>comportamento&#160;de&#160;acordo&#160;com&#160;suas&#160;preferências&#160;individuais,&#160;garantindo&#160;assim&#160;uma&#160;experiência&#160;altamente&#160;personalizada.</p>
+<p style="position:absolute;top:643px;left:742px;white-space:nowrap" class="ft01">Usabilidade</p>
+<p style="position:absolute;top:674px;left:71px;white-space:nowrap" class="ft01">RQNF021</p>
+<p style="position:absolute;top:661px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;desenvolvido&#160;usando&#160;tecnologias&#160;e&#160;frameworks&#160;que&#160;permitam&#160;a&#160;portabilidade&#160;entre&#160;diferentes&#160;plataformas&#160;e&#160;ambientes&#160;de&#160;<br/>desenvolvimento,&#160;garantindo&#160;que&#160;possa&#160;ser&#160;facilmente&#160;mantido&#160;e&#160;atualizado&#160;a&#160;longo&#160;prazo,&#160;independentemente&#160;das&#160;mudanças&#160;nas&#160;tecnologias&#160;<br/>subjacentes.</p>
+<p style="position:absolute;top:674px;left:739px;white-space:nowrap" class="ft01">Portabilidade</p>
+<p style="position:absolute;top:712px;left:71px;white-space:nowrap" class="ft01">RQNF022</p>
+<p style="position:absolute;top:699px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;implementar&#160;medidas&#160;de&#160;segurança&#160;proativas&#160;para&#160;garantir&#160;o&#160;cumprimento&#160;das&#160;regulamentações&#160;de&#160;privacidade&#160;de&#160;dados,&#160;como&#160;<br/>criptografia&#160;de&#160;dados&#160;em&#160;repouso&#160;e&#160;em&#160;trânsito,&#160;autenticação&#160;multifatorial&#160;e&#160;controle&#160;de&#160;acesso&#160;baseado&#160;em&#160;funções,&#160;para&#160;proteger&#160;as&#160;<br/>informações&#160;pessoais&#160;dos&#160;usuários&#160;contra&#160;acessos&#160;não&#160;autorizados&#160;e&#160;violações&#160;de&#160;dados.</p>
+<p style="position:absolute;top:712px;left:745px;white-space:nowrap" class="ft01">Segurança</p>
+<p style="position:absolute;top:750px;left:71px;white-space:nowrap" class="ft01">RQNF023</p>
+<p style="position:absolute;top:737px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;projetado&#160;com&#160;mecanismos&#160;de&#160;resiliência,&#160;como&#160;failover&#160;automático,&#160;balanceamento&#160;de&#160;carga&#160;e&#160;recuperação&#160;de&#160;desastres,&#160;<br/>para&#160;garantir&#160;que&#160;possa&#160;se&#160;recuperar&#160;rapidamente&#160;de&#160;falhas&#160;de&#160;sistema&#160;ou&#160;interrupções&#160;de&#160;serviço,&#160;minimizando&#160;assim&#160;o&#160;impacto&#160;nas&#160;operações&#160;<br/>dos&#160;usuários.</p>
+<p style="position:absolute;top:750px;left:737px;white-space:nowrap" class="ft01">Confiabilidade</p>
+<p style="position:absolute;top:788px;left:71px;white-space:nowrap" class="ft01">RQNF024</p>
+<p style="position:absolute;top:775px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;seguir&#160;as&#160;melhores&#160;práticas&#160;de&#160;segurança&#160;da&#160;informação,&#160;como&#160;controle&#160;de&#160;acesso&#160;granular,&#160;monitoramento&#160;de&#160;atividades&#160;<br/>suspeitas&#160;e&#160;auditorias&#160;regulares,&#160;para&#160;proteger&#160;os&#160;dados&#160;dos&#160;usuários&#160;contra&#160;ameaças&#160;internas&#160;e&#160;externas,&#160;garantindo&#160;assim&#160;a&#160;integridade&#160;e&#160;a&#160;<br/>confidencialidade&#160;dos&#160;dados.</p>
+<p style="position:absolute;top:788px;left:745px;white-space:nowrap" class="ft01">Segurança</p>
+<p style="position:absolute;top:826px;left:71px;white-space:nowrap" class="ft01">RQNF025</p>
+<p style="position:absolute;top:820px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;implementar&#160;técnicas&#160;avançadas&#160;de&#160;criptografia,&#160;como&#160;criptografia&#160;de&#160;ponta&#160;a&#160;ponta&#160;e&#160;hashing&#160;de&#160;senhas,&#160;juntamente&#160;com&#160;<br/>políticas&#160;de&#160;gerenciamento&#160;de&#160;chaves&#160;robustas,&#160;para&#160;proteger&#160;os&#160;dados&#160;dos&#160;usuários&#160;contra&#160;acesso&#160;não&#160;autorizado&#160;e&#160;ataques&#160;de&#160;engenharia&#160;social.</p>
+<p style="position:absolute;top:826px;left:745px;white-space:nowrap" class="ft01">Segurança</p>
+<p style="position:absolute;top:858px;left:71px;white-space:nowrap" class="ft01">RQNF026</p>
+<p style="position:absolute;top:851px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;adotar&#160;práticas&#160;de&#160;desenvolvimento&#160;sustentável,&#160;como&#160;otimização&#160;de&#160;código,&#160;uso&#160;eficiente&#160;de&#160;recursos&#160;de&#160;hardware&#160;e&#160;<br/>hospedagem&#160;em&#160;servidores&#160;eco-friendly,&#160;para&#160;minimizar&#160;seu&#160;impacto&#160;ambiental&#160;e&#160;promover&#160;a&#160;sustentabilidade&#160;ambiental.</p>
+<p style="position:absolute;top:858px;left:725px;white-space:nowrap" class="ft01">Eficiência&#160;energética</p>
+<p style="position:absolute;top:883px;left:71px;white-space:nowrap" class="ft01">RQNF027</p>
+<p style="position:absolute;top:877px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;otimizado&#160;para&#160;tempos&#160;de&#160;resposta&#160;rápidos,&#160;utilizando&#160;técnicas&#160;de&#160;cache,&#160;pré-carregamento&#160;de&#160;recursos&#160;e&#160;otimização&#160;de&#160;<br/>consultas&#160;de&#160;banco&#160;de&#160;dados,&#160;para&#160;garantir&#160;uma&#160;experiência&#160;de&#160;usuário&#160;ágil&#160;e&#160;responsiva&#160;em&#160;todas&#160;as&#160;interações.</p>
+<p style="position:absolute;top:883px;left:739px;white-space:nowrap" class="ft01">Desempenho</p>
+<p style="position:absolute;top:914px;left:71px;white-space:nowrap" class="ft01">RQNF028</p>
+<p style="position:absolute;top:902px;left:125px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;deve&#160;ser&#160;projetado&#160;com&#160;uma&#160;interface&#160;de&#160;usuário&#160;intuitiva&#160;e&#160;acessível,&#160;seguindo&#160;os&#160;princípios&#160;de&#160;design&#160;centrado&#160;no&#160;usuário&#160;e&#160;<br/>realizando&#160;testes&#160;de&#160;usabilidade&#160;regulares,&#160;para&#160;garantir&#160;que&#160;os&#160;usuários&#160;possam&#160;interagir&#160;com&#160;facilidade&#160;e&#160;eficiência,&#160;independentemente&#160;de&#160;sua&#160;<br/>experiência&#160;técnica.</p>
+<p style="position:absolute;top:914px;left:742px;white-space:nowrap" class="ft01">Usabilidade</p>
+<p style="position:absolute;top:86px;left:363px;white-space:nowrap" class="ft05">REQUISITOS&#160;NÃO&#160;FUNCIONAIS</p>
+</div>
+<!-- Page 3 -->
+<a name="3"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}-->
+</style>
+<div id="page3-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output003.png" alt="background image"/>
+<p style="position:absolute;top:103px;left:107px;white-space:nowrap" class="ft00">US01&#160;US02&#160;US03&#160;US04&#160;US05&#160;US06&#160;US07&#160;US08&#160;US09&#160;US10&#160;US11&#160;US12&#160;US13&#160;US14&#160;US15&#160;US16&#160;US17&#160;US18&#160;US19&#160;US20&#160;US21&#160;US22&#160;US23&#160;US24&#160;US25&#160;US26&#160;US27&#160;US28</p>
+<p style="position:absolute;top:116px;left:58px;white-space:nowrap" class="ft00">RQF001</p>
+<p style="position:absolute;top:116px;left:116px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:128px;left:58px;white-space:nowrap" class="ft00">RQF002</p>
+<p style="position:absolute;top:128px;left:142px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:140px;left:58px;white-space:nowrap" class="ft00">RQF003</p>
+<p style="position:absolute;top:140px;left:168px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:152px;left:58px;white-space:nowrap" class="ft00">RQF004</p>
+<p style="position:absolute;top:152px;left:194px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:164px;left:58px;white-space:nowrap" class="ft00">RQF005</p>
+<p style="position:absolute;top:164px;left:220px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:176px;left:58px;white-space:nowrap" class="ft00">RQF006</p>
+<p style="position:absolute;top:176px;left:246px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:188px;left:58px;white-space:nowrap" class="ft00">RQF007</p>
+<p style="position:absolute;top:188px;left:271px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:200px;left:58px;white-space:nowrap" class="ft00">RQF008</p>
+<p style="position:absolute;top:200px;left:297px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:212px;left:58px;white-space:nowrap" class="ft00">RQF009</p>
+<p style="position:absolute;top:212px;left:323px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:225px;left:58px;white-space:nowrap" class="ft00">RQF010</p>
+<p style="position:absolute;top:224px;left:349px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:237px;left:58px;white-space:nowrap" class="ft00">RQF011</p>
+<p style="position:absolute;top:236px;left:375px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:249px;left:58px;white-space:nowrap" class="ft00">RQF012</p>
+<p style="position:absolute;top:248px;left:401px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:261px;left:58px;white-space:nowrap" class="ft00">RQF013</p>
+<p style="position:absolute;top:260px;left:427px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:273px;left:58px;white-space:nowrap" class="ft00">RQF014</p>
+<p style="position:absolute;top:272px;left:453px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:285px;left:58px;white-space:nowrap" class="ft00">RQF015</p>
+<p style="position:absolute;top:284px;left:479px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:297px;left:58px;white-space:nowrap" class="ft00">RQF016</p>
+<p style="position:absolute;top:297px;left:505px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:309px;left:58px;white-space:nowrap" class="ft00">RQF017</p>
+<p style="position:absolute;top:309px;left:531px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:321px;left:58px;white-space:nowrap" class="ft00">RQF018</p>
+<p style="position:absolute;top:321px;left:557px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:333px;left:58px;white-space:nowrap" class="ft00">RQF019</p>
+<p style="position:absolute;top:333px;left:582px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:345px;left:58px;white-space:nowrap" class="ft00">RQF020</p>
+<p style="position:absolute;top:345px;left:608px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:357px;left:58px;white-space:nowrap" class="ft00">RQF021</p>
+<p style="position:absolute;top:357px;left:634px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:369px;left:58px;white-space:nowrap" class="ft00">RQF022</p>
+<p style="position:absolute;top:369px;left:660px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:381px;left:58px;white-space:nowrap" class="ft00">RQF023</p>
+<p style="position:absolute;top:381px;left:686px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:393px;left:58px;white-space:nowrap" class="ft00">RQF024</p>
+<p style="position:absolute;top:393px;left:712px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:405px;left:58px;white-space:nowrap" class="ft00">RQF025</p>
+<p style="position:absolute;top:405px;left:738px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:417px;left:58px;white-space:nowrap" class="ft00">RQF026</p>
+<p style="position:absolute;top:417px;left:764px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:430px;left:58px;white-space:nowrap" class="ft00">RQF027</p>
+<p style="position:absolute;top:429px;left:790px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:442px;left:58px;white-space:nowrap" class="ft00">RQF028</p>
+<p style="position:absolute;top:441px;left:817px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:453px;left:58px;white-space:nowrap" class="ft01">RQNF001</p>
+<p style="position:absolute;top:453px;left:116px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:465px;left:58px;white-space:nowrap" class="ft06">RQNF002<br/>RQNF003<br/>RQNF004<br/>RQNF005<br/>RQNF006<br/>RQNF007<br/>RQNF008<br/>RQNF009<br/>RQNF010<br/>RQNF011<br/>RQNF012<br/>RQNF013<br/>RQNF014</p>
+<p style="position:absolute;top:610px;left:453px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:622px;left:58px;white-space:nowrap" class="ft03">RQNF015<br/>RQNF016<br/>RQNF017<br/>RQNF018<br/>RQNF019<br/>RQNF020<br/>RQNF021<br/>RQNF022<br/>RQNF023<br/>RQNF024<br/>RQNF025<br/>RQNF026<br/>RQNF027<br/>RQNF028</p>
+<p style="position:absolute;top:779px;left:817px;white-space:nowrap" class="ft01">X</p>
+<p style="position:absolute;top:86px;left:367px;white-space:nowrap" class="ft02">MATRIZ&#160;DE&#160;RASTREABILIDADE</p>
+</div>
+<!-- Page 4 -->
+<a name="4"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft07{font-size:8px;font-family:CIDFont+F1;color:#000000;}
+	.ft08{font-size:8px;font-family:CIDFont+F2;color:#000000;}
+	.ft09{font-size:8px;font-family:CIDFont+F3;color:#000000;}
+	.ft010{font-size:8px;line-height:11px;font-family:CIDFont+F1;color:#000000;}
+-->
+</style>
+<div id="page4-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output004.png" alt="background image"/>
+<p style="position:absolute;top:109px;left:90px;white-space:nowrap" class="ft07">Ferramentas&#160;de&#160;Anotação</p>
+<p style="position:absolute;top:109px;left:526px;white-space:nowrap" class="ft07">Personalização&#160;de&#160;Móveis</p>
+<p style="position:absolute;top:121px;left:90px;white-space:nowrap" class="ft07">RQF011</p>
+<p style="position:absolute;top:121px;left:222px;white-space:nowrap" class="ft08">Sincronização</p>
+<p style="position:absolute;top:121px;left:526px;white-space:nowrap" class="ft07">RQF022</p>
+<p style="position:absolute;top:121px;left:646px;white-space:nowrap" class="ft08">Sincronização</p>
+<p style="position:absolute;top:139px;left:90px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:133px;left:222px;white-space:nowrap" class="ft010">Permitir&#160;que&#160;os&#160;usuários&#160;façam&#160;anotações&#160;e&#160;marcações&#160;nos&#160;móveis&#160;<br/>visualizados.</p>
+<p style="position:absolute;top:139px;left:526px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:133px;left:646px;white-space:nowrap" class="ft010">Permitir&#160;que&#160;os&#160;usuários&#160;personalizem&#160;os&#160;móveis&#160;de&#160;<br/>acordo&#160;com&#160;suas&#160;preferências.</p>
+<p style="position:absolute;top:173px;left:90px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:161px;left:222px;white-space:nowrap" class="ft010">Os&#160;usuários&#160;podem&#160;adicionar&#160;notas,&#160;desenhos&#160;ou&#160;marcações&#160;aos&#160;<br/>modelos&#160;3D&#160;dos&#160;móveis&#160;para&#160;registrar&#160;ideias,&#160;comentários&#160;ou&#160;<br/>detalhes&#160;específicos.</p>
+<p style="position:absolute;top:173px;left:526px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:161px;left:646px;white-space:nowrap" class="ft010">Os&#160;usuários&#160;podem&#160;modificar&#160;características&#160;como&#160;<br/>cor,&#160;tamanho,&#160;tecido&#160;e&#160;acabamento&#160;dos&#160;móveis&#160;<br/>para&#160;adequá-los&#160;aos&#160;seus&#160;gostos&#160;e&#160;necessidades.</p>
+<p style="position:absolute;top:208px;left:90px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:208px;left:222px;white-space:nowrap" class="ft07">Input&#160;de&#160;texto,&#160;desenhos&#160;ou&#160;seleções&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:208px;left:526px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:208px;left:646px;white-space:nowrap" class="ft07">Seleções&#160;de&#160;personalização&#160;feitas&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:231px;left:90px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:231px;left:222px;white-space:nowrap" class="ft07">Ação&#160;direta&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:231px;left:526px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:231px;left:646px;white-space:nowrap" class="ft07">Ação&#160;direta&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:254px;left:90px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:254px;left:222px;white-space:nowrap" class="ft07">Anotações&#160;e&#160;marcações&#160;associadas&#160;aos&#160;móveis&#160;visualizados.</p>
+<p style="position:absolute;top:254px;left:526px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:248px;left:646px;white-space:nowrap" class="ft010">Móveis&#160;personalizados&#160;conforme&#160;as&#160;preferências&#160;<br/>dos&#160;usuários.</p>
+<p style="position:absolute;top:277px;left:90px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:277px;left:222px;white-space:nowrap" class="ft07">Banco&#160;de&#160;dados&#160;do&#160;sistema&#160;e&#160;interface&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:277px;left:526px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:271px;left:646px;white-space:nowrap" class="ft010">Banco&#160;de&#160;dados&#160;do&#160;sistema&#160;e&#160;interface&#160;do&#160;<br/>aplicativo.</p>
+<p style="position:absolute;top:312px;left:90px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:306px;left:222px;white-space:nowrap" class="ft010">O&#160;sistema&#160;permite&#160;que&#160;os&#160;usuários&#160;usem&#160;ferramentas&#160;de&#160;anotação&#160;<br/>para&#160;adicionar&#160;informações&#160;aos&#160;móveis.</p>
+<p style="position:absolute;top:312px;left:526px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:300px;left:646px;white-space:nowrap" class="ft010">O&#160;sistema&#160;permite&#160;que&#160;os&#160;usuários&#160;modifiquem&#160;<br/>diferentes&#160;aspectos&#160;dos&#160;móveis&#160;usando&#160;<br/>ferramentas&#160;de&#160;personalização.</p>
+<p style="position:absolute;top:352px;left:90px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:346px;left:222px;white-space:nowrap" class="ft010">Funcionalidade&#160;de&#160;edição&#160;de&#160;modelos&#160;3D,&#160;armazenamento&#160;de&#160;<br/>dados&#160;de&#160;anotação.</p>
+<p style="position:absolute;top:352px;left:526px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:346px;left:646px;white-space:nowrap" class="ft010">Variedade&#160;de&#160;opções&#160;de&#160;personalização,&#160;capacidade&#160;<br/>de&#160;renderizar&#160;modelos&#160;3D&#160;modificados.</p>
+<p style="position:absolute;top:381px;left:90px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:375px;left:222px;white-space:nowrap" class="ft010">Móveis&#160;visualizados&#160;e&#160;disponibilidade&#160;das&#160;ferramentas&#160;de&#160;anotação&#160;<br/>no&#160;aplicativo.</p>
+<p style="position:absolute;top:381px;left:526px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:375px;left:646px;white-space:nowrap" class="ft010">Disponibilidade&#160;de&#160;móveis&#160;para&#160;personalização&#160;e&#160;<br/>ferramentas&#160;de&#160;edição.</p>
+<p style="position:absolute;top:404px;left:90px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:404px;left:222px;white-space:nowrap" class="ft07">Anotações&#160;são&#160;registradas&#160;e&#160;disponíveis&#160;para&#160;referência&#160;futura.</p>
+<p style="position:absolute;top:404px;left:526px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:398px;left:646px;white-space:nowrap" class="ft010">Móveis&#160;são&#160;modificados&#160;de&#160;acordo&#160;com&#160;as&#160;<br/>preferências&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:427px;left:90px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:421px;left:222px;white-space:nowrap" class="ft010">Possíveis&#160;sobrecargas&#160;de&#160;dados&#160;se&#160;muitas&#160;anotações&#160;forem&#160;<br/>adicionadas.</p>
+<p style="position:absolute;top:427px;left:526px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:421px;left:646px;white-space:nowrap" class="ft010">Possíveis&#160;variações&#160;de&#160;preço&#160;e&#160;tempo&#160;de&#160;entrega&#160;<br/>devido&#160;às&#160;personalizações.</p>
+<p style="position:absolute;top:473px;left:143px;white-space:nowrap" class="ft07">US011</p>
+<p style="position:absolute;top:484px;left:136px;white-space:nowrap" class="ft07">(SHOULD)</p>
+<p style="position:absolute;top:473px;left:222px;white-space:nowrap" class="ft010">Eu&#160;como&#160;usuário,&#160;quero&#160;realizar&#160;anotações&#160;nos&#160;modelos&#160;3D&#160;dos&#160;<br/>móveis,&#160;para&#160;registrar&#160;ideias</p>
+<p style="position:absolute;top:473px;left:573px;white-space:nowrap" class="ft07">US022</p>
+<p style="position:absolute;top:484px;left:571px;white-space:nowrap" class="ft07">(MUST)</p>
+<p style="position:absolute;top:473px;left:646px;white-space:nowrap" class="ft010">Eu&#160;como&#160;usuário,&#160;quero&#160;realizar&#160;anotações&#160;nos&#160;<br/>modelos&#160;3D&#160;dos&#160;móveis,&#160;para&#160;registrar&#160;ideias</p>
+<p style="position:absolute;top:524px;left:90px;white-space:nowrap" class="ft07">Reconhecimento&#160;de&#160;Padrões</p>
+<p style="position:absolute;top:524px;left:526px;white-space:nowrap" class="ft07">Simulação&#160;de&#160;Iluminação</p>
+<p style="position:absolute;top:536px;left:90px;white-space:nowrap" class="ft07">RQF023</p>
+<p style="position:absolute;top:536px;left:222px;white-space:nowrap" class="ft08">Sincronização</p>
+<p style="position:absolute;top:536px;left:526px;white-space:nowrap" class="ft07">RQF024</p>
+<p style="position:absolute;top:536px;left:646px;white-space:nowrap" class="ft08">Sincronização</p>
+<p style="position:absolute;top:559px;left:90px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:559px;left:222px;white-space:nowrap" class="ft07">Identificar&#160;padrões&#160;e&#160;texturas&#160;nos&#160;móveis&#160;visualizados.</p>
+<p style="position:absolute;top:559px;left:526px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:553px;left:646px;white-space:nowrap" class="ft010">Permitir&#160;que&#160;os&#160;usuários&#160;simulem&#160;diferentes&#160;<br/>condições&#160;de&#160;iluminação&#160;nos&#160;móveis&#160;visualizados.</p>
+<p style="position:absolute;top:605px;left:90px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:599px;left:222px;white-space:nowrap" class="ft010">O&#160;sistema&#160;analisa&#160;os&#160;modelos&#160;3D&#160;dos&#160;móveis&#160;para&#160;reconhecer&#160;e&#160;<br/>destacar&#160;padrões&#160;de&#160;tecido,&#160;madeira,&#160;metal&#160;ou&#160;outros&#160;materiais.</p>
+<p style="position:absolute;top:605px;left:526px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:588px;left:646px;white-space:nowrap" class="ft010">Os&#160;usuários&#160;podem&#160;ajustar&#160;a&#160;intensidade,&#160;direção&#160;e&#160;<br/>cor&#160;da&#160;iluminação&#160;para&#160;visualizar&#160;como&#160;os&#160;móveis&#160;<br/>apareceriam&#160;em&#160;diferentes&#160;ambientes&#160;e&#160;<br/>configurações&#160;de&#160;iluminação.</p>
+<p style="position:absolute;top:646px;left:90px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:646px;left:222px;white-space:nowrap" class="ft07">Modelos&#160;3D&#160;dos&#160;móveis&#160;e&#160;imagem&#160;capturada&#160;pela&#160;câmera.</p>
+<p style="position:absolute;top:646px;left:526px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:640px;left:646px;white-space:nowrap" class="ft010">Configurações&#160;de&#160;iluminação&#160;selecionadas&#160;pelos&#160;<br/>usuários.</p>
+<p style="position:absolute;top:669px;left:90px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:663px;left:222px;white-space:nowrap" class="ft010">Processamento&#160;de&#160;dados&#160;no&#160;sistema&#160;de&#160;reconhecimento&#160;de&#160;<br/>padrões.</p>
+<p style="position:absolute;top:669px;left:526px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:669px;left:646px;white-space:nowrap" class="ft07">Interatividade&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:692px;left:90px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:692px;left:222px;white-space:nowrap" class="ft07">Destaque&#160;ou&#160;identificação&#160;dos&#160;padrões&#160;reconhecidos&#160;nos&#160;móveis.</p>
+<p style="position:absolute;top:692px;left:526px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:686px;left:646px;white-space:nowrap" class="ft010">Visualização&#160;dos&#160;móveis&#160;sob&#160;diferentes&#160;condições&#160;<br/>de&#160;iluminação.</p>
+<p style="position:absolute;top:709px;left:90px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:709px;left:222px;white-space:nowrap" class="ft07">Interface&#160;do&#160;aplicativo&#160;e&#160;tela&#160;do&#160;dispositivo&#160;do&#160;usuário.</p>
+<p style="position:absolute;top:709px;left:526px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:709px;left:646px;white-space:nowrap" class="ft07">Tela&#160;do&#160;dispositivo&#160;do&#160;usuário.</p>
+<p style="position:absolute;top:738px;left:90px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:726px;left:222px;white-space:nowrap" class="ft010">O&#160;sistema&#160;usa&#160;algoritmos&#160;de&#160;reconhecimento&#160;de&#160;padrões&#160;para&#160;<br/>analisar&#160;os&#160;móveis&#160;visualizados&#160;e&#160;identificar&#160;características&#160;<br/>específicas.</p>
+<p style="position:absolute;top:738px;left:526px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:726px;left:646px;white-space:nowrap" class="ft010">O&#160;sistema&#160;permite&#160;que&#160;os&#160;usuários&#160;ajustem&#160;as&#160;<br/>configurações&#160;de&#160;iluminação&#160;e&#160;vejam&#160;como&#160;os&#160;<br/>móveis&#160;reagem&#160;a&#160;essas&#160;mudanças.</p>
+<p style="position:absolute;top:779px;left:90px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:773px;left:222px;white-space:nowrap" class="ft010">Algoritmos&#160;de&#160;processamento&#160;de&#160;imagem&#160;e&#160;reconhecimento&#160;de&#160;<br/>padrões,&#160;modelos&#160;3D&#160;detalhados&#160;dos&#160;móveis.</p>
+<p style="position:absolute;top:779px;left:526px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:773px;left:646px;white-space:nowrap" class="ft010">Capacidade&#160;de&#160;renderização&#160;em&#160;tempo&#160;real,&#160;<br/>controle&#160;de&#160;parâmetros&#160;de&#160;iluminação.</p>
+<p style="position:absolute;top:813px;left:90px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:807px;left:222px;white-space:nowrap" class="ft010">Disponibilidade&#160;dos&#160;modelos&#160;3D&#160;dos&#160;móveis&#160;e&#160;funcionalidade&#160;de&#160;<br/>reconhecimento&#160;de&#160;padrões&#160;ativada.</p>
+<p style="position:absolute;top:813px;left:526px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:807px;left:646px;white-space:nowrap" class="ft010">Disponibilidade&#160;dos&#160;modelos&#160;3D&#160;dos&#160;móveis&#160;e&#160;<br/>funcionalidade&#160;de&#160;simulação&#160;de&#160;iluminação&#160;ativada.</p>
+<p style="position:absolute;top:842px;left:90px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:842px;left:222px;white-space:nowrap" class="ft07">Padrões&#160;são&#160;identificados&#160;e&#160;exibidos&#160;para&#160;os&#160;usuários.</p>
+<p style="position:absolute;top:842px;left:526px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:836px;left:646px;white-space:nowrap" class="ft010">Usuários&#160;visualizam&#160;os&#160;móveis&#160;sob&#160;diferentes&#160;<br/>condições&#160;de&#160;iluminação.</p>
+<p style="position:absolute;top:871px;left:90px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:865px;left:222px;white-space:nowrap" class="ft010">Possíveis&#160;imprecisões&#160;na&#160;identificação&#160;de&#160;padrões&#160;em&#160;modelos&#160;3D&#160;<br/>complexos.</p>
+<p style="position:absolute;top:871px;left:526px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:859px;left:646px;white-space:nowrap" class="ft010">Possíveis&#160;variações&#160;na&#160;aparência&#160;dos&#160;móveis&#160;<br/>dependendo&#160;das&#160;configurações&#160;de&#160;iluminação&#160;<br/>escolhidas.</p>
+<p style="position:absolute;top:922px;left:143px;white-space:nowrap" class="ft07">US023</p>
+<p style="position:absolute;top:934px;left:141px;white-space:nowrap" class="ft07">(MUST)</p>
+<p style="position:absolute;top:922px;left:222px;white-space:nowrap" class="ft010">Eu&#160;como&#160;usuário,&#160;quero&#160;realizar&#160;anotações&#160;nos&#160;modelos&#160;3D&#160;dos&#160;<br/>móveis,&#160;para&#160;registrar&#160;ideias</p>
+<p style="position:absolute;top:922px;left:573px;white-space:nowrap" class="ft07">US024</p>
+<p style="position:absolute;top:934px;left:567px;white-space:nowrap" class="ft07">(SHOULD)</p>
+<p style="position:absolute;top:922px;left:646px;white-space:nowrap" class="ft010">Eu&#160;como&#160;usuário,&#160;quero&#160;realizar&#160;anotações&#160;nos&#160;<br/>modelos&#160;3D&#160;dos&#160;móveis,&#160;para&#160;registrar&#160;ideias</p>
+<p style="position:absolute;top:98px;left:210px;white-space:nowrap" class="ft08">REQUISITO&#160;FUNCIONAL&#160;DETALHADO</p>
+<p style="position:absolute;top:455px;left:242px;white-space:nowrap" class="ft08">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:455px;left:644px;white-space:nowrap" class="ft08">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:905px;left:242px;white-space:nowrap" class="ft08">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:905px;left:644px;white-space:nowrap" class="ft08">História&#160;de&#160;Usuário</p>
+</div>
+<!-- Page 5 -->
+<a name="5"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft011{font-size:7px;font-family:CIDFont+F1;color:#000000;}
+	.ft012{font-size:7px;font-family:CIDFont+F2;color:#000000;}
+	.ft013{font-size:7px;font-family:CIDFont+F3;color:#000000;}
+	.ft014{font-size:7px;font-family:CIDFont+F4;color:#0d0d0d;}
+	.ft015{font-size:7px;line-height:9px;font-family:CIDFont+F1;color:#000000;}
+	.ft016{font-size:7px;line-height:9px;font-family:CIDFont+F4;color:#0d0d0d;}
+-->
+</style>
+<div id="page5-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output005.png" alt="background image"/>
+<p style="position:absolute;top:96px;left:76px;white-space:nowrap" class="ft011">Geração&#160;de&#160;Projetos&#160;Personalizados</p>
+<p style="position:absolute;top:96px;left:446px;white-space:nowrap" class="ft011">Geração&#160;de&#160;Relatórios&#160;de&#160;Orçamento</p>
+<p style="position:absolute;top:105px;left:76px;white-space:nowrap" class="ft012">RQF012</p>
+<p style="position:absolute;top:105px;left:210px;white-space:nowrap" class="ft012">Sincronização</p>
+<p style="position:absolute;top:105px;left:446px;white-space:nowrap" class="ft012">RQF013</p>
+<p style="position:absolute;top:105px;left:595px;white-space:nowrap" class="ft012">Sincronização</p>
+<p style="position:absolute;top:119px;left:76px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:114px;left:210px;white-space:nowrap" class="ft015">Permitir&#160;que&#160;os&#160;usuários&#160;criem&#160;projetos&#160;de&#160;design&#160;de&#160;interiores&#160;<br/>personalizados.</p>
+<p style="position:absolute;top:119px;left:447px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:119px;left:595px;white-space:nowrap" class="ft011">Gerar&#160;relatórios&#160;detalhados&#160;de&#160;custos&#160;para&#160;os&#160;projetos&#160;criados&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:143px;left:76px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:138px;left:210px;white-space:nowrap" class="ft015">Os&#160;usuários&#160;podem&#160;selecionar&#160;móveis,&#160;layouts&#160;e&#160;estilos&#160;para&#160;criar&#160;projetos&#160;<br/>personalizados&#160;de&#160;acordo&#160;com&#160;suas&#160;preferências&#160;e&#160;necessidades.</p>
+<p style="position:absolute;top:143px;left:447px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:133px;left:595px;white-space:nowrap" class="ft015">O&#160;sistema&#160;calcula&#160;o&#160;custo&#160;total&#160;dos&#160;móveis&#160;e&#160;acessórios&#160;selecionados&#160;pelos&#160;<br/>usuários&#160;durante&#160;a&#160;criação&#160;do&#160;projeto&#160;e&#160;gera&#160;um&#160;relatório&#160;de&#160;orçamento&#160;para&#160;<br/>referência.</p>
+<p style="position:absolute;top:166px;left:76px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:166px;left:210px;white-space:nowrap" class="ft011">Seleções&#160;e&#160;preferências&#160;dos&#160;usuários&#160;durante&#160;a&#160;criação&#160;do&#160;projeto.</p>
+<p style="position:absolute;top:166px;left:447px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:166px;left:595px;white-space:nowrap" class="ft011">Seleções&#160;de&#160;móveis&#160;e&#160;acessórios&#160;feitas&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:185px;left:76px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:180px;left:210px;white-space:nowrap" class="ft015">Interação&#160;dos&#160;usuários&#160;com&#160;a&#160;interface&#160;do&#160;aplicativo&#160;de&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:185px;left:447px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:185px;left:595px;white-space:nowrap" class="ft011">Dados&#160;de&#160;preços&#160;e&#160;informações&#160;sobre&#160;os&#160;móveis&#160;no&#160;catálogo&#160;do&#160;sistema.</p>
+<p style="position:absolute;top:203px;left:76px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:203px;left:210px;white-space:nowrap" class="ft011">Projetos&#160;personalizados&#160;gerados&#160;pelo&#160;sistema.</p>
+<p style="position:absolute;top:203px;left:447px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:199px;left:595px;white-space:nowrap" class="ft015">Relatórios&#160;de&#160;orçamento&#160;detalhados&#160;com&#160;custos&#160;totais&#160;e&#160;individuais&#160;dos&#160;itens&#160;<br/>selecionados.</p>
+<p style="position:absolute;top:222px;left:76px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:217px;left:210px;white-space:nowrap" class="ft015">Armazenamento&#160;local&#160;do&#160;dispositivo&#160;ou&#160;na&#160;nuvem,&#160;para&#160;posterior&#160;acesso&#160;<br/>e&#160;visualização.</p>
+<p style="position:absolute;top:222px;left:447px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:217px;left:595px;white-space:nowrap" class="ft015">Armazenamento&#160;local&#160;do&#160;dispositivo&#160;ou&#160;na&#160;nuvem,&#160;para&#160;posterior&#160;acesso&#160;e&#160;<br/>referência.</p>
+<p style="position:absolute;top:245px;left:76px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:241px;left:210px;white-space:nowrap" class="ft015">O&#160;sistema&#160;guia&#160;os&#160;usuários&#160;através&#160;do&#160;processo&#160;de&#160;criação&#160;de&#160;projetos,&#160;<br/>permitindo&#160;seleções&#160;e&#160;ajustes&#160;para&#160;personalizar&#160;o&#160;resultado&#160;final.</p>
+<p style="position:absolute;top:245px;left:447px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:241px;left:595px;white-space:nowrap" class="ft015">O&#160;sistema&#160;calcula&#160;os&#160;custos&#160;com&#160;base&#160;nas&#160;seleções&#160;dos&#160;usuários&#160;e&#160;gera&#160;um&#160;<br/>relatório&#160;formatado&#160;com&#160;informações&#160;relevantes.</p>
+<p style="position:absolute;top:274px;left:76px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:269px;left:210px;white-space:nowrap" class="ft015">Amplas&#160;opções&#160;de&#160;móveis,&#160;estilos&#160;e&#160;layouts&#160;disponíveis&#160;no&#160;catálogo,&#160;<br/>funcionalidades&#160;de&#160;edição&#160;e&#160;personalização&#160;de&#160;projetos.</p>
+<p style="position:absolute;top:274px;left:447px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:269px;left:595px;white-space:nowrap" class="ft015">Dados&#160;precisos&#160;de&#160;preços&#160;para&#160;os&#160;móveis&#160;e&#160;acessórios&#160;no&#160;catálogo,&#160;<br/>capacidade&#160;de&#160;cálculo&#160;e&#160;formatação&#160;de&#160;relatórios.</p>
+<p style="position:absolute;top:297px;left:76px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:292px;left:210px;white-space:nowrap" class="ft015">Aplicativo&#160;de&#160;realidade&#160;aumentada&#160;em&#160;execução,&#160;acesso&#160;ao&#160;catálogo&#160;de&#160;<br/>móveis&#160;e&#160;estilos&#160;disponíveis.</p>
+<p style="position:absolute;top:297px;left:447px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:292px;left:595px;white-space:nowrap" class="ft015">Seleções&#160;de&#160;móveis&#160;e&#160;acessórios&#160;feitas&#160;pelos&#160;usuários&#160;durante&#160;a&#160;criação&#160;do&#160;<br/>projeto.</p>
+<p style="position:absolute;top:316px;left:76px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:311px;left:210px;white-space:nowrap" class="ft015">Usuários&#160;obtêm&#160;projetos&#160;personalizados&#160;prontos&#160;para&#160;visualização&#160;e&#160;<br/>compartilhamento.</p>
+<p style="position:absolute;top:316px;left:447px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:311px;left:595px;white-space:nowrap" class="ft015">Usuários&#160;obtêm&#160;relatórios&#160;detalhados&#160;de&#160;custos&#160;para&#160;seus&#160;projetos&#160;de&#160;design&#160;<br/>de&#160;interiores.</p>
+<p style="position:absolute;top:339px;left:76px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:334px;left:210px;white-space:nowrap" class="ft015">Possíveis&#160;dificuldades&#160;de&#160;escolha&#160;ou&#160;complexidade&#160;no&#160;processo&#160;de&#160;criação&#160;<br/>para&#160;usuários&#160;menos&#160;familiarizados&#160;com&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:339px;left:447px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:334px;left:595px;white-space:nowrap" class="ft015">Possíveis&#160;variações&#160;nos&#160;preços&#160;dos&#160;móveis&#160;devido&#160;a&#160;atualizações&#160;de&#160;catálogo&#160;<br/>ou&#160;mudanças&#160;nos&#160;fornecedores.</p>
+<p style="position:absolute;top:391px;left:86px;white-space:nowrap" class="ft011">US012&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(SHOULD)</p>
+<p style="position:absolute;top:377px;left:210px;white-space:nowrap" class="ft015">Como&#160;usuário,&#160;quero&#160;poder&#160;selecionar&#160;diferentes&#160;móveis,&#160;estilos&#160;e&#160;layouts&#160;<br/>para&#160;criar&#160;um&#160;projeto&#160;personalizado&#160;de&#160;design&#160;de&#160;interiores,&#160;para&#160;refletir&#160;<br/>minha&#160;personalidade&#160;e&#160;atender&#160;às&#160;minhas&#160;necessidades&#160;específicas&#160;de&#160;<br/>decoração.</p>
+<p style="position:absolute;top:391px;left:470px;white-space:nowrap" class="ft011">US013&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(SHOULD)</p>
+<p style="position:absolute;top:377px;left:595px;white-space:nowrap" class="ft015">Como&#160;usuário,&#160;desejo&#160;receber&#160;um&#160;relatório&#160;detalhado&#160;de&#160;orçamento&#160;após&#160;<br/>criar&#160;um&#160;projeto&#160;de&#160;design&#160;de&#160;interiores,&#160;para&#160;entender&#160;os&#160;custos&#160;associados&#160;<br/>aos&#160;móveis&#160;selecionados&#160;e&#160;planejar&#160;meu&#160;investimento&#160;de&#160;forma&#160;mais&#160;<br/>consciente.</p>
+<p style="position:absolute;top:433px;left:76px;white-space:nowrap" class="ft011">Histórico&#160;de&#160;Revisões</p>
+<p style="position:absolute;top:433px;left:446px;white-space:nowrap" class="ft011">Integração&#160;com&#160;Dispositivos&#160;Inteligentes</p>
+<p style="position:absolute;top:442px;left:76px;white-space:nowrap" class="ft012">RQF014</p>
+<p style="position:absolute;top:442px;left:210px;white-space:nowrap" class="ft012">Sincronização</p>
+<p style="position:absolute;top:442px;left:446px;white-space:nowrap" class="ft012">RQF015</p>
+<p style="position:absolute;top:442px;left:595px;white-space:nowrap" class="ft012">Sincronização</p>
+<p style="position:absolute;top:456px;left:76px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:451px;left:210px;white-space:nowrap" class="ft015">Manter&#160;um&#160;registro&#160;de&#160;todas&#160;as&#160;revisões&#160;e&#160;alterações&#160;feitas&#160;nos&#160;projetos&#160;<br/>ao&#160;longo&#160;do&#160;tempo.</p>
+<p style="position:absolute;top:456px;left:447px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:451px;left:595px;white-space:nowrap" class="ft015">Permitir&#160;que&#160;os&#160;usuários&#160;controlem&#160;os&#160;móveis&#160;virtualmente&#160;visualizados&#160;<br/>usando&#160;dispositivos&#160;domésticos&#160;inteligentes.</p>
+<p style="position:absolute;top:479px;left:76px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:470px;left:210px;white-space:nowrap" class="ft015">O&#160;sistema&#160;armazena&#160;todas&#160;as&#160;versões&#160;anteriores&#160;dos&#160;projetos&#160;dos&#160;<br/>usuários,&#160;permitindo&#160;que&#160;eles&#160;visualizem&#160;e&#160;revertam&#160;para&#160;versões&#160;<br/>anteriores,&#160;se&#160;necessário.</p>
+<p style="position:absolute;top:479px;left:447px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:470px;left:595px;white-space:nowrap" class="ft015">Os&#160;usuários&#160;podem&#160;ajustar&#160;a&#160;iluminação,&#160;temperatura&#160;ou&#160;outras&#160;<br/>configurações&#160;do&#160;ambiente&#160;diretamente&#160;através&#160;do&#160;aplicativo&#160;de&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:503px;left:76px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:503px;left:210px;white-space:nowrap" class="ft011">Alterações&#160;feitas&#160;pelos&#160;usuários&#160;nos&#160;projetos.</p>
+<p style="position:absolute;top:503px;left:447px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:503px;left:595px;white-space:nowrap" class="ft011">Comandos&#160;de&#160;controle&#160;enviados&#160;pelos&#160;usuários&#160;através&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:522px;left:76px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:522px;left:210px;white-space:nowrap" class="ft011">Registro&#160;interno&#160;do&#160;sistema&#160;das&#160;ações&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:522px;left:447px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:522px;left:595px;white-space:nowrap" class="ft011">Interação&#160;dos&#160;usuários&#160;com&#160;dispositivos&#160;domésticos&#160;inteligentes&#160;conectados.</p>
+<p style="position:absolute;top:540px;left:76px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:536px;left:210px;white-space:nowrap" class="ft015">Histórico&#160;de&#160;revisões&#160;com&#160;informações&#160;sobre&#160;as&#160;alterações&#160;feitas&#160;e&#160;datas&#160;<br/>correspondentes.</p>
+<p style="position:absolute;top:540px;left:447px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:536px;left:595px;white-space:nowrap" class="ft015">Alterações&#160;nas&#160;configurações&#160;do&#160;ambiente&#160;conforme&#160;comandos&#160;enviados&#160;<br/>pelos&#160;usuários.</p>
+<p style="position:absolute;top:559px;left:76px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:554px;left:210px;white-space:nowrap" class="ft015">Armazenamento&#160;local&#160;do&#160;dispositivo&#160;ou&#160;na&#160;nuvem,&#160;para&#160;posterior&#160;acesso&#160;<br/>e&#160;referência.</p>
+<p style="position:absolute;top:559px;left:447px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:559px;left:595px;white-space:nowrap" class="ft011">Dispositivos&#160;domésticos&#160;inteligentes&#160;conectados&#160;ao&#160;sistema.</p>
+<p style="position:absolute;top:582px;left:76px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:578px;left:210px;white-space:nowrap" class="ft015">O&#160;sistema&#160;registra&#160;automaticamente&#160;todas&#160;as&#160;alterações&#160;nos&#160;projetos&#160;dos&#160;<br/>usuários&#160;e&#160;mantém&#160;um&#160;histórico&#160;organizado&#160;para&#160;consulta.</p>
+<p style="position:absolute;top:582px;left:447px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:578px;left:595px;white-space:nowrap" class="ft015">O&#160;sistema&#160;envia&#160;comandos&#160;para&#160;os&#160;dispositivos&#160;domésticos&#160;inteligentes&#160;de&#160;<br/>acordo&#160;com&#160;as&#160;solicitações&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:611px;left:76px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:606px;left:210px;white-space:nowrap" class="ft015">Capacidade&#160;de&#160;armazenamento&#160;e&#160;organização&#160;de&#160;dados,&#160;funcionalidade&#160;<br/>de&#160;registro&#160;de&#160;alterações.</p>
+<p style="position:absolute;top:611px;left:447px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:606px;left:595px;white-space:nowrap" class="ft015">Integração&#160;com&#160;APIs&#160;ou&#160;protocolos&#160;de&#160;comunicação&#160;de&#160;dispositivos&#160;<br/>domésticos&#160;inteligentes,&#160;compatibilidade&#160;com&#160;diferentes&#160;marcas&#160;e&#160;modelos.</p>
+<p style="position:absolute;top:634px;left:76px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:634px;left:210px;white-space:nowrap" class="ft011">Alterações&#160;feitas&#160;nos&#160;projetos&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:634px;left:447px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:629px;left:595px;white-space:nowrap" class="ft015">Dispositivos&#160;domésticos&#160;inteligentes&#160;conectados&#160;e&#160;configurados&#160;para&#160;<br/>funcionar&#160;com&#160;o&#160;sistema.</p>
+<p style="position:absolute;top:653px;left:76px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:648px;left:210px;white-space:nowrap" class="ft015">Usuários&#160;podem&#160;acessar&#160;e&#160;revisar&#160;todas&#160;as&#160;alterações&#160;feitas&#160;em&#160;seus&#160;<br/>projetos&#160;ao&#160;longo&#160;do&#160;tempo.</p>
+<p style="position:absolute;top:653px;left:447px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:648px;left:595px;white-space:nowrap" class="ft015">Usuários&#160;podem&#160;controlar&#160;os&#160;móveis&#160;virtualmente&#160;visualizados&#160;e&#160;ajustar&#160;as&#160;<br/>configurações&#160;do&#160;ambiente&#160;de&#160;forma&#160;conveniente.</p>
+<p style="position:absolute;top:676px;left:76px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:671px;left:210px;white-space:nowrap" class="ft015">Possível&#160;aumento&#160;do&#160;uso&#160;de&#160;armazenamento&#160;de&#160;dados,&#160;especialmente&#160;<br/>para&#160;projetos&#160;com&#160;muitas&#160;revisões.</p>
+<p style="position:absolute;top:676px;left:447px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:671px;left:595px;white-space:nowrap" class="ft015">Possíveis&#160;problemas&#160;de&#160;compatibilidade&#160;com&#160;dispositivos&#160;domésticos&#160;<br/>inteligentes&#160;mais&#160;antigos&#160;ou&#160;de&#160;marcas&#160;menos&#160;conhecidas.</p>
+<p style="position:absolute;top:732px;left:132px;white-space:nowrap" class="ft011">US014</p>
+<p style="position:absolute;top:742px;left:130px;white-space:nowrap" class="ft011">(MUST)</p>
+<p style="position:absolute;top:723px;left:210px;white-space:nowrap" class="ft016">Como&#160;usuário,&#160;gostaria&#160;de&#160;poder&#160;acessar&#160;um&#160;histórico&#160;de&#160;<br/>revisões&#160;do&#160;meu&#160;projeto&#160;de&#160;design&#160;de&#160;interiores,&#160;para&#160;<br/>acompanhar&#160;as&#160;mudanças&#160;feitas&#160;ao&#160;longo&#160;do&#160;tempo&#160;e&#160;garantir&#160;<br/>que&#160;estou&#160;satisfeito&#160;com&#160;a&#160;evolução&#160;do&#160;meu&#160;projeto.</p>
+<p style="position:absolute;top:732px;left:510px;white-space:nowrap" class="ft011">US015</p>
+<p style="position:absolute;top:742px;left:508px;white-space:nowrap" class="ft011">(MUST)</p>
+<p style="position:absolute;top:718px;left:595px;white-space:nowrap" class="ft015">Como&#160;usuário,&#160;quero&#160;poder&#160;controlar&#160;os&#160;móveis&#160;virtualmente&#160;visualizados&#160;<br/>usando&#160;dispositivos&#160;domésticos&#160;inteligentes,&#160;para&#160;ajustar&#160;o&#160;ambiente&#160;de&#160;<br/>acordo&#160;com&#160;minhas&#160;preferências&#160;de&#160;iluminação,&#160;temperatura&#160;e&#160;outras&#160;<br/>configurações,&#160;tudo&#160;de&#160;forma&#160;conveniente&#160;através&#160;do&#160;aplicativo&#160;de&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:86px;left:197px;white-space:nowrap" class="ft012">REQUISITO&#160;FUNCIONAL&#160;DETALHADO</p>
+<p style="position:absolute;top:367px;left:223px;white-space:nowrap" class="ft012">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:367px;left:606px;white-space:nowrap" class="ft012">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:704px;left:223px;white-space:nowrap" class="ft012">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:704px;left:606px;white-space:nowrap" class="ft012">História&#160;de&#160;Usuário</p>
+</div>
+<!-- Page 6 -->
+<a name="6"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}-->
+</style>
+<div id="page6-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output006.png" alt="background image"/>
+<p style="position:absolute;top:87px;left:58px;white-space:nowrap" class="ft07">Funcionais</p>
+<p style="position:absolute;top:110px;left:58px;white-space:nowrap" class="ft010">Animação&#160;de&#160;Layouts&#160;<br/>(RQF002)</p>
+<p style="position:absolute;top:115px;left:179px;white-space:nowrap" class="ft07">Sincronização</p>
+<p style="position:absolute;top:110px;left:463px;white-space:nowrap" class="ft010">Gerenciamento&#160;Inteligente&#160;de&#160;<br/>Notificações&#160;(RQF021)</p>
+<p style="position:absolute;top:132px;left:58px;white-space:nowrap" class="ft07">Função</p>
+<p style="position:absolute;top:132px;left:179px;white-space:nowrap" class="ft07">Animação&#160;de&#160;Layouts&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:132px;left:463px;white-space:nowrap" class="ft07">Função</p>
+<p style="position:absolute;top:132px;left:595px;white-space:nowrap" class="ft07">Gerenciamento&#160;Inteligente&#160;de&#160;Notificações</p>
+<p style="position:absolute;top:149px;left:58px;white-space:nowrap" class="ft07">Descrição</p>
+<p style="position:absolute;top:144px;left:179px;white-space:nowrap" class="ft010">Permite&#160;a&#160;criação&#160;de&#160;animações&#160;para<br/>&#160;visualização&#160;dinâmica&#160;dos&#160;layouts&#160;de&#160;design.</p>
+<p style="position:absolute;top:149px;left:463px;white-space:nowrap" class="ft07">Descrição</p>
+<p style="position:absolute;top:144px;left:595px;white-space:nowrap" class="ft010">Gerenciar&#160;notificações&#160;com&#160;base&#160;na&#160;<br/>localização</p>
+<p style="position:absolute;top:171px;left:58px;white-space:nowrap" class="ft07">Entradas</p>
+<p style="position:absolute;top:171px;left:179px;white-space:nowrap" class="ft07">Layouts&#160;de&#160;design,&#160;parâmetros&#160;de&#160;animação.</p>
+<p style="position:absolute;top:171px;left:463px;white-space:nowrap" class="ft07">Entradas</p>
+<p style="position:absolute;top:166px;left:595px;white-space:nowrap" class="ft010">Dados&#160;de&#160;Localização,&#160;Preferências&#160;de&#160;<br/>Usuário,&#160;Notificações</p>
+<p style="position:absolute;top:188px;left:58px;white-space:nowrap" class="ft07">Origem</p>
+<p style="position:absolute;top:188px;left:179px;white-space:nowrap" class="ft07">Interface&#160;de&#160;usuário&#160;da&#160;aplicação.</p>
+<p style="position:absolute;top:188px;left:463px;white-space:nowrap" class="ft07">Origem</p>
+<p style="position:absolute;top:188px;left:595px;white-space:nowrap" class="ft07">Aplicação</p>
+<p style="position:absolute;top:200px;left:58px;white-space:nowrap" class="ft07">Saídas</p>
+<p style="position:absolute;top:200px;left:179px;white-space:nowrap" class="ft07">Animações&#160;dos&#160;layouts.</p>
+<p style="position:absolute;top:200px;left:463px;white-space:nowrap" class="ft07">Saídas</p>
+<p style="position:absolute;top:200px;left:595px;white-space:nowrap" class="ft07">Notificações&#160;Gerenciadas</p>
+<p style="position:absolute;top:216px;left:58px;white-space:nowrap" class="ft07">Destino</p>
+<p style="position:absolute;top:211px;left:179px;white-space:nowrap" class="ft010">Visualização&#160;na&#160;interface&#160;de&#160;usuário&#160;ou&#160;em&#160;formato&#160;de&#160;<br/>arquivo.</p>
+<p style="position:absolute;top:216px;left:463px;white-space:nowrap" class="ft07">Destino</p>
+<p style="position:absolute;top:216px;left:595px;white-space:nowrap" class="ft07">Usuário</p>
+<p style="position:absolute;top:239px;left:58px;white-space:nowrap" class="ft07">Ação</p>
+<p style="position:absolute;top:233px;left:179px;white-space:nowrap" class="ft010">Geração&#160;de&#160;animações&#160;baseadas&#160;nos&#160;layouts&#160;e&#160;<br/>parâmetros&#160;fornecidos.</p>
+<p style="position:absolute;top:239px;left:463px;white-space:nowrap" class="ft07">Ação</p>
+<p style="position:absolute;top:239px;left:595px;white-space:nowrap" class="ft07">Gerenciar&#160;Notificações</p>
+<p style="position:absolute;top:261px;left:58px;white-space:nowrap" class="ft07">Requer</p>
+<p style="position:absolute;top:255px;left:179px;white-space:nowrap" class="ft010">Capacidade&#160;de&#160;processamento&#160;para&#160;renderização&#160;de&#160;<br/>animações.</p>
+<p style="position:absolute;top:261px;left:463px;white-space:nowrap" class="ft07">Requer</p>
+<p style="position:absolute;top:255px;left:595px;white-space:nowrap" class="ft010">Dados&#160;de&#160;Localização,&#160;Preferências&#160;de&#160;<br/>Usuário,&#160;Notificações</p>
+<p style="position:absolute;top:277px;left:58px;white-space:nowrap" class="ft07">Pré-condição</p>
+<p style="position:absolute;top:277px;left:179px;white-space:nowrap" class="ft07">Existência&#160;de&#160;layouts&#160;de&#160;design&#160;a&#160;serem&#160;animados.</p>
+<p style="position:absolute;top:277px;left:463px;white-space:nowrap" class="ft07">Pré-condição</p>
+<p style="position:absolute;top:277px;left:595px;white-space:nowrap" class="ft07">Aplicação&#160;está&#160;em&#160;execução</p>
+<p style="position:absolute;top:294px;left:58px;white-space:nowrap" class="ft07">Pós-Condição</p>
+<p style="position:absolute;top:289px;left:179px;white-space:nowrap" class="ft010">Animações&#160;geradas&#160;e&#160;prontas&#160;para&#160;serem&#160;visualizadas&#160;ou&#160;<br/>exportadas.</p>
+<p style="position:absolute;top:294px;left:463px;white-space:nowrap" class="ft07">Pós-Condição</p>
+<p style="position:absolute;top:289px;left:595px;white-space:nowrap" class="ft010">Notificações&#160;adaptadas&#160;à&#160;localização&#160;do&#160;<br/>usuário</p>
+<p style="position:absolute;top:322px;left:58px;white-space:nowrap" class="ft07">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:311px;left:179px;white-space:nowrap" class="ft010">Possíveis&#160;impactos&#160;no&#160;desempenho&#160;da&#160;aplicação&#160;devido&#160;<br/>ao&#160;processamento&#160;adicional&#160;necessário&#160;para&#160;a&#160;geração&#160;de&#160;<br/>animações.</p>
+<p style="position:absolute;top:322px;left:463px;white-space:nowrap" class="ft07">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:322px;left:595px;white-space:nowrap" class="ft07">Nenhum</p>
+<p style="position:absolute;top:356px;left:58px;white-space:nowrap" class="ft07">HISTÓRIA&#160;DE&#160;USUÁRIO</p>
+<p style="position:absolute;top:356px;left:463px;white-space:nowrap" class="ft07">HISTÓRIA&#160;DE&#160;USUÁRIO</p>
+<p style="position:absolute;top:395px;left:58px;white-space:nowrap" class="ft07">US002</p>
+<p style="position:absolute;top:378px;left:179px;white-space:nowrap" class="ft010">Um&#160;profissional&#160;deseja&#160;uma&#160;aplicação&#160;com&#160;animação&#160;de&#160;<br/>layouts&#160;para&#160;facilitar&#160;a&#160;visualização&#160;de&#160;mudanças&#160;em&#160;<br/>projetos&#160;de&#160;design&#160;de&#160;interiores,&#160;tornando&#160;a&#160;comunicação&#160;<br/>com&#160;clientes&#160;e&#160;colegas&#160;mais&#160;clara&#160;e&#160;eficaz.</p>
+<p style="position:absolute;top:395px;left:463px;white-space:nowrap" class="ft07">US021</p>
+<p style="position:absolute;top:372px;left:595px;white-space:nowrap" class="ft010">Um&#160;designer&#160;de&#160;interiores&#160;procura&#160;por&#160;um&#160;<br/>aplicativo&#160;que&#160;gerencie&#160;notificações&#160;com&#160;base&#160;<br/>em&#160;sua&#160;localização,&#160;priorizando&#160;alertas&#160;<br/>relevantes&#160;sobre&#160;eventos&#160;próximos&#160;e&#160;tarefas&#160;<br/>importantes&#160;para&#160;otimizar&#160;sua&#160;produtividade.</p>
+<p style="position:absolute;top:456px;left:58px;white-space:nowrap" class="ft010">Integração&#160;com&#160;Redes&#160;<br/>Sociais&#160;(RQF016)</p>
+<p style="position:absolute;top:456px;left:463px;white-space:nowrap" class="ft010">Integração&#160;de&#160;Realidade&#160;<br/>Virtual&#160;(RQF028)</p>
+<p style="position:absolute;top:479px;left:58px;white-space:nowrap" class="ft07">Função</p>
+<p style="position:absolute;top:479px;left:179px;white-space:nowrap" class="ft07">Integração&#160;com&#160;Redes&#160;Sociais</p>
+<p style="position:absolute;top:479px;left:463px;white-space:nowrap" class="ft07">Função</p>
+<p style="position:absolute;top:479px;left:726px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:479px;left:595px;white-space:nowrap" class="ft07">Integração&#160;de&#160;Realidade&#160;Virtual</p>
+<p style="position:absolute;top:512px;left:58px;white-space:nowrap" class="ft07">Descrição</p>
+<p style="position:absolute;top:495px;left:179px;white-space:nowrap" class="ft010">Ampliar&#160;a&#160;capacidade&#160;da&#160;aplicação&#160;de&#160;se&#160;tornar&#160;uma&#160;<br/>plataforma&#160;comunitária,&#160;permitindo&#160;que&#160;os&#160;usuários&#160;<br/>compartilhem&#160;suas&#160;criações&#160;e&#160;interajam&#160;com&#160;outros&#160;</p>
+<p style="position:absolute;top:530px;left:216px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:529px;left:179px;white-space:nowrap" class="ft07">usuários</p>
+<p style="position:absolute;top:512px;left:463px;white-space:nowrap" class="ft07">Descrição</p>
+<p style="position:absolute;top:495px;left:595px;white-space:nowrap" class="ft010">Levar&#160;a&#160;experiência&#160;de&#160;design&#160;de&#160;interiores&#160;a&#160;<br/>um&#160;nível&#160;superior,&#160;permitindo&#160;que&#160;os&#160;usuários&#160;<br/>visualizem&#160;e&#160;explorem&#160;seus&#160;projetos&#160;em&#160;um&#160;</p>
+<p style="position:absolute;top:530px;left:701px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:529px;left:595px;white-space:nowrap" class="ft07">ambiente&#160;virtual&#160;imersivo</p>
+<p style="position:absolute;top:551px;left:58px;white-space:nowrap" class="ft07">Entradas</p>
+<p style="position:absolute;top:551px;left:345px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:551px;left:179px;white-space:nowrap" class="ft07">Redes&#160;Sociais,&#160;Preferências&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:551px;left:463px;white-space:nowrap" class="ft07">Entradas</p>
+<p style="position:absolute;top:545px;left:595px;white-space:nowrap" class="ft07">Projetos&#160;de&#160;Design,&#160;Dispositivos&#160;de&#160;Realidade&#160;</p>
+<p style="position:absolute;top:557px;left:622px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:557px;left:595px;white-space:nowrap" class="ft07">Virtual</p>
+<p style="position:absolute;top:568px;left:58px;white-space:nowrap" class="ft07">Origem</p>
+<p style="position:absolute;top:568px;left:179px;white-space:nowrap" class="ft07">Aplicação</p>
+<p style="position:absolute;top:568px;left:463px;white-space:nowrap" class="ft07">Origem</p>
+<p style="position:absolute;top:568px;left:595px;white-space:nowrap" class="ft07">Aplicação</p>
+<p style="position:absolute;top:579px;left:58px;white-space:nowrap" class="ft07">Saídas</p>
+<p style="position:absolute;top:580px;left:247px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:579px;left:179px;white-space:nowrap" class="ft07">Interação&#160;Social</p>
+<p style="position:absolute;top:579px;left:463px;white-space:nowrap" class="ft07">Saídas</p>
+<p style="position:absolute;top:580px;left:731px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:579px;left:595px;white-space:nowrap" class="ft07">Experiência&#160;de&#160;Realidade&#160;Virtual</p>
+<p style="position:absolute;top:591px;left:58px;white-space:nowrap" class="ft07">Destino</p>
+<p style="position:absolute;top:591px;left:277px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:591px;left:179px;white-space:nowrap" class="ft07">Usuário,&#160;Redes&#160;Sociais</p>
+<p style="position:absolute;top:591px;left:463px;white-space:nowrap" class="ft07">Destino</p>
+<p style="position:absolute;top:591px;left:595px;white-space:nowrap" class="ft07">Usuário</p>
+<p style="position:absolute;top:602px;left:58px;white-space:nowrap" class="ft07">Ação</p>
+<p style="position:absolute;top:603px;left:274px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:602px;left:179px;white-space:nowrap" class="ft07">Integrar&#160;Redes&#160;Sociais</p>
+<p style="position:absolute;top:602px;left:463px;white-space:nowrap" class="ft07">Ação</p>
+<p style="position:absolute;top:603px;left:702px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:602px;left:595px;white-space:nowrap" class="ft07">Integrar&#160;Realidade&#160;Virtual</p>
+<p style="position:absolute;top:619px;left:58px;white-space:nowrap" class="ft07">Requer</p>
+<p style="position:absolute;top:620px;left:345px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:619px;left:179px;white-space:nowrap" class="ft07">Redes&#160;Sociais,&#160;Preferências&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:619px;left:463px;white-space:nowrap" class="ft07">Requer</p>
+<p style="position:absolute;top:614px;left:595px;white-space:nowrap" class="ft07">Projetos&#160;de&#160;Design,&#160;Dispositivos&#160;de&#160;Realidade&#160;</p>
+<p style="position:absolute;top:625px;left:622px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:625px;left:595px;white-space:nowrap" class="ft07">Virtual</p>
+<p style="position:absolute;top:636px;left:58px;white-space:nowrap" class="ft07">Pré-condição</p>
+<p style="position:absolute;top:636px;left:298px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:636px;left:179px;white-space:nowrap" class="ft07">Aplicação&#160;está&#160;em&#160;execução</p>
+<p style="position:absolute;top:636px;left:463px;white-space:nowrap" class="ft07">Pré-condição</p>
+<p style="position:absolute;top:636px;left:714px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:636px;left:595px;white-space:nowrap" class="ft07">Aplicação&#160;está&#160;em&#160;execução</p>
+<p style="position:absolute;top:653px;left:58px;white-space:nowrap" class="ft07">Pós-Condição</p>
+<p style="position:absolute;top:653px;left:332px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:653px;left:179px;white-space:nowrap" class="ft07">Interação&#160;e&#160;compartilhamento&#160;social</p>
+<p style="position:absolute;top:653px;left:463px;white-space:nowrap" class="ft07">Pós-Condição</p>
+<p style="position:absolute;top:647px;left:595px;white-space:nowrap" class="ft07">Experiência&#160;de&#160;design&#160;imersiva&#160;em&#160;realidade&#160;</p>
+<p style="position:absolute;top:659px;left:624px;white-space:nowrap" class="ft012">&#160;</p>
+<p style="position:absolute;top:659px;left:595px;white-space:nowrap" class="ft07">virtual.</p>
+<p style="position:absolute;top:670px;left:58px;white-space:nowrap" class="ft07">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:670px;left:179px;white-space:nowrap" class="ft07">Nenhum</p>
+<p style="position:absolute;top:670px;left:463px;white-space:nowrap" class="ft07">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:670px;left:595px;white-space:nowrap" class="ft07">Nenhum</p>
+<p style="position:absolute;top:693px;left:58px;white-space:nowrap" class="ft07">HISTÓRIA&#160;DE&#160;USUÁRIO</p>
+<p style="position:absolute;top:693px;left:463px;white-space:nowrap" class="ft07">HISTÓRIA&#160;DE&#160;USUÁRIO</p>
+<p style="position:absolute;top:754px;left:58px;white-space:nowrap" class="ft07">US016</p>
+<p style="position:absolute;top:725px;left:179px;white-space:nowrap" class="ft010">Um&#160;usuário&#160;busca&#160;um&#160;aplicativo&#160;que&#160;integre&#160;redes&#160;sociais&#160;<br/>para&#160;compartilhar&#160;facilmente&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;<br/>interiores&#160;e&#160;interagir&#160;com&#160;outros&#160;entusiastas,&#160;buscando&#160;<br/>feedback&#160;e&#160;inspiração,&#160;e&#160;acompanhando&#160;as&#160;tendências.&#160;<br/>Essa&#160;integração&#160;social&#160;tornaria&#160;a&#160;experiência&#160;mais&#160;<br/>envolvente&#160;e&#160;poderia&#160;atrair&#160;novos&#160;usuários.</p>
+<p style="position:absolute;top:754px;left:463px;white-space:nowrap" class="ft07">US028</p>
+<p style="position:absolute;top:720px;left:595px;white-space:nowrap" class="ft010">Um&#160;profissional&#160;busca&#160;um&#160;aplicativo&#160;que&#160;<br/>integre&#160;realidade&#160;virtual&#160;para&#160;apresentar&#160;seus&#160;<br/>projetos&#160;aos&#160;clientes&#160;de&#160;forma&#160;imersiva&#160;e&#160;<br/>interativa.&#160;Essa&#160;ferramenta&#160;permitiria&#160;ajustes&#160;<br/>em&#160;tempo&#160;real&#160;durante&#160;a&#160;visualização,&#160;<br/>proporcionando&#160;uma&#160;experiência&#160;diferenciada&#160;<br/>e&#160;destacando&#160;sua&#160;expertise&#160;no&#160;mercado&#160;de&#160;<br/>design&#160;de&#160;interiores.</p>
+</div>
+<!-- Page 7 -->
+<a name="7"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft017{font-size:9px;font-family:CIDFont+F4;color:#0d0d0d;}
+	.ft018{font-size:8px;line-height:11px;font-family:CIDFont+F2;color:#000000;}
+	.ft019{font-size:9px;line-height:11px;font-family:CIDFont+F4;color:#0d0d0d;}
+-->
+</style>
+<div id="page7-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output007.png" alt="background image"/>
+<p style="position:absolute;top:97px;left:104px;white-space:nowrap" class="ft07">REQUISITO&#160;FUNCIONAL&#160;DETALHADO</p>
+<p style="position:absolute;top:120px;left:94px;white-space:nowrap" class="ft08">Comparação&#160;de&#160;Projetos</p>
+<p style="position:absolute;top:109px;left:506px;white-space:nowrap" class="ft018">Compatibilidade&#160;com&#160;Realidade&#160;<br/>Virtual</p>
+<p style="position:absolute;top:133px;left:94px;white-space:nowrap" class="ft07">RQF006</p>
+<p style="position:absolute;top:133px;left:250px;white-space:nowrap" class="ft07">Sincronização</p>
+<p style="position:absolute;top:133px;left:506px;white-space:nowrap" class="ft07">RQF007</p>
+<p style="position:absolute;top:133px;left:627px;white-space:nowrap" class="ft07">Sincronização</p>
+<p style="position:absolute;top:150px;left:94px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:144px;left:250px;white-space:nowrap" class="ft018">Permitir&#160;que&#160;os&#160;usuários&#160;comparem&#160;diferentes&#160;projetos&#160;de&#160;<br/>design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:150px;left:506px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:144px;left:627px;white-space:nowrap" class="ft018">Permitir&#160;que&#160;os&#160;usuários&#160;visualizem&#160;os&#160;móveis&#160;em&#160;<br/>ambientes&#160;virtuais&#160;em&#160;360&#160;graus.</p>
+<p style="position:absolute;top:185px;left:94px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:173px;left:250px;white-space:nowrap" class="ft018">Os&#160;usuários&#160;podem&#160;visualizar&#160;múltiplos&#160;projetos&#160;<br/>simultaneamente,&#160;lado&#160;a&#160;lado&#160;ou&#160;sobrepostos,&#160;para&#160;<br/>comparar&#160;diferentes&#160;opções&#160;de&#160;mobiliário&#160;e&#160;layout.</p>
+<p style="position:absolute;top:185px;left:506px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:173px;left:627px;white-space:nowrap" class="ft018">Os&#160;usuários&#160;podem&#160;explorar&#160;os&#160;móveis&#160;em&#160;ambientes&#160;<br/>virtuais&#160;imersivos&#160;usando&#160;dispositivos&#160;de&#160;realidade&#160;virtual&#160;<br/>compatíveis.</p>
+<p style="position:absolute;top:220px;left:94px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:219px;left:250px;white-space:nowrap" class="ft08">Seleção&#160;de&#160;projetos&#160;a&#160;serem&#160;comparados&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:220px;left:506px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:219px;left:627px;white-space:nowrap" class="ft08">Ativação&#160;da&#160;função&#160;de&#160;realidade&#160;virtual&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:243px;left:94px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:236px;left:250px;white-space:nowrap" class="ft018">Ação&#160;direta&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo&#160;de&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:243px;left:506px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:242px;left:627px;white-space:nowrap" class="ft08">Interação&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:266px;left:94px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:265px;left:250px;white-space:nowrap" class="ft08">Visualização&#160;comparativa&#160;dos&#160;projetos&#160;selecionados.</p>
+<p style="position:absolute;top:266px;left:506px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:259px;left:627px;white-space:nowrap" class="ft018">Experiência&#160;de&#160;visualização&#160;em&#160;360&#160;graus&#160;dos&#160;móveis&#160;em&#160;<br/>ambientes&#160;virtuais.</p>
+<p style="position:absolute;top:283px;left:94px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:282px;left:250px;white-space:nowrap" class="ft08">Tela&#160;do&#160;dispositivo&#160;do&#160;usuário.</p>
+<p style="position:absolute;top:283px;left:506px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:282px;left:627px;white-space:nowrap" class="ft08">Dispositivos&#160;de&#160;realidade&#160;virtual&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:306px;left:94px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:300px;left:250px;white-space:nowrap" class="ft018">O&#160;sistema&#160;exibe&#160;os&#160;projetos&#160;selecionados&#160;para&#160;comparação&#160;<br/>de&#160;forma&#160;clara&#160;e&#160;acessível.</p>
+<p style="position:absolute;top:306px;left:506px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:294px;left:627px;white-space:nowrap" class="ft018">O&#160;sistema&#160;adapta&#160;a&#160;visualização&#160;dos&#160;móveis&#160;para&#160;<br/>funcionar&#160;em&#160;ambientes&#160;virtuais&#160;e&#160;dispositivos&#160;de&#160;<br/>realidade&#160;virtual.</p>
+<p style="position:absolute;top:341px;left:94px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:329px;left:250px;white-space:nowrap" class="ft018">Capacidade&#160;de&#160;renderizar&#160;múltiplos&#160;projetos&#160;<br/>simultaneamente,&#160;funcionalidade&#160;de&#160;seleção&#160;e&#160;exibição&#160;<br/>comparativa.</p>
+<p style="position:absolute;top:341px;left:506px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:334px;left:627px;white-space:nowrap" class="ft018">Capacidade&#160;de&#160;renderização&#160;em&#160;360&#160;graus,&#160;<br/>compatibilidade&#160;com&#160;dispositivos&#160;de&#160;realidade&#160;virtual.</p>
+<p style="position:absolute;top:369px;left:94px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:369px;left:250px;white-space:nowrap" class="ft08">Projetos&#160;de&#160;design&#160;de&#160;interiores&#160;carregados&#160;no&#160;aplicativo.</p>
+<p style="position:absolute;top:369px;left:506px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:363px;left:627px;white-space:nowrap" class="ft018">Dispositivos&#160;de&#160;realidade&#160;virtual&#160;conectados&#160;e&#160;<br/>funcionando&#160;corretamente.</p>
+<p style="position:absolute;top:393px;left:94px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:386px;left:250px;white-space:nowrap" class="ft018">Usuários&#160;conseguem&#160;avaliar&#160;e&#160;decidir&#160;entre&#160;diferentes&#160;<br/>opções&#160;de&#160;projeto.</p>
+<p style="position:absolute;top:393px;left:506px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:386px;left:627px;white-space:nowrap" class="ft018">Usuários&#160;podem&#160;explorar&#160;os&#160;móveis&#160;em&#160;ambientes&#160;<br/>virtuais&#160;de&#160;forma&#160;imersiva.</p>
+<p style="position:absolute;top:421px;left:94px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:415px;left:250px;white-space:nowrap" class="ft018">Possíveis&#160;confusões&#160;visuais&#160;se&#160;a&#160;interface&#160;de&#160;comparação&#160;não&#160;<br/>for&#160;bem&#160;projetada.</p>
+<p style="position:absolute;top:421px;left:506px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:415px;left:627px;white-space:nowrap" class="ft018">Possíveis&#160;problemas&#160;de&#160;compatibilidade&#160;ou&#160;desempenho&#160;<br/>com&#160;certos&#160;dispositivos&#160;de&#160;realidade&#160;virtual.</p>
+<p style="position:absolute;top:455px;left:135px;white-space:nowrap" class="ft07">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:455px;left:530px;white-space:nowrap" class="ft07">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:484px;left:156px;white-space:nowrap" class="ft018">US0006&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<br/>(MUST)</p>
+<p style="position:absolute;top:478px;left:250px;white-space:nowrap" class="ft018">Como&#160;usuário,&#160;quero&#160;poder&#160;visualizar&#160;diferentes&#160;projetos&#160;de&#160;<br/>design&#160;de&#160;interiores&#160;lado&#160;a&#160;lado,&#160;para&#160;comparar&#160;e&#160;decidir&#160;qual&#160;<br/>se&#160;encaixa&#160;melhor&#160;no&#160;meu&#160;espaço.</p>
+<p style="position:absolute;top:490px;left:508px;white-space:nowrap" class="ft08">US007&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(COULD)</p>
+<p style="position:absolute;top:473px;left:627px;white-space:nowrap" class="ft018">Como&#160;usuário,&#160;desejo&#160;poder&#160;explorar&#160;os&#160;móveis&#160;em&#160;<br/>ambientes&#160;virtuais&#160;usando&#160;um&#160;dispositivo&#160;de&#160;realidade&#160;<br/>virtual,&#160;para&#160;ter&#160;uma&#160;experiência&#160;imersiva&#160;de&#160;como&#160;os&#160;<br/>móveis&#160;se&#160;encaixariam&#160;em&#160;meu&#160;espaço.</p>
+<p style="position:absolute;top:558px;left:94px;white-space:nowrap" class="ft08">Compatibilidade&#160;com&#160;Smart&#160;Home</p>
+<p style="position:absolute;top:558px;left:506px;white-space:nowrap" class="ft08">Exportação&#160;de&#160;Projetos</p>
+<p style="position:absolute;top:571px;left:94px;white-space:nowrap" class="ft07">RQF008</p>
+<p style="position:absolute;top:571px;left:250px;white-space:nowrap" class="ft07">Sincronização</p>
+<p style="position:absolute;top:571px;left:506px;white-space:nowrap" class="ft07">RQF009</p>
+<p style="position:absolute;top:571px;left:627px;white-space:nowrap" class="ft07">Sincronização</p>
+<p style="position:absolute;top:600px;left:94px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:582px;left:250px;white-space:nowrap" class="ft018">Os&#160;usuários&#160;podem&#160;interagir&#160;com&#160;os&#160;móveis&#160;através&#160;de&#160;<br/>dispositivos&#160;de&#160;automação&#160;residencial&#160;compatíveis,&#160;como&#160;<br/>assistentes&#160;de&#160;voz&#160;ou&#160;aplicativos&#160;de&#160;controle&#160;de&#160;casa&#160;<br/>inteligente.</p>
+<p style="position:absolute;top:600px;left:506px;white-space:nowrap" class="ft09">Função</p>
+<p style="position:absolute;top:588px;left:627px;white-space:nowrap" class="ft018">Permitir&#160;que&#160;os&#160;usuários&#160;exportem&#160;seus&#160;projetos&#160;de&#160;<br/>design&#160;de&#160;interiores&#160;para&#160;outros&#160;formatos&#160;ou&#160;<br/>plataformas.</p>
+<p style="position:absolute;top:652px;left:94px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:651px;left:250px;white-space:nowrap" class="ft08">Comandos&#160;de&#160;controle&#160;de&#160;voz&#160;ou&#160;toque&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:652px;left:506px;white-space:nowrap" class="ft09">Descrição</p>
+<p style="position:absolute;top:634px;left:627px;white-space:nowrap" class="ft018">Os&#160;usuários&#160;podem&#160;salvar&#160;ou&#160;exportar&#160;seus&#160;projetos&#160;de&#160;<br/>design&#160;de&#160;interiores&#160;em&#160;formatos&#160;compatíveis&#160;com&#160;<br/>outros&#160;softwares&#160;ou&#160;compartilhar&#160;os&#160;projetos&#160;em&#160;redes&#160;<br/>sociais&#160;ou&#160;por&#160;e-mail.</p>
+<p style="position:absolute;top:693px;left:94px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:686px;left:250px;white-space:nowrap" class="ft018">Interação&#160;dos&#160;usuários&#160;com&#160;dispositivos&#160;de&#160;automação&#160;<br/>residencial.</p>
+<p style="position:absolute;top:693px;left:506px;white-space:nowrap" class="ft09">Entradas</p>
+<p style="position:absolute;top:692px;left:627px;white-space:nowrap" class="ft08">Comando&#160;de&#160;exportação&#160;acionado&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:710px;left:94px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:709px;left:250px;white-space:nowrap" class="ft08">Controle&#160;dos&#160;móveis&#160;virtualmente&#160;visualizados.</p>
+<p style="position:absolute;top:710px;left:506px;white-space:nowrap" class="ft09">Origem</p>
+<p style="position:absolute;top:709px;left:627px;white-space:nowrap" class="ft08">Ação&#160;direta&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:727px;left:94px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:721px;left:250px;white-space:nowrap" class="ft018">Dispositivos&#160;de&#160;automação&#160;residencial&#160;e&#160;móveis&#160;visualizados&#160;<br/>no&#160;ambiente&#160;real.</p>
+<p style="position:absolute;top:727px;left:506px;white-space:nowrap" class="ft09">Saídas</p>
+<p style="position:absolute;top:727px;left:627px;white-space:nowrap" class="ft08">Arquivos&#160;de&#160;projeto&#160;exportados&#160;ou&#160;compartilhados.</p>
+<p style="position:absolute;top:756px;left:94px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:744px;left:250px;white-space:nowrap" class="ft018">O&#160;sistema&#160;permite&#160;que&#160;os&#160;usuários&#160;controlem&#160;os&#160;móveis&#160;<br/>virtualmente&#160;visualizados&#160;usando&#160;dispositivos&#160;de&#160;automação&#160;<br/>residencial.</p>
+<p style="position:absolute;top:756px;left:506px;white-space:nowrap" class="ft09">Destino</p>
+<p style="position:absolute;top:750px;left:627px;white-space:nowrap" class="ft018">Armazenamento&#160;local&#160;do&#160;dispositivo&#160;ou&#160;plataformas&#160;de&#160;<br/>compartilhamento&#160;online.</p>
+<p style="position:absolute;top:790px;left:94px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:778px;left:250px;white-space:nowrap" class="ft018">Integração&#160;com&#160;sistemas&#160;de&#160;automação&#160;residencial,&#160;<br/>compatibilidade&#160;com&#160;protocolos&#160;de&#160;comunicação&#160;doméstica&#160;<br/>inteligente.</p>
+<p style="position:absolute;top:790px;left:506px;white-space:nowrap" class="ft09">Ação</p>
+<p style="position:absolute;top:778px;left:627px;white-space:nowrap" class="ft018">O&#160;sistema&#160;processa&#160;e&#160;converte&#160;os&#160;projetos&#160;de&#160;design&#160;de&#160;<br/>interiores&#160;em&#160;formatos&#160;compatíveis&#160;para&#160;exportação&#160;ou&#160;<br/>compartilhamento.</p>
+<p style="position:absolute;top:825px;left:94px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:819px;left:250px;white-space:nowrap" class="ft018">Dispositivos&#160;de&#160;automação&#160;residencial&#160;configurados&#160;e&#160;<br/>conectados&#160;ao&#160;sistema.</p>
+<p style="position:absolute;top:825px;left:506px;white-space:nowrap" class="ft09">Requer</p>
+<p style="position:absolute;top:819px;left:627px;white-space:nowrap" class="ft018">Funcionalidade&#160;de&#160;exportação&#160;de&#160;arquivos,&#160;<br/>compatibilidade&#160;com&#160;diferentes&#160;formatos&#160;de&#160;arquivo.</p>
+<p style="position:absolute;top:860px;left:94px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:853px;left:250px;white-space:nowrap" class="ft018">Usuários&#160;podem&#160;controlar&#160;os&#160;móveis&#160;virtualmente&#160;<br/>visualizados&#160;usando&#160;dispositivos&#160;de&#160;automação&#160;residencial.</p>
+<p style="position:absolute;top:860px;left:506px;white-space:nowrap" class="ft09">Pré-condição</p>
+<p style="position:absolute;top:853px;left:627px;white-space:nowrap" class="ft018">Projetos&#160;de&#160;design&#160;de&#160;interiores&#160;concluídos&#160;e&#160;prontos&#160;<br/>para&#160;exportação.</p>
+<p style="position:absolute;top:894px;left:94px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:888px;left:250px;white-space:nowrap" class="ft018">Possíveis&#160;problemas&#160;de&#160;conexão&#160;ou&#160;compatibilidade&#160;com&#160;<br/>diferentes&#160;sistemas&#160;de&#160;automação&#160;residencial.</p>
+<p style="position:absolute;top:894px;left:506px;white-space:nowrap" class="ft09">Pós-Condição</p>
+<p style="position:absolute;top:882px;left:627px;white-space:nowrap" class="ft018">Usuários&#160;podem&#160;acessar&#160;e&#160;compartilhar&#160;seus&#160;projetos&#160;de&#160;<br/>design&#160;de&#160;interiores&#160;em&#160;diferentes&#160;plataformas&#160;ou&#160;<br/>softwares.</p>
+<p style="position:absolute;top:923px;left:94px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:923px;left:506px;white-space:nowrap" class="ft09">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:917px;left:627px;white-space:nowrap" class="ft018">Possíveis&#160;perdas&#160;de&#160;dados&#160;ou&#160;formatação&#160;ao&#160;exportar&#160;<br/>para&#160;alguns&#160;formatos&#160;de&#160;arquivo.</p>
+<p style="position:absolute;top:950px;left:135px;white-space:nowrap" class="ft07">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:950px;left:530px;white-space:nowrap" class="ft07">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:987px;left:159px;white-space:nowrap" class="ft08">US008</p>
+<p style="position:absolute;top:999px;left:152px;white-space:nowrap" class="ft08">(SHOULD)</p>
+<p style="position:absolute;top:970px;left:250px;white-space:nowrap" class="ft019">Como&#160;usuário,&#160;quero&#160;poder&#160;controlar&#160;os&#160;móveis&#160;<br/>virtualmente&#160;visualizados&#160;através&#160;do&#160;sistema&#160;de&#160;<br/>automação&#160;residencial&#160;da&#160;minha&#160;casa,&#160;para&#160;ajustá-<br/>los&#160;de&#160;acordo&#160;com&#160;minhas&#160;preferências&#160;de&#160;forma&#160;<br/>conveniente.</p>
+<p style="position:absolute;top:987px;left:554px;white-space:nowrap" class="ft08">US009</p>
+<p style="position:absolute;top:999px;left:548px;white-space:nowrap" class="ft08">(WOULD)</p>
+<p style="position:absolute;top:970px;left:627px;white-space:nowrap" class="ft018">Como&#160;usuário,&#160;gostaria&#160;de&#160;poder&#160;exportar&#160;meus&#160;projetos&#160;<br/>de&#160;design&#160;de&#160;interiores&#160;para&#160;compartilhá-los&#160;com&#160;outros&#160;<br/>ou&#160;utilizá-los&#160;em&#160;outros&#160;softwares&#160;de&#160;design,&#160;para&#160;<br/>mostrar&#160;meu&#160;trabalho&#160;ou&#160;continuar&#160;trabalhando&#160;em&#160;<br/>outro&#160;ambiente.</p>
+</div>
+<!-- Page 8 -->
+<a name="8"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft020{font-size:8px;font-family:CIDFont+F3;color:#0d0d0d;}
+	.ft021{font-size:7px;font-family:CIDFont+F4;color:#000000;}
+	.ft022{font-size:7px;line-height:9px;font-family:CIDFont+F3;color:#000000;}
+	.ft023{font-size:8px;line-height:9px;font-family:CIDFont+F3;color:#0d0d0d;}
+	.ft024{font-size:7px;line-height:9px;font-family:CIDFont+F4;color:#000000;}
+-->
+</style>
+<div id="page8-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output008.png" alt="background image"/>
+<p style="position:absolute;top:86px;left:66px;white-space:nowrap" class="ft00">Integração&#160;de&#160;</p>
+<p style="position:absolute;top:99px;left:70px;white-space:nowrap" class="ft00">Catálogo&#160;de&#160;</p>
+<p style="position:absolute;top:111px;left:74px;white-space:nowrap" class="ft00">Materiais</p>
+<p style="position:absolute;top:133px;left:58px;white-space:nowrap" class="ft011">Integração&#160;de&#160;Catálogo&#160;</p>
+<p style="position:absolute;top:142px;left:74px;white-space:nowrap" class="ft011">de&#160;Materiais</p>
+<p style="position:absolute;top:133px;left:473px;white-space:nowrap" class="ft011">Integração&#160;de&#160;</p>
+<p style="position:absolute;top:142px;left:474px;white-space:nowrap" class="ft011">Feedback&#160;3D</p>
+<p style="position:absolute;top:152px;left:58px;white-space:nowrap" class="ft011">RQF017</p>
+<p style="position:absolute;top:152px;left:132px;white-space:nowrap" class="ft011">DISPONIBILIDADE</p>
+<p style="position:absolute;top:152px;left:460px;white-space:nowrap" class="ft011">RQF018</p>
+<p style="position:absolute;top:152px;left:530px;white-space:nowrap" class="ft011">DISPONIBILIDADE</p>
+<p style="position:absolute;top:172px;left:58px;white-space:nowrap" class="ft012">Função</p>
+<p style="position:absolute;top:162px;left:132px;white-space:nowrap" class="ft022">A&#160;função&#160;é&#160;integrar&#160;um&#160;catálogo&#160;de&#160;materiais&#160;ao&#160;aplicativo&#160;Dimensão&#160;Imóveis,&#160;permitindo&#160;<br/>que&#160;os&#160;usuários&#160;escolham&#160;e&#160;apliquem&#160;diferentes&#160;materiais&#160;de&#160;revestimento,&#160;como&#160;pisos,&#160;<br/>paredes&#160;e&#160;acabamentos,&#160;em&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:172px;left:460px;white-space:nowrap" class="ft012">Função</p>
+<p style="position:absolute;top:163px;left:530px;white-space:nowrap" class="ft022">A&#160;função&#160;é&#160;permitir&#160;que&#160;os&#160;usuários&#160;forneçam&#160;feedback&#160;tridimensional&#160;sobre&#160;os&#160;<br/>projetos&#160;de&#160;design&#160;de&#160;interiores&#160;dentro&#160;do&#160;aplicativo&#160;Dimensão&#160;Imóveis,&#160;<br/>possibilitando&#160;uma&#160;avaliação&#160;mais&#160;detalhada&#160;e&#160;precisa.</p>
+<p style="position:absolute;top:205px;left:58px;white-space:nowrap" class="ft012">Descrição</p>
+<p style="position:absolute;top:200px;left:132px;white-space:nowrap" class="ft022">Este&#160;requisito&#160;descreve&#160;a&#160;capacidade&#160;do&#160;aplicativo&#160;de&#160;fornecer&#160;aos&#160;usuários&#160;acesso&#160;a&#160;um&#160;<br/>catálogo&#160;abrangente&#160;de&#160;materiais&#160;de&#160;revestimento&#160;para&#160;serem&#160;usados&#160;&#160;&#160;em&#160;seus&#160;projetos&#160;de&#160;<br/>design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:205px;left:460px;white-space:nowrap" class="ft012">Descrição</p>
+<p style="position:absolute;top:191px;left:530px;white-space:nowrap" class="ft022">Este&#160;requisito&#160;descreve&#160;a&#160;capacidade&#160;do&#160;aplicativo&#160;para&#160;permitir&#160;que&#160;os&#160;usuários&#160;<br/>forneçam&#160;feedback&#160;específico&#160;em&#160;relação&#160;aos&#160;elementos&#160;tridimensionais&#160;de&#160;seus&#160;<br/>projetos&#160;de&#160;design&#160;de&#160;interiores,&#160;como&#160;disposição&#160;de&#160;móveis,&#160;iluminação,&#160;núcleos&#160;e&#160;<br/>texturas.</p>
+<p style="position:absolute;top:238px;left:58px;white-space:nowrap" class="ft012">Entradas</p>
+<p style="position:absolute;top:237px;left:132px;white-space:nowrap" class="ft022">As&#160;entradas&#160;podem&#160;incluir&#160;escolhas&#160;feitas&#160;pelos&#160;usuários&#160;no&#160;catálogo&#160;de&#160;materiais,&#160;como&#160;a&#160;<br/>escolha&#160;de&#160;um&#160;tipo&#160;específico&#160;de&#160;piso,&#160;cor&#160;de&#160;tinta&#160;ou&#160;textura&#160;de&#160;acabamento.</p>
+<p style="position:absolute;top:238px;left:460px;white-space:nowrap" class="ft012">Entradas</p>
+<p style="position:absolute;top:229px;left:530px;white-space:nowrap" class="ft022">As&#160;entradas&#160;podem&#160;incluir&#160;comentários,&#160;avaliações&#160;e&#160;sugestões&#160;sugeridas&#160;pelos&#160;<br/>usuários&#160;em&#160;relação&#160;aos&#160;elementos&#160;tridimensionais&#160;dos&#160;projetos&#160;de&#160;design&#160;de&#160;<br/>interiores.</p>
+<p style="position:absolute;top:267px;left:58px;white-space:nowrap" class="ft012">Origem</p>
+<p style="position:absolute;top:257px;left:132px;white-space:nowrap" class="ft022">A&#160;origem&#160;das&#160;informações&#160;pode&#160;ser&#160;o&#160;banco&#160;de&#160;dados&#160;interno&#160;do&#160;aplicativo,&#160;onde&#160;os&#160;<br/>materiais&#160;são&#160;armazenados&#160;e&#160;categorizados,&#160;ou&#160;fontes&#160;externas&#160;de&#160;dados,&#160;como&#160;provedores&#160;<br/>de&#160;serviços&#160;de&#160;terceiros.</p>
+<p style="position:absolute;top:267px;left:460px;white-space:nowrap" class="ft012">Origem</p>
+<p style="position:absolute;top:257px;left:530px;white-space:nowrap" class="ft022">A&#160;origem&#160;do&#160;feedback&#160;pode&#160;ser&#160;os&#160;próprios&#160;usuários&#160;do&#160;aplicativo&#160;Dimensão&#160;<br/>Imóveis,&#160;que&#160;interagem&#160;com&#160;os&#160;elementos&#160;tridimensionais&#160;dos&#160;projetos&#160;de&#160;design&#160;<br/>de&#160;interiores&#160;e&#160;fornecem&#160;suas&#160;opiniões&#160;e&#160;observações.</p>
+<p style="position:absolute;top:295px;left:58px;white-space:nowrap" class="ft012">Saídas</p>
+<p style="position:absolute;top:285px;left:132px;white-space:nowrap" class="ft022">As&#160;saídas&#160;incluem&#160;a&#160;aplicação&#160;de&#160;materiais&#160;selecionados&#160;em&#160;ambientes&#160;virtuais&#160;do&#160;projeto&#160;<br/>de&#160;design&#160;de&#160;interiores,&#160;permitindo&#160;que&#160;os&#160;usuários&#160;visualizem&#160;como&#160;os&#160;materiais&#160;escolhidos&#160;<br/>afetam&#160;a&#160;aparência&#160;e&#160;o&#160;estilo&#160;do&#160;espaço.</p>
+<p style="position:absolute;top:295px;left:460px;white-space:nowrap" class="ft012">Saídas</p>
+<p style="position:absolute;top:286px;left:530px;white-space:nowrap" class="ft022">As&#160;saídas&#160;prejudicadas&#160;incluem&#160;relatórios&#160;ou&#160;resumos&#160;consolidados&#160;do&#160;feedback&#160;<br/>fornecido&#160;pelos&#160;usuários,&#160;destacando&#160;áreas&#160;específicas&#160;de&#160;melhoria&#160;ou&#160;pontos&#160;<br/>positivos&#160;em&#160;projetos&#160;de&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:328px;left:58px;white-space:nowrap" class="ft012">Destino</p>
+<p style="position:absolute;top:323px;left:132px;white-space:nowrap" class="ft022">O&#160;destino&#160;das&#160;saídas&#160;é&#160;o&#160;próprio&#160;ambiente&#160;virtual&#160;do&#160;projeto&#160;dentro&#160;do&#160;aplicativo&#160;Dimensão&#160;<br/>Imóveis,&#160;onde&#160;os&#160;materiais&#160;selecionados&#160;são&#160;aplicados&#160;às&#160;superfícies&#160;para&#160;fins&#160;de&#160;<br/>visualização&#160;e&#160;design.</p>
+<p style="position:absolute;top:328px;left:460px;white-space:nowrap" class="ft012">Destino</p>
+<p style="position:absolute;top:314px;left:530px;white-space:nowrap" class="ft022">O&#160;destino&#160;do&#160;feedback&#160;é&#160;o&#160;sistema&#160;de&#160;gerenciamento&#160;de&#160;feedback&#160;do&#160;aplicativo&#160;<br/>Dimensão&#160;Imóveis,&#160;onde&#160;os&#160;comentários&#160;e&#160;avaliações&#160;dos&#160;usuários&#160;são&#160;registrados,&#160;<br/>organizados&#160;e&#160;analisados&#160;&#160;&#160;para&#160;ajudar&#160;na&#160;melhoria&#160;contínua&#160;do&#160;aplicativo&#160;e&#160;dos&#160;<br/>projetos&#160;de&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:361px;left:58px;white-space:nowrap" class="ft012">Ação</p>
+<p style="position:absolute;top:351px;left:132px;white-space:nowrap" class="ft022">A&#160;ação&#160;é&#160;permitir&#160;que&#160;os&#160;usuários&#160;naveguem&#160;pelo&#160;catálogo&#160;de&#160;materiais,&#160;façam&#160;materiais&#160;<br/>personalizados&#160;e&#160;apliquem&#160;esses&#160;elementos&#160;de&#160;design&#160;dentro&#160;do&#160;ambiente&#160;virtual&#160;do&#160;<br/>projeto.</p>
+<p style="position:absolute;top:361px;left:460px;white-space:nowrap" class="ft012">Ação</p>
+<p style="position:absolute;top:352px;left:530px;white-space:nowrap" class="ft022">A&#160;ação&#160;é&#160;permitir&#160;que&#160;os&#160;usuários&#160;visualizem,&#160;interajam&#160;e&#160;forneçam&#160;feedback&#160;<br/>específico&#160;sobre&#160;os&#160;elementos&#160;tridimensionais&#160;de&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;<br/>interiores&#160;dentro&#160;do&#160;aplicativo&#160;Dimensão&#160;Imóveis.</p>
+<p style="position:absolute;top:394px;left:58px;white-space:nowrap" class="ft012">Requer</p>
+<p style="position:absolute;top:389px;left:132px;white-space:nowrap" class="ft022">Requer&#160;acesso&#160;ao&#160;banco&#160;de&#160;dados&#160;de&#160;materiais&#160;do&#160;aplicativo,&#160;uma&#160;interface&#160;de&#160;usuário&#160;<br/>intuitiva&#160;para&#160;navegar&#160;pelo&#160;catálogo&#160;de&#160;materiais&#160;e&#160;uma&#160;funcionalidade&#160;de&#160;renderização&#160;para&#160;<br/>aplicar&#160;os&#160;materiais&#160;selecionados&#160;ao&#160;ambiente&#160;virtual.</p>
+<p style="position:absolute;top:394px;left:460px;white-space:nowrap" class="ft012">Requer</p>
+<p style="position:absolute;top:380px;left:530px;white-space:nowrap" class="ft022">O&#160;que&#160;se&#160;quer&#160;é&#160;fornecer&#160;uma&#160;plataforma&#160;para&#160;os&#160;usuários&#160;expressarem&#160;suas&#160;<br/>opiniões,&#160;sugestões&#160;e&#160;preocupações&#160;em&#160;relação&#160;aos&#160;elementos&#160;tridimensionais&#160;de&#160;<br/>seus&#160;projetos&#160;de&#160;design&#160;de&#160;interiores,&#160;contribuindo&#160;para&#160;uma&#160;experiência&#160;mais&#160;<br/>personalizada&#160;e&#160;satisfatória.</p>
+<p style="position:absolute;top:433px;left:58px;white-space:nowrap" class="ft012">Pré-condição</p>
+<p style="position:absolute;top:439px;left:132px;white-space:nowrap" class="ft022">A&#160;pré-condição&#160;é&#160;que&#160;o&#160;usuário&#160;tenha&#160;acesso&#160;ao&#160;catálogo&#160;de&#160;materiais&#160;dentro&#160;do&#160;aplicativo&#160;e&#160;<br/>esteja&#160;trabalhando&#160;em&#160;um&#160;projeto&#160;de&#160;design&#160;de&#160;interiores&#160;onde&#160;os&#160;materiais&#160;serão&#160;aplicados.</p>
+<p style="position:absolute;top:433px;left:460px;white-space:nowrap" class="ft012">Pré-condição</p>
+<p style="position:absolute;top:423px;left:530px;white-space:nowrap" class="ft023">A&#160;pré-condição&#160;é&#160;que&#160;os&#160;usuários&#160;tenham&#160;acesso&#160;aos&#160;projetos&#160;de&#160;design&#160;<br/>de&#160;interiores&#160;dentro&#160;do&#160;aplicativo&#160;Dimensão&#160;Imóveis&#160;e&#160;tenham&#160;a&#160;<br/>capacidade&#160;de&#160;interagir&#160;com&#160;os&#160;elementos&#160;tridimensionais&#160;desses&#160;projetos.</p>
+<p style="position:absolute;top:468px;left:58px;white-space:nowrap" class="ft012">Pós-Condição</p>
+<p style="position:absolute;top:458px;left:132px;white-space:nowrap" class="ft022">A&#160;pós-condição&#160;é&#160;que&#160;os&#160;materiais&#160;selecionados&#160;sejam&#160;aplicados&#160;com&#160;sucesso&#160;aos&#160;<br/>elementos&#160;de&#160;design&#160;do&#160;projeto&#160;e&#160;que&#160;os&#160;usuários&#160;possam&#160;visualizar&#160;e&#160;avaliar&#160;o&#160;efeito&#160;<br/>desses&#160;materiais&#160;no&#160;ambiente&#160;virtual.</p>
+<p style="position:absolute;top:468px;left:460px;white-space:nowrap" class="ft012">Pós-Condição</p>
+<p style="position:absolute;top:459px;left:530px;white-space:nowrap" class="ft022">A&#160;pós-condição&#160;é&#160;que&#160;o&#160;feedback&#160;fornecido&#160;pelos&#160;usuários&#160;seja&#160;registrado&#160;e&#160;<br/>incorporado&#160;aos&#160;processos&#160;de&#160;análise&#160;e&#160;melhoria&#160;contínua&#160;do&#160;aplicativo&#160;e&#160;dos&#160;<br/>projetos&#160;de&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:501px;left:58px;white-space:nowrap" class="ft012">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:487px;left:132px;white-space:nowrap" class="ft022">Possíveis&#160;efeitos&#160;colaterais&#160;podem&#160;incluir&#160;a&#160;necessidade&#160;de&#160;processamento&#160;adicional&#160;para&#160;<br/>renderizar&#160;os&#160;materiais&#160;selecionados,&#160;possíveis&#160;problemas&#160;de&#160;desempenho&#160;se&#160;muitos&#160;<br/>materiais&#160;foram&#160;aplicados&#160;simultaneamente&#160;e&#160;a&#160;possibilidade&#160;de&#160;incompatibilidade&#160;com&#160;<br/>alguns&#160;dispositivos&#160;ou&#160;sistemas&#160;operacionais.</p>
+<p style="position:absolute;top:501px;left:460px;white-space:nowrap" class="ft012">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:487px;left:530px;white-space:nowrap" class="ft022">Possíveis&#160;efeitos&#160;colaterais&#160;podem&#160;incluir&#160;a&#160;necessidade&#160;de&#160;processamento&#160;<br/>adicional&#160;para&#160;espessura,&#160;análise&#160;e&#160;gerenciamento&#160;do&#160;feedback&#160;dos&#160;usuários,&#160;bem&#160;<br/>como&#160;a&#160;possibilidade&#160;de&#160;sobrecarga&#160;do&#160;sistema&#160;se&#160;houver&#160;um&#160;grande&#160;volume&#160;de&#160;<br/>feedback&#160;sendo&#160;recebido&#160;simultaneamente.</p>
+<p style="position:absolute;top:534px;left:64px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:534px;left:464px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:567px;left:84px;white-space:nowrap" class="ft011">US017&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:577px;left:72px;white-space:nowrap" class="ft011">(MUST&#160;HAVE)</p>
+<p style="position:absolute;top:550px;left:132px;white-space:nowrap" class="ft022">Como&#160;designer&#160;de&#160;interiores,&#160;quero&#160;acessar&#160;um&#160;catálogo&#160;abrangente&#160;de&#160;materiais&#160;de&#160;<br/>decoração,&#160;como&#160;tecidos,&#160;acabamentos&#160;e&#160;revestimentos,&#160;dentro&#160;do&#160;aplicativo&#160;Dimensão&#160;<br/>Móveis.&#160;Desejo&#160;poder&#160;explorar&#160;diferentes&#160;opções&#160;de&#160;materiais&#160;para&#160;móveis&#160;e&#160;superfícies&#160;do&#160;<br/>ambiente,&#160;para&#160;que&#160;você&#160;possa&#160;selecionar&#160;os&#160;mais&#160;adequados&#160;para&#160;cada&#160;projeto&#160;de&#160;design&#160;<br/>de&#160;interiores&#160;que&#160;está&#160;trabalhando.&#160;Isso&#160;me&#160;permitirá&#160;criar&#160;espaços&#160;únicos&#160;e&#160;personalizados&#160;<br/>para&#160;meus&#160;clientes,&#160;agregando&#160;valor&#160;aos&#160;meus&#160;serviços&#160;como&#160;profissional&#160;de&#160;design.</p>
+<p style="position:absolute;top:567px;left:484px;white-space:nowrap" class="ft011">US018&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:577px;left:474px;white-space:nowrap" class="ft011">(Could&#160;Have)</p>
+<p style="position:absolute;top:557px;left:530px;white-space:nowrap" class="ft024">Como&#160;arquiteto,&#160;gostaria&#160;de&#160;obter&#160;feedback&#160;visual&#160;em&#160;3D&#160;dos&#160;meus&#160;clientes&#160;sobre&#160;os&#160;<br/>projetos&#160;que&#160;desenvolvi&#160;para&#160;eles,&#160;para&#160;compreender&#160;suas&#160;preferências&#160;e&#160;realizar&#160;ajustes&#160;<br/>conforme&#160;necessário.&#160;Isso&#160;me&#160;permitiria&#160;garantir&#160;a&#160;satisfação&#160;dos&#160;clientes&#160;com&#160;o&#160;design&#160;<br/>proposto&#160;e&#160;melhorar&#160;a&#160;comunicação&#160;durante&#160;o&#160;processo&#160;de&#160;criação.</p>
+<p style="position:absolute;top:619px;left:72px;white-space:nowrap" class="ft011">Integração&#160;de&#160;</p>
+<p style="position:absolute;top:629px;left:67px;white-space:nowrap" class="ft011">Realidade&#160;Virtual</p>
+<p style="position:absolute;top:629px;left:463px;white-space:nowrap" class="ft011">Medição&#160;de&#160;Espaços</p>
+<p style="position:absolute;top:639px;left:58px;white-space:nowrap" class="ft011">RQF019</p>
+<p style="position:absolute;top:639px;left:132px;white-space:nowrap" class="ft011">DISPONIBILIDADE</p>
+<p style="position:absolute;top:639px;left:460px;white-space:nowrap" class="ft011">RQF020</p>
+<p style="position:absolute;top:639px;left:530px;white-space:nowrap" class="ft011">Sincronização</p>
+<p style="position:absolute;top:659px;left:58px;white-space:nowrap" class="ft012">Função</p>
+<p style="position:absolute;top:649px;left:132px;white-space:nowrap" class="ft022">A&#160;função&#160;é&#160;integrar&#160;a&#160;tecnologia&#160;de&#160;Realidade&#160;Virtual&#160;ao&#160;aplicativo&#160;Dimensão&#160;Imóveis,&#160;<br/>permitindo&#160;aos&#160;usuários&#160;visualizar&#160;os&#160;projetos&#160;de&#160;design&#160;de&#160;interiores&#160;em&#160;ambientes&#160;virtuais&#160;<br/>imersivos.</p>
+<p style="position:absolute;top:659px;left:460px;white-space:nowrap" class="ft012">Função</p>
+<p style="position:absolute;top:654px;left:530px;white-space:nowrap" class="ft022">A&#160;função&#160;é&#160;permitir&#160;que&#160;os&#160;usuários&#160;capturem&#160;e&#160;meçam&#160;espaços&#160;físicos&#160;utilizando&#160;a&#160;<br/>câmera&#160;do&#160;dispositivo&#160;móvel&#160;ou&#160;sensores&#160;de&#160;realidade&#160;aumentados.</p>
+<p style="position:absolute;top:692px;left:58px;white-space:nowrap" class="ft012">Descrição</p>
+<p style="position:absolute;top:682px;left:132px;white-space:nowrap" class="ft022">Este&#160;requisito&#160;descreve&#160;a&#160;capacidade&#160;do&#160;aplicativo&#160;de&#160;oferecer&#160;aos&#160;usuários&#160;a&#160;experiência&#160;de&#160;<br/>visualização&#160;de&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;interiores&#160;em&#160;um&#160;ambiente&#160;virtual&#160;tridimensional,&#160;<br/>onde&#160;eles&#160;podem&#160;explorar&#160;e&#160;interagir&#160;com&#160;os&#160;espaços&#160;de&#160;forma&#160;imersiva.</p>
+<p style="position:absolute;top:692px;left:460px;white-space:nowrap" class="ft012">Descrição</p>
+<p style="position:absolute;top:682px;left:530px;white-space:nowrap" class="ft022">Este&#160;requisito&#160;descreve&#160;a&#160;capacidade&#160;do&#160;aplicativo&#160;para&#160;permitir&#160;que&#160;os&#160;usuários&#160;<br/>meçam&#160;as&#160;dimensões&#160;de&#160;espaços&#160;físicos,&#160;como&#160;salas&#160;e&#160;ambientes,&#160;utilizando&#160;a&#160;<br/>câmera&#160;do&#160;dispositivo&#160;móvel&#160;ou&#160;sensores&#160;de&#160;realidade&#160;aumentada.</p>
+<p style="position:absolute;top:724px;left:58px;white-space:nowrap" class="ft012">Entradas</p>
+<p style="position:absolute;top:720px;left:132px;white-space:nowrap" class="ft022">As&#160;entradas&#160;podem&#160;incluir&#160;comandos&#160;de&#160;controle&#160;do&#160;usuário,&#160;como&#160;movimentos&#160;de&#160;cabeça,&#160;<br/>gestos&#160;ou&#160;cliques,&#160;para&#160;navegar&#160;e&#160;interagir&#160;com&#160;o&#160;ambiente&#160;virtual.</p>
+<p style="position:absolute;top:724px;left:460px;white-space:nowrap" class="ft012">Entradas</p>
+<p style="position:absolute;top:715px;left:530px;white-space:nowrap" class="ft022">As&#160;entradas&#160;incluem&#160;comandos&#160;do&#160;usuário&#160;para&#160;iniciar&#160;o&#160;modo&#160;de&#160;medição,&#160;bem&#160;<br/>como&#160;a&#160;orientação&#160;da&#160;câmera&#160;do&#160;dispositivo&#160;móvel&#160;para&#160;capturar&#160;as&#160;dimensões&#160;do&#160;<br/>espaço.</p>
+<p style="position:absolute;top:753px;left:58px;white-space:nowrap" class="ft012">Origem</p>
+<p style="position:absolute;top:743px;left:132px;white-space:nowrap" class="ft022">A&#160;origem&#160;da&#160;integração&#160;de&#160;Realidade&#160;Virtual&#160;é&#160;a&#160;própria&#160;tecnologia&#160;de&#160;Realidade&#160;Virtual&#160;<br/>incorporada&#160;ao&#160;aplicativo&#160;Dimensão&#160;Imóveis,&#160;que&#160;permite&#160;a&#160;criação&#160;e&#160;visualização&#160;de&#160;<br/>ambientes&#160;virtuais&#160;imersivos.</p>
+<p style="position:absolute;top:753px;left:460px;white-space:nowrap" class="ft012">Origem</p>
+<p style="position:absolute;top:743px;left:530px;white-space:nowrap" class="ft022">A&#160;origem&#160;da&#160;medição&#160;de&#160;espaços&#160;pode&#160;ser&#160;tanto&#160;a&#160;câmera&#160;do&#160;dispositivo&#160;móvel&#160;<br/>quanto&#160;os&#160;sensores&#160;de&#160;realidade&#160;aumentados&#160;incorporados&#160;ao&#160;aplicativo&#160;Dimensão&#160;<br/>Imóveis.</p>
+<p style="position:absolute;top:781px;left:58px;white-space:nowrap" class="ft012">Saídas</p>
+<p style="position:absolute;top:772px;left:132px;white-space:nowrap" class="ft022">As&#160;saídas&#160;perigosas&#160;podem&#160;incluir&#160;a&#160;experiência&#160;de&#160;Realidade&#160;Virtual&#160;propriamente&#160;dita,&#160;<br/>onde&#160;os&#160;usuários&#160;podem&#160;visualizar&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;interiores&#160;em&#160;ambientes&#160;<br/>virtuais,&#160;bem&#160;como&#160;feedback&#160;visual&#160;e&#160;sonoro&#160;durante&#160;a&#160;interação.</p>
+<p style="position:absolute;top:781px;left:460px;white-space:nowrap" class="ft012">Saídas</p>
+<p style="position:absolute;top:772px;left:530px;white-space:nowrap" class="ft022">As&#160;saídas&#160;complicadas&#160;podem&#160;incluir&#160;as&#160;dimensões&#160;do&#160;espaço&#160;físico,&#160;propostas&#160;de&#160;<br/>forma&#160;clara&#160;e&#160;precisas&#160;para&#160;os&#160;usuários,&#160;bem&#160;como&#160;a&#160;possibilidade&#160;de&#160;salvar&#160;ou&#160;<br/>exportar&#160;essas&#160;seções&#160;para&#160;uso&#160;posterior.</p>
+<p style="position:absolute;top:814px;left:58px;white-space:nowrap" class="ft012">Destino</p>
+<p style="position:absolute;top:804px;left:132px;white-space:nowrap" class="ft022">O&#160;destino&#160;da&#160;integração&#160;de&#160;Realidade&#160;Virtual&#160;é&#160;o&#160;dispositivo&#160;do&#160;usuário,&#160;como&#160;um&#160;headset&#160;<br/>de&#160;Realidade&#160;Virtual&#160;ou&#160;um&#160;smartphone&#160;compatível&#160;com&#160;tecnologia&#160;VR,&#160;onde&#160;os&#160;usuários&#160;<br/>podem&#160;experimentar&#160;a&#160;visualização&#160;dos&#160;projetos&#160;de&#160;design&#160;de&#160;interiores&#160;em&#160;ambiente&#160;virtual.</p>
+<p style="position:absolute;top:814px;left:460px;white-space:nowrap" class="ft012">Destino</p>
+<p style="position:absolute;top:804px;left:530px;white-space:nowrap" class="ft022">O&#160;destino&#160;das&#160;tendências&#160;é&#160;o&#160;próprio&#160;aplicativo&#160;Dimensão&#160;Imóveis,&#160;onde&#160;os&#160;<br/>usuários&#160;podem&#160;visualizar&#160;e&#160;utilizar&#160;as&#160;dimensões&#160;em&#160;seus&#160;projetos&#160;de&#160;design&#160;de&#160;<br/>interiores.</p>
+<p style="position:absolute;top:847px;left:58px;white-space:nowrap" class="ft012">Ação</p>
+<p style="position:absolute;top:837px;left:132px;white-space:nowrap" class="ft022">A&#160;ação&#160;é&#160;permitir&#160;que&#160;os&#160;usuários&#160;acessem&#160;e&#160;interajam&#160;com&#160;os&#160;projetos&#160;de&#160;design&#160;de&#160;<br/>interiores&#160;em&#160;um&#160;ambiente&#160;virtual&#160;tridimensional,&#160;através&#160;do&#160;uso&#160;de&#160;dispositivos&#160;compatíveis&#160;<br/>com&#160;tecnologia&#160;de&#160;Realidade&#160;Virtual.</p>
+<p style="position:absolute;top:847px;left:460px;white-space:nowrap" class="ft012">Ação</p>
+<p style="position:absolute;top:837px;left:530px;white-space:nowrap" class="ft022">A&#160;ação&#160;é&#160;permitir&#160;que&#160;os&#160;usuários&#160;capturem&#160;e&#160;meçam&#160;as&#160;dimensões&#160;de&#160;espaços&#160;<br/>físicos&#160;utilizando&#160;a&#160;funcionalidade&#160;de&#160;medição&#160;embutida&#160;no&#160;aplicativo&#160;Dimensão&#160;<br/>Imóveis.</p>
+<p style="position:absolute;top:875px;left:58px;white-space:nowrap" class="ft012">Requer</p>
+<p style="position:absolute;top:866px;left:132px;white-space:nowrap" class="ft022">Solicite&#160;a&#160;incorporação&#160;da&#160;tecnologia&#160;de&#160;Realidade&#160;Virtual&#160;ao&#160;aplicativo&#160;Dimensão&#160;Imóveis,&#160;<br/>bem&#160;como&#160;o&#160;desenvolvimento&#160;de&#160;recursos&#160;e&#160;funcionalidades&#160;específicas&#160;para&#160;suportar&#160;a&#160;<br/>visualização&#160;em&#160;ambiente&#160;virtual.</p>
+<p style="position:absolute;top:875px;left:460px;white-space:nowrap" class="ft012">Requer</p>
+<p style="position:absolute;top:866px;left:530px;white-space:nowrap" class="ft022">É&#160;necessário&#160;que&#160;os&#160;usuários&#160;tenham&#160;acesso&#160;à&#160;câmera&#160;do&#160;dispositivo&#160;móvel&#160;e,&#160;se&#160;<br/>disponível,&#160;aos&#160;sensores&#160;de&#160;realidade&#160;aumentados&#160;para&#160;utilizar&#160;a&#160;funcionalidade&#160;de&#160;<br/>medição&#160;de&#160;espaços.</p>
+<p style="position:absolute;top:903px;left:58px;white-space:nowrap" class="ft012">Pré-condição</p>
+<p style="position:absolute;top:894px;left:132px;white-space:nowrap" class="ft022">Uma&#160;pré-condição&#160;é&#160;que&#160;os&#160;usuários&#160;tenham&#160;acesso&#160;a&#160;dispositivos&#160;compatíveis&#160;com&#160;a&#160;<br/>tecnologia&#160;de&#160;Realidade&#160;Virtual&#160;e&#160;que&#160;o&#160;aplicativo&#160;Dimensão&#160;Imóveis&#160;esteja&#160;devidamente&#160;<br/>instalado&#160;e&#160;configurado&#160;nesses&#160;dispositivos.</p>
+<p style="position:absolute;top:903px;left:460px;white-space:nowrap" class="ft012">Pré-condição</p>
+<p style="position:absolute;top:898px;left:530px;white-space:nowrap" class="ft022">Uma&#160;pré-condição&#160;é&#160;que&#160;o&#160;usuário&#160;tenha&#160;autorizado&#160;o&#160;acesso&#160;à&#160;câmera&#160;e,&#160;se&#160;<br/>necessário,&#160;aos&#160;sensores&#160;de&#160;realidade&#160;aumentados&#160;do&#160;dispositivo&#160;móvel.</p>
+<p style="position:absolute;top:931px;left:58px;white-space:nowrap" class="ft012">Pós-Condição</p>
+<p style="position:absolute;top:922px;left:132px;white-space:nowrap" class="ft022">A&#160;pós-condição&#160;é&#160;que&#160;os&#160;usuários&#160;possam&#160;experimentar&#160;a&#160;visualização&#160;de&#160;seus&#160;projetos&#160;de&#160;<br/>design&#160;de&#160;interiores&#160;em&#160;um&#160;ambiente&#160;virtual&#160;tridimensional,&#160;proporcionando&#160;uma&#160;experiência&#160;<br/>imersiva&#160;e&#160;envolvente.</p>
+<p style="position:absolute;top:931px;left:460px;white-space:nowrap" class="ft012">Pós-Condição</p>
+<p style="position:absolute;top:922px;left:530px;white-space:nowrap" class="ft022">A&#160;pós-condição&#160;é&#160;que&#160;as&#160;dimensões&#160;sejam&#160;apresentadas&#160;com&#160;restrições&#160;aos&#160;<br/>usuários&#160;dentro&#160;do&#160;aplicativo&#160;Dimensão&#160;Imóveis,&#160;permitindo&#160;que&#160;eles&#160;os&#160;utilizem&#160;em&#160;<br/>seus&#160;projetos&#160;de&#160;design&#160;de&#160;interiores.</p>
+<p style="position:absolute;top:964px;left:58px;white-space:nowrap" class="ft012">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:950px;left:132px;white-space:nowrap" class="ft022">Possíveis&#160;efeitos&#160;colaterais&#160;podem&#160;incluir&#160;a&#160;necessidade&#160;de&#160;processamento&#160;adicional&#160;para&#160;<br/>renderizar&#160;os&#160;ambientes&#160;virtuais,&#160;possíveis&#160;desconfortos&#160;ou&#160;prazeres&#160;causados&#160;&#160;&#160;pela&#160;<br/>interferência&#160;na&#160;Realidade&#160;Virtual,&#160;e&#160;a&#160;dependência&#160;da&#160;disponibilidade&#160;de&#160;dispositivos&#160;<br/>compatíveis&#160;com&#160;VR&#160;por&#160;parte&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:964px;left:460px;white-space:nowrap" class="ft012">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:955px;left:530px;white-space:nowrap" class="ft022">Os&#160;efeitos&#160;colaterais&#160;podem&#160;incluir&#160;possíveis&#160;dificuldades&#160;na&#160;medição&#160;de&#160;espaços&#160;<br/>em&#160;condições&#160;de&#160;baixa&#160;luminosidade&#160;ou&#160;problemas&#160;de&#160;localização&#160;que&#160;afetam&#160;a&#160;<br/>precisão&#160;da&#160;profundidade.</p>
+<p style="position:absolute;top:997px;left:64px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:997px;left:464px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:1026px;left:84px;white-space:nowrap" class="ft021">US019</p>
+<p style="position:absolute;top:1036px;left:72px;white-space:nowrap" class="ft021">&#160;(MUST&#160;HAVE)</p>
+<p style="position:absolute;top:1015px;left:145px;white-space:nowrap" class="ft020">Como&#160;cliente,&#160;gostaria&#160;de&#160;visualizar&#160;os&#160;móveis&#160;em&#160;realidade&#160;virtual&#160;dentro&#160;do&#160;</p>
+<p style="position:absolute;top:1025px;left:136px;white-space:nowrap" class="ft020">espaço&#160;planejado,&#160;para&#160;ter&#160;uma&#160;experiência&#160;imersiva&#160;e&#160;realista&#160;ao&#160;tomar&#160;decisões&#160;</p>
+<p style="position:absolute;top:1035px;left:143px;white-space:nowrap" class="ft020">de&#160;design&#160;e&#160;decoração.&#160;Isso&#160;me&#160;ajudaria&#160;a&#160;ter&#160;uma&#160;melhor&#160;noção&#160;de&#160;como&#160;os&#160;</p>
+<p style="position:absolute;top:1045px;left:134px;white-space:nowrap" class="ft020">móveis&#160;ficariam&#160;no&#160;ambiente&#160;antes&#160;de&#160;fazer&#160;qualquer&#160;compra,&#160;garantindo&#160;que&#160;meu&#160;</p>
+<p style="position:absolute;top:1055px;left:194px;white-space:nowrap" class="ft020">espaço&#160;seja&#160;funcional&#160;e&#160;esteticamente&#160;agradável.</p>
+<p style="position:absolute;top:1026px;left:484px;white-space:nowrap" class="ft021">US020</p>
+<p style="position:absolute;top:1036px;left:482px;white-space:nowrap" class="ft021">&#160;(MUST)</p>
+<p style="position:absolute;top:1012px;left:535px;white-space:nowrap" class="ft021">Como&#160;cliente,&#160;gostaria&#160;de&#160;poder&#160;medir&#160;os&#160;espaços&#160;dos&#160;cômodos&#160;da&#160;minha&#160;casa&#160;usando&#160;o&#160;</p>
+<p style="position:absolute;top:1021px;left:534px;white-space:nowrap" class="ft021">aplicativo,&#160;para&#160;planejar&#160;de&#160;forma&#160;precisa&#160;a&#160;disposição&#160;dos&#160;móveis&#160;e&#160;a&#160;decoração&#160;de&#160;cada&#160;</p>
+<p style="position:absolute;top:1031px;left:534px;white-space:nowrap" class="ft021">ambiente.&#160;Isso&#160;me&#160;permitiria&#160;ter&#160;uma&#160;visão&#160;clara&#160;das&#160;dimensões&#160;disponíveis&#160;e&#160;facilitaria&#160;a&#160;</p>
+<p style="position:absolute;top:1041px;left:545px;white-space:nowrap" class="ft021">escolha&#160;dos&#160;móveis&#160;adequados&#160;para&#160;cada&#160;espaço,&#160;garantindo&#160;que&#160;tudo&#160;se&#160;encaixe&#160;</p>
+<p style="position:absolute;top:1051px;left:583px;white-space:nowrap" class="ft021">harmoniosamente&#160;e&#160;otimizando&#160;o&#160;layout&#160;da&#160;minha&#160;casa.</p>
+</div>
+<!-- Page 9 -->
+<a name="9"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft025{font-size:8px;font-family:CIDFont+F4;color:#0d0d0d;}
+	.ft026{font-size:7px;line-height:9px;font-family:CIDFont+F2;color:#000000;}
+	.ft027{font-size:8px;line-height:9px;font-family:CIDFont+F4;color:#0d0d0d;}
+-->
+</style>
+<div id="page9-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output009.png" alt="background image"/>
+<p style="position:absolute;top:96px;left:98px;white-space:nowrap" class="ft011">REQUISITO&#160;FUNCIONAL&#160;DETALHADO</p>
+<p style="position:absolute;top:116px;left:97px;white-space:nowrap" class="ft012">Ajustes&#160;Manuais</p>
+<p style="position:absolute;top:116px;left:418px;white-space:nowrap" class="ft012">Assistência&#160;de&#160;Realidade&#160;Aumentada</p>
+<p style="position:absolute;top:126px;left:97px;white-space:nowrap" class="ft011">RQF001</p>
+<p style="position:absolute;top:126px;left:213px;white-space:nowrap" class="ft011">Sincronização</p>
+<p style="position:absolute;top:126px;left:418px;white-space:nowrap" class="ft011">RQF003</p>
+<p style="position:absolute;top:126px;left:537px;white-space:nowrap" class="ft011">Sincronização</p>
+<p style="position:absolute;top:146px;left:97px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:135px;left:213px;white-space:nowrap" class="ft026">Permitir&#160;que&#160;os&#160;usuários&#160;façam&#160;ajustes&#160;manuais&#160;<br/>nos&#160;móveis&#160;virtualmente&#160;sobrepostos&#160;em&#160;seus&#160;<br/>ambientes.</p>
+<p style="position:absolute;top:146px;left:418px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:135px;left:537px;white-space:nowrap" class="ft026">Fornecer&#160;orientações&#160;e&#160;sugestões&#160;aos&#160;usuários&#160;durante&#160;<br/>o&#160;processo&#160;de&#160;visualização&#160;de&#160;móveis&#160;em&#160;seus&#160;<br/>ambientes.</p>
+<p style="position:absolute;top:190px;left:97px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:179px;left:213px;white-space:nowrap" class="ft026">Os&#160;usuários&#160;podem&#160;alterar&#160;manualmente&#160;a&#160;<br/>posição,&#160;rotação,&#160;escala&#160;e&#160;outros&#160;atributos&#160;dos&#160;<br/>móveis&#160;para&#160;melhor&#160;se&#160;adequar&#160;ao&#160;ambiente.</p>
+<p style="position:absolute;top:190px;left:418px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:170px;left:537px;white-space:nowrap" class="ft026">O&#160;sistema&#160;oferece&#160;dicas,&#160;instruções&#160;e&#160;informações&#160;<br/>contextuais&#160;para&#160;ajudar&#160;os&#160;usuários&#160;a&#160;usar&#160;<br/>efetivamente&#160;a&#160;funcionalidade&#160;de&#160;realidade&#160;<br/>aumentada&#160;e&#160;a&#160;obter&#160;uma&#160;melhor&#160;experiência&#160;de&#160;<br/>visualização.</p>
+<p style="position:absolute;top:234px;left:97px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:228px;left:213px;white-space:nowrap" class="ft026">Entradas&#160;dos&#160;usuários&#160;através&#160;de&#160;gestos&#160;ou&#160;<br/>controles&#160;na&#160;interface&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:234px;left:418px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:228px;left:537px;white-space:nowrap" class="ft026">Interações&#160;dos&#160;usuários&#160;com&#160;o&#160;aplicativo&#160;de&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:258px;left:97px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:253px;left:213px;white-space:nowrap" class="ft026">Ação&#160;direta&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo&#160;de&#160;<br/>realidade&#160;aumentada.</p>
+<p style="position:absolute;top:258px;left:418px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:253px;left:537px;white-space:nowrap" class="ft026">Banco&#160;de&#160;dados&#160;do&#160;sistema&#160;e&#160;algoritmos&#160;de&#160;assistência&#160;<br/>integrados&#160;ao&#160;aplicativo.</p>
+<p style="position:absolute;top:283px;left:97px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:277px;left:213px;white-space:nowrap" class="ft026">Alterações&#160;visuais&#160;nos&#160;móveis&#160;de&#160;acordo&#160;com&#160;os&#160;<br/>ajustes&#160;feitos&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:283px;left:418px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:277px;left:537px;white-space:nowrap" class="ft026">Mensagens,&#160;sugestões&#160;ou&#160;guias&#160;exibidos&#160;na&#160;interface&#160;<br/>do&#160;aplicativo.</p>
+<p style="position:absolute;top:312px;left:97px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:307px;left:213px;white-space:nowrap" class="ft026">Visualização&#160;em&#160;tempo&#160;real&#160;dos&#160;móveis&#160;no&#160;<br/>ambiente&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:312px;left:418px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:307px;left:537px;white-space:nowrap" class="ft026">Dispositivos&#160;móveis&#160;dos&#160;usuários&#160;durante&#160;o&#160;uso&#160;da&#160;<br/>funcionalidade&#160;de&#160;realidade&#160;aumentada.</p>
+<p style="position:absolute;top:356px;left:97px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:346px;left:213px;white-space:nowrap" class="ft026">O&#160;sistema&#160;permite&#160;que&#160;os&#160;usuários&#160;interajam&#160;<br/>com&#160;os&#160;móveis&#160;virtualmente&#160;sobrepostos&#160;e&#160;<br/>façam&#160;ajustes&#160;de&#160;acordo&#160;com&#160;suas&#160;preferências.</p>
+<p style="position:absolute;top:356px;left:418px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:341px;left:537px;white-space:nowrap" class="ft026">O&#160;sistema&#160;analisa&#160;o&#160;comportamento&#160;e&#160;as&#160;interações&#160;<br/>dos&#160;usuários&#160;e&#160;fornece&#160;orientações&#160;relevantes&#160;para&#160;<br/>ajudá-los&#160;a&#160;aproveitar&#160;ao&#160;máximo&#160;a&#160;experiência&#160;de&#160;<br/>visualização&#160;de&#160;móveis&#160;em&#160;realidade&#160;aumentada.</p>
+<p style="position:absolute;top:410px;left:97px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:400px;left:213px;white-space:nowrap" class="ft026">Funcionalidades&#160;de&#160;edição&#160;e&#160;manipulação&#160;de&#160;<br/>objetos&#160;3D,&#160;sensores&#160;de&#160;movimento&#160;do&#160;<br/>dispositivo.</p>
+<p style="position:absolute;top:410px;left:418px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:395px;left:537px;white-space:nowrap" class="ft026">Algoritmos&#160;de&#160;processamento&#160;de&#160;dados&#160;e&#160;aprendizado&#160;<br/>de&#160;máquina&#160;para&#160;análise&#160;de&#160;interações&#160;do&#160;usuário,&#160;<br/>integração&#160;com&#160;a&#160;interface&#160;do&#160;aplicativo&#160;de&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:454px;left:97px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:444px;left:213px;white-space:nowrap" class="ft026">Móveis&#160;virtualmente&#160;sobrepostos&#160;no&#160;ambiente&#160;<br/>dos&#160;usuários,&#160;dispositivo&#160;móvel&#160;com&#160;câmera&#160;e&#160;<br/>aplicativo&#160;de&#160;realidade&#160;aumentada&#160;em&#160;execução.</p>
+<p style="position:absolute;top:454px;left:418px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:444px;left:537px;white-space:nowrap" class="ft026">Aplicativo&#160;de&#160;realidade&#160;aumentada&#160;em&#160;execução,&#160;<br/>interações&#160;dos&#160;usuários&#160;durante&#160;o&#160;processo&#160;de&#160;<br/>visualização&#160;de&#160;móveis.</p>
+<p style="position:absolute;top:494px;left:97px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:488px;left:213px;white-space:nowrap" class="ft026">Móveis&#160;ajustados&#160;conforme&#160;as&#160;preferências&#160;dos&#160;<br/>usuários.</p>
+<p style="position:absolute;top:494px;left:418px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:483px;left:537px;white-space:nowrap" class="ft026">Usuários&#160;recebem&#160;assistência&#160;e&#160;orientações&#160;relevantes&#160;<br/>durante&#160;a&#160;visualização&#160;de&#160;móveis&#160;em&#160;realidade&#160;<br/>aumentada.</p>
+<p style="position:absolute;top:528px;left:97px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:522px;left:213px;white-space:nowrap" class="ft026">Possíveis&#160;dificuldades&#160;de&#160;precisão&#160;e&#160;<br/>familiarização&#160;com&#160;os&#160;controles&#160;de&#160;ajuste.</p>
+<p style="position:absolute;top:528px;left:418px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:517px;left:537px;white-space:nowrap" class="ft026">Possíveis&#160;distrações&#160;ou&#160;interrupções&#160;na&#160;experiência&#160;do&#160;<br/>usuário&#160;se&#160;as&#160;sugestões&#160;não&#160;forem&#160;bem&#160;direcionadas&#160;<br/>ou&#160;relevantes.</p>
+<p style="position:absolute;top:556px;left:124px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:556px;left:447px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:591px;left:144px;white-space:nowrap" class="ft012">US001&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:600px;left:135px;white-space:nowrap" class="ft012">(Must&#160;Have)</p>
+<p style="position:absolute;top:576px;left:213px;white-space:nowrap" class="ft026">Como&#160;usuário,&#160;quero&#160;poder&#160;ajustar&#160;<br/>manualmente&#160;a&#160;posição&#160;e&#160;escala&#160;dos&#160;móveis&#160;<br/>visualizados,&#160;para&#160;garantir&#160;que&#160;eles&#160;se&#160;encaixem&#160;<br/>perfeitamente&#160;em&#160;meu&#160;ambiente&#160;e&#160;atendam&#160;às&#160;<br/>minhas&#160;preferências&#160;estéticas.</p>
+<p style="position:absolute;top:591px;left:466px;white-space:nowrap" class="ft012">US003&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:600px;left:455px;white-space:nowrap" class="ft012">(Would&#160;Have)</p>
+<p style="position:absolute;top:576px;left:537px;white-space:nowrap" class="ft026">Como&#160;usuário,&#160;quero&#160;receber&#160;orientações&#160;contextuais&#160;<br/>durante&#160;a&#160;visualização&#160;de&#160;móveis&#160;em&#160;realidade&#160;<br/>aumentada,&#160;para&#160;aprender&#160;a&#160;utilizar&#160;todas&#160;as&#160;<br/>funcionalidades&#160;do&#160;aplicativo&#160;de&#160;forma&#160;eficaz&#160;e&#160;<br/>maximizar&#160;minha&#160;experiência&#160;de&#160;uso.</p>
+<p style="position:absolute;top:654px;left:97px;white-space:nowrap" class="ft012">Catálogo&#160;de&#160;Móveis</p>
+<p style="position:absolute;top:654px;left:418px;white-space:nowrap" class="ft012">Colaboração&#160;em&#160;Tempo&#160;Real</p>
+<p style="position:absolute;top:664px;left:97px;white-space:nowrap" class="ft011">RQF004</p>
+<p style="position:absolute;top:664px;left:213px;white-space:nowrap" class="ft011">Sincronização</p>
+<p style="position:absolute;top:664px;left:418px;white-space:nowrap" class="ft011">RQF005</p>
+<p style="position:absolute;top:664px;left:537px;white-space:nowrap" class="ft011">Sincronização</p>
+<p style="position:absolute;top:689px;left:97px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:679px;left:213px;white-space:nowrap" class="ft026">Oferecer&#160;uma&#160;ampla&#160;seleção&#160;de&#160;móveis&#160;para&#160;os&#160;<br/>usuários&#160;explorarem&#160;e&#160;selecionarem&#160;para&#160;<br/>visualização&#160;em&#160;seus&#160;ambientes.</p>
+<p style="position:absolute;top:689px;left:418px;white-space:nowrap" class="ft013">Função</p>
+<p style="position:absolute;top:679px;left:537px;white-space:nowrap" class="ft026">Permitir&#160;que&#160;múltiplos&#160;usuários&#160;colaborem&#160;e&#160;<br/>compartilhem&#160;experiências&#160;de&#160;visualização&#160;de&#160;móveis&#160;<br/>em&#160;tempo&#160;real.</p>
+<p style="position:absolute;top:733px;left:97px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:718px;left:213px;white-space:nowrap" class="ft026">O&#160;sistema&#160;apresenta&#160;uma&#160;variedade&#160;de&#160;móveis&#160;<br/>organizados&#160;em&#160;categorias,&#160;permitindo&#160;que&#160;os&#160;<br/>usuários&#160;naveguem&#160;pelo&#160;catálogo&#160;e&#160;encontrem&#160;<br/>os&#160;itens&#160;desejados.</p>
+<p style="position:absolute;top:733px;left:418px;white-space:nowrap" class="ft013">Descrição</p>
+<p style="position:absolute;top:718px;left:537px;white-space:nowrap" class="ft026">Os&#160;usuários&#160;podem&#160;convidar&#160;outros&#160;para&#160;visualizar&#160;e&#160;<br/>interagir&#160;com&#160;os&#160;móveis&#160;em&#160;seus&#160;ambientes&#160;<br/>simultaneamente,&#160;possibilitando&#160;discussões&#160;e&#160;tomada&#160;<br/>de&#160;decisões&#160;colaborativas.</p>
+<p style="position:absolute;top:772px;left:97px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:767px;left:213px;white-space:nowrap" class="ft026">Navegação&#160;e&#160;seleções&#160;dos&#160;usuários&#160;dentro&#160;do&#160;<br/>catálogo.</p>
+<p style="position:absolute;top:772px;left:418px;white-space:nowrap" class="ft013">Entradas</p>
+<p style="position:absolute;top:767px;left:537px;white-space:nowrap" class="ft026">Convites&#160;e&#160;interações&#160;dos&#160;usuários&#160;para&#160;iniciar&#160;e&#160;<br/>participar&#160;de&#160;sessões&#160;de&#160;colaboração.</p>
+<p style="position:absolute;top:802px;left:97px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:796px;left:213px;white-space:nowrap" class="ft026">Banco&#160;de&#160;dados&#160;do&#160;sistema&#160;com&#160;informações&#160;e&#160;<br/>modelos&#160;3D&#160;dos&#160;móveis&#160;disponíveis.</p>
+<p style="position:absolute;top:802px;left:418px;white-space:nowrap" class="ft013">Origem</p>
+<p style="position:absolute;top:791px;left:537px;white-space:nowrap" class="ft026">Ação&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo&#160;de&#160;realidade&#160;<br/>aumentada&#160;para&#160;iniciar&#160;ou&#160;aceitar&#160;convites&#160;de&#160;<br/>colaboração.</p>
+<p style="position:absolute;top:831px;left:97px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:825px;left:213px;white-space:nowrap" class="ft026">Exibição&#160;de&#160;informações&#160;e&#160;imagens&#160;dos&#160;móveis&#160;<br/>selecionados&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:831px;left:418px;white-space:nowrap" class="ft013">Saídas</p>
+<p style="position:absolute;top:821px;left:537px;white-space:nowrap" class="ft026">Sessões&#160;de&#160;visualização&#160;de&#160;móveis&#160;compartilhadas&#160;<br/>entre&#160;os&#160;usuários,&#160;permitindo&#160;interações&#160;em&#160;tempo&#160;<br/>real.</p>
+<p style="position:absolute;top:860px;left:97px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:855px;left:213px;white-space:nowrap" class="ft026">Dispositivos&#160;móveis&#160;dos&#160;usuários&#160;durante&#160;a&#160;<br/>navegação&#160;no&#160;catálogo.</p>
+<p style="position:absolute;top:860px;left:418px;white-space:nowrap" class="ft013">Destino</p>
+<p style="position:absolute;top:855px;left:537px;white-space:nowrap" class="ft026">Dispositivos&#160;móveis&#160;dos&#160;usuários&#160;durante&#160;a&#160;<br/>colaboração&#160;em&#160;sessões&#160;de&#160;visualização&#160;de&#160;móveis.</p>
+<p style="position:absolute;top:904px;left:97px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:884px;left:213px;white-space:nowrap" class="ft026">O&#160;sistema&#160;apresenta&#160;uma&#160;interface&#160;de&#160;catálogo&#160;<br/>onde&#160;os&#160;usuários&#160;podem&#160;explorar&#160;diferentes&#160;<br/>categorias&#160;de&#160;móveis,&#160;ver&#160;detalhes&#160;e&#160;imagens&#160;dos&#160;<br/>produtos&#160;e&#160;selecionar&#160;itens&#160;para&#160;visualização&#160;em&#160;<br/>seus&#160;ambientes.</p>
+<p style="position:absolute;top:904px;left:418px;white-space:nowrap" class="ft013">Ação</p>
+<p style="position:absolute;top:889px;left:537px;white-space:nowrap" class="ft026">O&#160;sistema&#160;estabelece&#160;uma&#160;conexão&#160;entre&#160;os&#160;<br/>dispositivos&#160;dos&#160;usuários&#160;que&#160;participam&#160;da&#160;sessão&#160;de&#160;<br/>colaboração&#160;e&#160;sincroniza&#160;as&#160;visualizações&#160;e&#160;interações&#160;<br/>com&#160;os&#160;móveis&#160;em&#160;tempo&#160;real.</p>
+<p style="position:absolute;top:953px;left:97px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:943px;left:213px;white-space:nowrap" class="ft026">Banco&#160;de&#160;dados&#160;atualizado&#160;com&#160;informações&#160;<br/>sobre&#160;os&#160;móveis&#160;disponíveis,&#160;capacidade&#160;de&#160;<br/>carregar&#160;e&#160;exibir&#160;imagens.</p>
+<p style="position:absolute;top:953px;left:418px;white-space:nowrap" class="ft013">Requer</p>
+<p style="position:absolute;top:943px;left:537px;white-space:nowrap" class="ft026">Funcionalidades&#160;de&#160;compartilhamento&#160;e&#160;sincronização&#160;<br/>de&#160;dados&#160;em&#160;tempo&#160;real,&#160;controle&#160;de&#160;acesso&#160;e&#160;<br/>privacidade.</p>
+<p style="position:absolute;top:993px;left:97px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:982px;left:213px;white-space:nowrap" class="ft026">Disponibilidade&#160;de&#160;conexão&#160;com&#160;a&#160;internet&#160;e&#160;<br/>acesso&#160;ao&#160;catálogo&#160;dentro&#160;do&#160;aplicativo&#160;de&#160;<br/>realidade&#160;aumentada.</p>
+<p style="position:absolute;top:993px;left:418px;white-space:nowrap" class="ft013">Pré-condição</p>
+<p style="position:absolute;top:982px;left:537px;white-space:nowrap" class="ft026">Dispositivos&#160;móveis&#160;dos&#160;usuários&#160;conectados&#160;à&#160;mesma&#160;<br/>rede&#160;ou&#160;com&#160;conexão&#160;à&#160;internet,&#160;convite&#160;aceito&#160;pelos&#160;<br/>usuários&#160;participantes.</p>
+<p style="position:absolute;top:1027px;left:97px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:1021px;left:213px;white-space:nowrap" class="ft026">Usuários&#160;encontram&#160;e&#160;selecionam&#160;os&#160;móveis&#160;<br/>desejados&#160;para&#160;visualização&#160;em&#160;seus&#160;ambientes.</p>
+<p style="position:absolute;top:1027px;left:418px;white-space:nowrap" class="ft013">Pós-Condição</p>
+<p style="position:absolute;top:1021px;left:537px;white-space:nowrap" class="ft026">Usuários&#160;participam&#160;de&#160;sessões&#160;de&#160;visualização&#160;de&#160;<br/>móveis&#160;colaborativas&#160;em&#160;tempo&#160;real.</p>
+<p style="position:absolute;top:1056px;left:97px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:1046px;left:213px;white-space:nowrap" class="ft026">Possíveis&#160;lentidões&#160;na&#160;navegação&#160;devido&#160;ao&#160;<br/>carregamento&#160;de&#160;imagens&#160;e&#160;informações&#160;<br/>detalhadas.</p>
+<p style="position:absolute;top:1056px;left:418px;white-space:nowrap" class="ft013">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:1051px;left:537px;white-space:nowrap" class="ft026">Possíveis&#160;atrasos&#160;na&#160;sincronização&#160;devido&#160;a&#160;diferenças&#160;<br/>de&#160;conexão&#160;ou&#160;desempenho&#160;dos&#160;dispositivos.</p>
+<p style="position:absolute;top:1085px;left:124px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:1085px;left:447px;white-space:nowrap" class="ft011">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:1126px;left:144px;white-space:nowrap" class="ft012">US004</p>
+<p style="position:absolute;top:1136px;left:132px;white-space:nowrap" class="ft012">(Should&#160;Have)</p>
+<p style="position:absolute;top:1106px;left:213px;white-space:nowrap" class="ft027">Como&#160;usuário,&#160;quero&#160;poder&#160;explorar&#160;um&#160;<br/>amplo&#160;catálogo&#160;de&#160;móveis&#160;organizados&#160;<br/>por&#160;categorias,&#160;para&#160;encontrar&#160;<br/>facilmente&#160;os&#160;itens&#160;que&#160;se&#160;encaixam&#160;no&#160;<br/>meu&#160;estilo&#160;e&#160;necessidades&#160;de&#160;design&#160;de&#160;<br/>interiores.</p>
+<p style="position:absolute;top:1126px;left:466px;white-space:nowrap" class="ft012">US005</p>
+<p style="position:absolute;top:1136px;left:457px;white-space:nowrap" class="ft012">(Could&#160;Have)</p>
+<p style="position:absolute;top:1116px;left:537px;white-space:nowrap" class="ft026">Como&#160;usuário,&#160;quero&#160;poder&#160;explorar&#160;um&#160;amplo&#160;<br/>catálogo&#160;de&#160;móveis&#160;organizados&#160;por&#160;categorias,&#160;para&#160;<br/>encontrar&#160;facilmente&#160;os&#160;itens&#160;que&#160;se&#160;encaixam&#160;no&#160;meu&#160;<br/>estilo&#160;e&#160;necessidades&#160;de&#160;design&#160;de&#160;interiores.</p>
+</div>
+<!-- Page 10 -->
+<a name="10"></a>
+<style type="text/css">
+<!--
+	p {margin: 0; padding: 0;}	.ft028{font-size:9px;font-family:CIDFont+F3;color:#000000;}
+	.ft029{font-size:10px;font-family:CIDFont+F4;color:#0d0d0d;}
+	.ft030{font-size:10px;line-height:12px;font-family:CIDFont+F4;color:#0d0d0d;}
+-->
+</style>
+<div id="page10-div" style="position:relative;width:892px;height:1262px;">
+<img width="892" height="1262" src="output010.png" alt="background image"/>
+<p style="position:absolute;top:86px;left:165px;white-space:nowrap" class="ft00">REQUISITO&#160;FUNCIONAL&#160;</p>
+<p style="position:absolute;top:98px;left:186px;white-space:nowrap" class="ft00">DETALHADO</p>
+<p style="position:absolute;top:123px;left:144px;white-space:nowrap" class="ft01">Feedback&#160;dos&#160;Usuários</p>
+<p style="position:absolute;top:110px;left:504px;white-space:nowrap" class="ft06">Suporte&#160;a&#160;Múltiplos&#160;<br/>Idiomas</p>
+<p style="position:absolute;top:136px;left:144px;white-space:nowrap" class="ft00">RQF010</p>
+<p style="position:absolute;top:136px;left:278px;white-space:nowrap" class="ft00">Sincronização</p>
+<p style="position:absolute;top:136px;left:504px;white-space:nowrap" class="ft00">RQF025</p>
+<p style="position:absolute;top:136px;left:611px;white-space:nowrap" class="ft00">Sincronização</p>
+<p style="position:absolute;top:161px;left:144px;white-space:nowrap" class="ft028">Função</p>
+<p style="position:absolute;top:148px;left:278px;white-space:nowrap" class="ft06">Permitir&#160;que&#160;os&#160;usuários&#160;forneçam&#160;feedback&#160;<br/>sobre&#160;a&#160;experiência&#160;do&#160;aplicativo&#160;e&#160;os&#160;móveis&#160;<br/>visualizados.</p>
+<p style="position:absolute;top:161px;left:504px;white-space:nowrap" class="ft028">Função</p>
+<p style="position:absolute;top:154px;left:611px;white-space:nowrap" class="ft06">Permitir&#160;que&#160;os&#160;usuários&#160;acessem&#160;o&#160;<br/>aplicativo&#160;em&#160;diferentes&#160;idiomas.</p>
+<p style="position:absolute;top:197px;left:144px;white-space:nowrap" class="ft028">Descrição</p>
+<p style="position:absolute;top:184px;left:278px;white-space:nowrap" class="ft06">Os&#160;usuários&#160;podem&#160;compartilhar&#160;opiniões,&#160;<br/>avaliações&#160;e&#160;sugestões&#160;para&#160;melhorar&#160;o&#160;<br/>aplicativo&#160;e&#160;a&#160;seleção&#160;de&#160;móveis.</p>
+<p style="position:absolute;top:197px;left:504px;white-space:nowrap" class="ft028">Descrição</p>
+<p style="position:absolute;top:184px;left:611px;white-space:nowrap" class="ft06">O&#160;aplicativo&#160;oferece&#160;suporte&#160;a&#160;múltiplos&#160;<br/>idiomas&#160;para&#160;garantir&#160;uma&#160;experiência&#160;<br/>inclusiva&#160;para&#160;usuários&#160;globais.</p>
+<p style="position:absolute;top:228px;left:144px;white-space:nowrap" class="ft028">Entradas</p>
+<p style="position:absolute;top:221px;left:278px;white-space:nowrap" class="ft06">Comentários,&#160;classificações,&#160;sugestões&#160;dos&#160;<br/>usuários.</p>
+<p style="position:absolute;top:228px;left:504px;white-space:nowrap" class="ft028">Entradas</p>
+<p style="position:absolute;top:227px;left:611px;white-space:nowrap" class="ft01">Preferência&#160;de&#160;idioma&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:252px;left:144px;white-space:nowrap" class="ft028">Origem</p>
+<p style="position:absolute;top:245px;left:278px;white-space:nowrap" class="ft06">Interação&#160;direta&#160;dos&#160;usuários&#160;dentro&#160;do&#160;<br/>aplicativo.</p>
+<p style="position:absolute;top:252px;left:504px;white-space:nowrap" class="ft028">Origem</p>
+<p style="position:absolute;top:245px;left:611px;white-space:nowrap" class="ft06">Configurações&#160;do&#160;aplicativo&#160;e&#160;preferências&#160;<br/>dos&#160;usuários.</p>
+<p style="position:absolute;top:277px;left:144px;white-space:nowrap" class="ft028">Saídas</p>
+<p style="position:absolute;top:270px;left:278px;white-space:nowrap" class="ft06">Dados&#160;de&#160;feedback&#160;coletados&#160;e&#160;processados&#160;<br/>pelo&#160;sistema.</p>
+<p style="position:absolute;top:277px;left:504px;white-space:nowrap" class="ft028">Saídas</p>
+<p style="position:absolute;top:270px;left:611px;white-space:nowrap" class="ft06">Interface&#160;do&#160;aplicativo&#160;exibida&#160;no&#160;idioma&#160;<br/>selecionado.</p>
+<p style="position:absolute;top:301px;left:144px;white-space:nowrap" class="ft028">Destino</p>
+<p style="position:absolute;top:294px;left:278px;white-space:nowrap" class="ft06">Banco&#160;de&#160;dados&#160;do&#160;sistema&#160;e&#160;equipe&#160;de&#160;<br/>desenvolvimento.</p>
+<p style="position:absolute;top:301px;left:504px;white-space:nowrap" class="ft028">Destino</p>
+<p style="position:absolute;top:301px;left:611px;white-space:nowrap" class="ft01">Dispositivos&#160;móveis&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:338px;left:144px;white-space:nowrap" class="ft028">Ação</p>
+<p style="position:absolute;top:325px;left:278px;white-space:nowrap" class="ft06">O&#160;sistema&#160;coleta&#160;e&#160;registra&#160;o&#160;feedback&#160;dos&#160;<br/>usuários&#160;por&#160;meio&#160;de&#160;formulários,&#160;avaliações&#160;<br/>de&#160;estrelas,&#160;ou&#160;outras&#160;formas&#160;de&#160;interação.</p>
+<p style="position:absolute;top:338px;left:504px;white-space:nowrap" class="ft028">Ação</p>
+<p style="position:absolute;top:325px;left:611px;white-space:nowrap" class="ft06">O&#160;sistema&#160;exibe&#160;o&#160;conteúdo&#160;do&#160;aplicativo,&#160;<br/>como&#160;menus&#160;e&#160;textos,&#160;no&#160;idioma&#160;<br/>selecionado&#160;pelo&#160;usuário.</p>
+<p style="position:absolute;top:380px;left:144px;white-space:nowrap" class="ft028">Requer</p>
+<p style="position:absolute;top:374px;left:278px;white-space:nowrap" class="ft06">Interação&#160;direta&#160;dos&#160;usuários&#160;e&#160;funcionalidades&#160;<br/>de&#160;registro&#160;de&#160;dados.</p>
+<p style="position:absolute;top:380px;left:504px;white-space:nowrap" class="ft028">Requer</p>
+<p style="position:absolute;top:374px;left:611px;white-space:nowrap" class="ft06">Tradução&#160;de&#160;conteúdo,&#160;suporte&#160;técnico&#160;para&#160;<br/>implementação&#160;de&#160;idiomas&#160;adicionais.</p>
+<p style="position:absolute;top:411px;left:144px;white-space:nowrap" class="ft028">Pré-condição</p>
+<p style="position:absolute;top:404px;left:278px;white-space:nowrap" class="ft06">Usuários&#160;logados&#160;no&#160;aplicativo&#160;e&#160;<br/>disponibilidade&#160;de&#160;ferramentas&#160;de&#160;feedback.</p>
+<p style="position:absolute;top:411px;left:504px;white-space:nowrap" class="ft028">Pré-condição</p>
+<p style="position:absolute;top:404px;left:611px;white-space:nowrap" class="ft06">Disponibilidade&#160;de&#160;traduções&#160;e&#160;seleção&#160;de&#160;<br/>idioma&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:441px;left:144px;white-space:nowrap" class="ft028">Pós-Condição</p>
+<p style="position:absolute;top:429px;left:278px;white-space:nowrap" class="ft06">Feedback&#160;dos&#160;usuários&#160;é&#160;registrado&#160;e&#160;<br/>disponível&#160;para&#160;análise&#160;e&#160;implementação&#160;de&#160;<br/>melhorias.</p>
+<p style="position:absolute;top:441px;left:504px;white-space:nowrap" class="ft028">Pós-Condição</p>
+<p style="position:absolute;top:435px;left:611px;white-space:nowrap" class="ft06">Interface&#160;do&#160;aplicativo&#160;é&#160;exibida&#160;no&#160;idioma&#160;<br/>selecionado&#160;pelo&#160;usuário.</p>
+<p style="position:absolute;top:484px;left:144px;white-space:nowrap" class="ft028">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:477px;left:278px;white-space:nowrap" class="ft06">Possíveis&#160;sobrecargas&#160;de&#160;dados,&#160;necessidade&#160;<br/>de&#160;filtragem&#160;e&#160;análise&#160;do&#160;feedback&#160;recebido.</p>
+<p style="position:absolute;top:484px;left:504px;white-space:nowrap" class="ft028">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:471px;left:611px;white-space:nowrap" class="ft06">Possíveis&#160;discrepâncias&#160;na&#160;tradução&#160;e&#160;<br/>necessidade&#160;de&#160;atualizações&#160;contínuas&#160;<br/>conforme&#160;novos&#160;idiomas&#160;são&#160;adicionados.</p>
+<p style="position:absolute;top:526px;left:173px;white-space:nowrap" class="ft00">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:526px;left:519px;white-space:nowrap" class="ft00">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:557px;left:197px;white-space:nowrap" class="ft01">US010&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:569px;left:195px;white-space:nowrap" class="ft01">(MUST)</p>
+<p style="position:absolute;top:538px;left:278px;white-space:nowrap" class="ft06">Como&#160;usuário,&#160;quero&#160;fornecer&#160;feedback&#160;sobre&#160;<br/>a&#160;experiência&#160;do&#160;aplicativo&#160;e&#160;os&#160;móveis&#160;<br/>visualizados,&#160;para&#160;contribuir&#160;para&#160;melhorias&#160;<br/>contínuas&#160;e&#160;oferecer&#160;sugestões&#160;para&#160;aprimorar&#160;<br/>a&#160;plataforma.</p>
+<p style="position:absolute;top:557px;left:544px;white-space:nowrap" class="ft01">US025&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<p style="position:absolute;top:569px;left:542px;white-space:nowrap" class="ft01">(MUST)</p>
+<p style="position:absolute;top:544px;left:611px;white-space:nowrap" class="ft06">Como&#160;usuário,&#160;quero&#160;acessar&#160;o&#160;aplicativo&#160;<br/>em&#160;diferentes&#160;idiomas,&#160;para&#160;garantir&#160;uma&#160;<br/>experiência&#160;inclusiva&#160;e&#160;compreensível,&#160;<br/>independentemente&#160;da&#160;minha&#160;língua&#160;nativa.</p>
+<p style="position:absolute;top:623px;left:144px;white-space:nowrap" class="ft06">Visualização&#160;de&#160;Móveis&#160;em&#160;<br/>Catálogo</p>
+<p style="position:absolute;top:623px;left:504px;white-space:nowrap" class="ft06">Visualização&#160;de&#160;Móveis&#160;em&#160;<br/>Tempo&#160;Real</p>
+<p style="position:absolute;top:648px;left:144px;white-space:nowrap" class="ft00">RQF026</p>
+<p style="position:absolute;top:648px;left:278px;white-space:nowrap" class="ft00">Sincronização</p>
+<p style="position:absolute;top:648px;left:504px;white-space:nowrap" class="ft00">RQF027</p>
+<p style="position:absolute;top:648px;left:611px;white-space:nowrap" class="ft00">Sincronização</p>
+<p style="position:absolute;top:673px;left:144px;white-space:nowrap" class="ft028">Função</p>
+<p style="position:absolute;top:661px;left:278px;white-space:nowrap" class="ft06">Permitir&#160;que&#160;os&#160;usuários&#160;naveguem&#160;e&#160;<br/>visualizem&#160;uma&#160;seleção&#160;de&#160;móveis&#160;disponíveis&#160;<br/>no&#160;catálogo.</p>
+<p style="position:absolute;top:673px;left:504px;white-space:nowrap" class="ft028">Função</p>
+<p style="position:absolute;top:661px;left:611px;white-space:nowrap" class="ft06">Permitir&#160;que&#160;os&#160;usuários&#160;visualizem&#160;<br/>virtualmente&#160;móveis&#160;em&#160;seu&#160;ambiente&#160;real&#160;<br/>usando&#160;a&#160;câmera&#160;do&#160;dispositivo.</p>
+<p style="position:absolute;top:722px;left:144px;white-space:nowrap" class="ft028">Descrição</p>
+<p style="position:absolute;top:709px;left:278px;white-space:nowrap" class="ft06">Os&#160;usuários&#160;podem&#160;explorar&#160;diferentes&#160;<br/>categorias&#160;de&#160;móveis,&#160;ver&#160;detalhes&#160;e&#160;imagens&#160;<br/>dos&#160;produtos.</p>
+<p style="position:absolute;top:722px;left:504px;white-space:nowrap" class="ft028">Descrição</p>
+<p style="position:absolute;top:697px;left:611px;white-space:nowrap" class="ft06">Os&#160;usuários&#160;podem&#160;sobrepor&#160;modelos&#160;3D&#160;de&#160;<br/>móveis&#160;em&#160;seu&#160;ambiente&#160;real&#160;através&#160;da&#160;<br/>câmera&#160;do&#160;dispositivo,&#160;permitindo&#160;que&#160;<br/>visualizem&#160;como&#160;os&#160;móveis&#160;ficariam&#160;em&#160;<br/>seus&#160;espaços&#160;antes&#160;de&#160;fazer&#160;uma&#160;compra.</p>
+<p style="position:absolute;top:771px;left:144px;white-space:nowrap" class="ft028">Entradas</p>
+<p style="position:absolute;top:764px;left:278px;white-space:nowrap" class="ft06">Navegação&#160;e&#160;seleção&#160;dos&#160;usuários&#160;dentro&#160;do&#160;<br/>catálogo.</p>
+<p style="position:absolute;top:771px;left:504px;white-space:nowrap" class="ft028">Entradas</p>
+<p style="position:absolute;top:758px;left:611px;white-space:nowrap" class="ft06">Imagem&#160;capturada&#160;pela&#160;câmera&#160;do&#160;<br/>dispositivo,&#160;modelo&#160;3D&#160;do&#160;móvel&#160;<br/>selecionado.</p>
+<p style="position:absolute;top:802px;left:144px;white-space:nowrap" class="ft028">Origem</p>
+<p style="position:absolute;top:795px;left:278px;white-space:nowrap" class="ft06">Banco&#160;de&#160;dados&#160;do&#160;sistema&#160;com&#160;informações&#160;<br/>sobre&#160;os&#160;móveis&#160;disponíveis.</p>
+<p style="position:absolute;top:802px;left:504px;white-space:nowrap" class="ft028">Origem</p>
+<p style="position:absolute;top:801px;left:611px;white-space:nowrap" class="ft01">Ação&#160;dos&#160;usuários&#160;dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:826px;left:144px;white-space:nowrap" class="ft028">Saídas</p>
+<p style="position:absolute;top:819px;left:278px;white-space:nowrap" class="ft06">Exibição&#160;de&#160;informações&#160;e&#160;imagens&#160;dos&#160;móveis&#160;<br/>selecionados&#160;pelos&#160;usuários.</p>
+<p style="position:absolute;top:826px;left:504px;white-space:nowrap" class="ft028">Saídas</p>
+<p style="position:absolute;top:819px;left:611px;white-space:nowrap" class="ft06">Imagem&#160;composta&#160;mostrando&#160;o&#160;móvel&#160;<br/>sobreposto&#160;no&#160;ambiente&#160;real.</p>
+<p style="position:absolute;top:844px;left:144px;white-space:nowrap" class="ft028">Destino</p>
+<p style="position:absolute;top:844px;left:278px;white-space:nowrap" class="ft01">Dispositivos&#160;móveis&#160;dos&#160;usuários.</p>
+<p style="position:absolute;top:844px;left:504px;white-space:nowrap" class="ft028">Destino</p>
+<p style="position:absolute;top:844px;left:611px;white-space:nowrap" class="ft01">Tela&#160;do&#160;dispositivo&#160;móvel&#160;do&#160;usuário.</p>
+<p style="position:absolute;top:875px;left:144px;white-space:nowrap" class="ft028">Ação</p>
+<p style="position:absolute;top:856px;left:278px;white-space:nowrap" class="ft06">O&#160;sistema&#160;exibe&#160;uma&#160;variedade&#160;de&#160;móveis&#160;<br/>organizados&#160;em&#160;categorias&#160;no&#160;catálogo,&#160;<br/>permitindo&#160;que&#160;os&#160;usuários&#160;naveguem&#160;e&#160;<br/>visualizem&#160;os&#160;detalhes&#160;de&#160;cada&#160;item.</p>
+<p style="position:absolute;top:875px;left:504px;white-space:nowrap" class="ft028">Ação</p>
+<p style="position:absolute;top:868px;left:611px;white-space:nowrap" class="ft06">Sobrepor&#160;o&#160;modelo&#160;3D&#160;do&#160;móvel&#160;na&#160;imagem&#160;<br/>capturada&#160;pela&#160;câmera.</p>
+<p style="position:absolute;top:917px;left:144px;white-space:nowrap" class="ft028">Requer</p>
+<p style="position:absolute;top:905px;left:278px;white-space:nowrap" class="ft06">Banco&#160;de&#160;dados&#160;atualizado&#160;com&#160;informações&#160;<br/>sobre&#160;os&#160;móveis&#160;disponíveis,&#160;capacidade&#160;de&#160;<br/>carregar&#160;e&#160;exibir&#160;imagens.</p>
+<p style="position:absolute;top:917px;left:504px;white-space:nowrap" class="ft028">Requer</p>
+<p style="position:absolute;top:911px;left:611px;white-space:nowrap" class="ft06">Conexão&#160;com&#160;a&#160;internet,&#160;câmera&#160;<br/>funcionando&#160;corretamente.</p>
+<p style="position:absolute;top:960px;left:144px;white-space:nowrap" class="ft028">Pré-condição</p>
+<p style="position:absolute;top:953px;left:278px;white-space:nowrap" class="ft06">Disponibilidade&#160;de&#160;conexão&#160;com&#160;a&#160;internet&#160;e&#160;<br/>acesso&#160;ao&#160;catálogo&#160;dentro&#160;do&#160;aplicativo.</p>
+<p style="position:absolute;top:960px;left:504px;white-space:nowrap" class="ft028">Pré-condição</p>
+<p style="position:absolute;top:947px;left:611px;white-space:nowrap" class="ft06">Aplicativo&#160;de&#160;realidade&#160;aumentada&#160;aberto,&#160;<br/>usuário&#160;apontando&#160;a&#160;câmera&#160;para&#160;o&#160;<br/>ambiente&#160;onde&#160;deseja&#160;visualizar&#160;o&#160;móvel.</p>
+<p style="position:absolute;top:997px;left:144px;white-space:nowrap" class="ft028">Pós-Condição</p>
+<p style="position:absolute;top:990px;left:278px;white-space:nowrap" class="ft06">Usuários&#160;podem&#160;visualizar&#160;informações&#160;<br/>detalhadas&#160;sobre&#160;os&#160;móveis&#160;no&#160;catálogo.</p>
+<p style="position:absolute;top:997px;left:504px;white-space:nowrap" class="ft028">Pós-Condição</p>
+<p style="position:absolute;top:990px;left:611px;white-space:nowrap" class="ft06">Usuário&#160;visualiza&#160;o&#160;móvel&#160;sobreposto&#160;no&#160;<br/>ambiente&#160;real.</p>
+<p style="position:absolute;top:1027px;left:144px;white-space:nowrap" class="ft028">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:1015px;left:278px;white-space:nowrap" class="ft06">Possíveis&#160;lentidões&#160;na&#160;navegação&#160;devido&#160;ao&#160;<br/>carregamento&#160;de&#160;imagens&#160;e&#160;informações&#160;<br/>detalhadas.</p>
+<p style="position:absolute;top:1027px;left:504px;white-space:nowrap" class="ft028">Efeitos&#160;Colaterais</p>
+<p style="position:absolute;top:1015px;left:611px;white-space:nowrap" class="ft06">Possíveis&#160;atrasos&#160;na&#160;renderização,&#160;consumo&#160;<br/>de&#160;bateria&#160;mais&#160;rápido&#160;devido&#160;ao&#160;uso&#160;<br/>prolongado&#160;da&#160;câmera.</p>
+<p style="position:absolute;top:1063px;left:173px;white-space:nowrap" class="ft00">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:1063px;left:519px;white-space:nowrap" class="ft00">História&#160;de&#160;Usuário</p>
+<p style="position:absolute;top:1108px;left:197px;white-space:nowrap" class="ft01">US026</p>
+<p style="position:absolute;top:1120px;left:195px;white-space:nowrap" class="ft01">(MUST)</p>
+<p style="position:absolute;top:1083px;left:278px;white-space:nowrap" class="ft030">Como&#160;usuário,&#160;quero&#160;navegar&#160;e&#160;<br/>visualizar&#160;uma&#160;variedade&#160;de&#160;móveis&#160;<br/>disponíveis&#160;no&#160;catálogo,&#160;para&#160;explorar&#160;<br/>diferentes&#160;opções&#160;e&#160;encontrar&#160;os&#160;itens&#160;<br/>que&#160;melhor&#160;atendam&#160;às&#160;minhas&#160;<br/>necessidades&#160;de&#160;design&#160;e&#160;estilo.</p>
+<p style="position:absolute;top:1108px;left:544px;white-space:nowrap" class="ft01">US027</p>
+<p style="position:absolute;top:1120px;left:542px;white-space:nowrap" class="ft01">(MUST)</p>
+<p style="position:absolute;top:1083px;left:611px;white-space:nowrap" class="ft06">Como&#160;usuário,&#160;quero&#160;visualizar&#160;virtualmente&#160;<br/>móveis&#160;em&#160;meu&#160;ambiente&#160;real&#160;usando&#160;a&#160;<br/>câmera&#160;do&#160;dispositivo,&#160;para&#160;ter&#160;uma&#160;ideia&#160;de&#160;<br/>como&#160;os&#160;móveis&#160;ficariam&#160;em&#160;meus&#160;espaços&#160;<br/>antes&#160;de&#160;fazer&#160;uma&#160;compra&#160;e&#160;tomar&#160;<br/>decisões&#160;mais&#160;informadas&#160;de&#160;design.</p>
+</div>
+</body>
+</html>
